@@ -192,116 +192,73 @@
         
 #  Office
     
-    Desk [Venice studio wood table](https://www.cb2.com/venice-studio-wood-table-desk/s341065) 
+[Venice studio wood table](https://www.cb2.com/venice-studio-wood-table-desk/s341065) 
     
-    - Razer Blade 16
+[Razer Blade 16](https://www.razer.com/gaming-laptops/razer-blade-16)
         
-        [Dual-Mode Display Gaming Laptop - RAZER BLADE 16 Laptop | Razer United States](https://www.razer.com/gaming-laptops/razer-blade-16)
+[LG Z3 77'](https://www.lg.com/se/tv/lg-oled77z39la)
         
-    - LG Z3 77”
+[GHeavy GergoPlex](https://www.gboards.ca/product/gergoplex)
         
-        [LG 77'' OLED evo Z3 - 8K TV (2023)](https://www.lg.com/se/tv/lg-oled77z39la)
+[Logitech G Pro X Superlight](https://www.logitechg.com/sv-se/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005881.html)
         
-    - GHeavy Gergoplex
+[Steelseries QcK Small](https://steelseries.com/gaming-mousepads/qck-series?size=s)
         
-        [GergoPlex](https://www.gboards.ca/product/gergoplex)
+[Herman Miller Eodmby](https://www.hermanmiller.com/en_lac/products/seating/office-chairs/embody-chairs/)
         
-    - Logitech Pro X Superlight
-        
-        [Logitech G Pro X Superlight - trådlös spelmus](https://www.logitechg.com/sv-se/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005881.html)
-        
-    - Steelseries QcK Small
-        
-        [QcK Series](https://steelseries.com/gaming-mousepads/qck-series?size=s)
-        
-    - Herman Miller Embody
-        
-        [Embody Chairs](https://www.hermanmiller.com/en_lac/products/seating/office-chairs/embody-chairs/)
-        
-- **Hobbies**
-    - **Music**
-        - Picks
-            - Dunlop Tortex 1.14
+# Hobbies
+
+## Music
+
+### Picks
+
+[Dunlop Tortex 1.14](https://www.jimdunlop.com/tortex-standard-pick-1-14mm/)
                 
-                [TORTEX® STANDARD PICK 1.14MM](https://www.jimdunlop.com/tortex-standard-pick-1-14mm/)
+[Dunlop Tortex 0.60](https://www.jimdunlop.com/tortex-standard-pick-60mm/)
                 
-            - Dunlop Tortex 0.60
+[Dunlop Jazz III](https://www.jimdunlop.com/jazz-iii-nylon-pick/)
                 
-                [TORTEX® STANDARD PICK .60MM](https://www.jimdunlop.com/tortex-standard-pick-60mm/)
+### Acoustic Guitars
+
+[Martin OM-42](https://www.martinguitar.com/guitars/all-guitars/OM-42.html?cgid=all-guitars)
                 
-            - Dunlop Jazz III
-                
-                [JAZZ III NYLON PICK](https://www.jimdunlop.com/jazz-iii-nylon-pick/)
-                
-        - Acoustic Guitars
-            - Martin OM-42
-                
-                [OM-42 | Standard Series | Martin Guitar](https://www.martinguitar.com/guitars/all-guitars/OM-42.html?cgid=all-guitars)
-                
-        - Electric Guitar
-            - Electric Guitars
-                - 1960 Fender Stratocaster
+### Electric Guitar
+
+#### Electric Guitars
+
+##### [1960 Fender Stratocaster Serial # 49005](https://www.premierguitar.com/articles/1960-fender-stratocaster-serial-49005-1)
                     
-                    [1960 Fender Stratocaster Serial # 49005](https://www.premierguitar.com/articles/1960-fender-stratocaster-serial-49005-1)
+[King Tone Bluebird J1 Pickups](https://www.kingtoneguitar.com/product/bluebird-j1-guitar-pickups/)
+                        
+[King Tone Switch (Classic)](https://www.kingtoneguitar.com/product/king-tone-switch/)
+                        
+[Fender Locking Tuners](https://shop.fender.com/en-SE/parts/stratocaster-parts/locking-stratocastertelecaster-tuning-machines/0990818000.html)
+                        
+[Dunlop StrapLok Dual Design](https://www.jimdunlop.com/straplok-strap-retainers-dual-design-vintage-nickel/?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=)
+                        
+[Dunlop PENDLETON® X DUNLOP ORIGINAL SURF PLAID WOOLEN AUTHENTICS™ STRAP](https://www.jimdunlop.com/pendleton-x-dunlop-original-surf-plaid-woolen-authentics-strap/)
+                        
+[Ernie Ball 10-48 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02227)
+                        
+##### [Strandberg Boden Original 6 Neck-Thru](https://strandbergguitars.com/eu/product/boden-original-6-neck-thru-brown-burst/)
                     
-                    - King Tone Bluebird J1 Pickups
+[Ernie Ball Slinky 10.5-52 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02211)
                         
-                        [Bluebird J1 Guitar Pickups](https://www.kingtoneguitar.com/product/bluebird-j1-guitar-pickups/)
+[Fralin Modern PAF Neck](https://www.fralinpickups.com/product/modern-paf/)
                         
-                    - King Tone Switch
+[BareKnuckle Silo Bridge](https://www.bareknucklepickups.co.uk/pickup/humbucker/silo)
                         
-                        [King Tone Switch (Classic)](https://www.kingtoneguitar.com/product/king-tone-switch/)
+[Dunlop DELUXE SEATBELT BLACK STRAP](https://www.jimdunlop.com/32700102001-deluxe-seatbelt-strap/)
                         
-                    - Fender Locking Tuners
-                        
-                        [Locking Stratocaster®/Telecaster® Tuning Machines](https://shop.fender.com/en-SE/parts/stratocaster-parts/locking-stratocastertelecaster-tuning-machines/0990818000.html)
-                        
-                    - Dunlop StrapLok Dual Design
-                        
-                        [STRAPLOK® STRAP RETAINERS DUAL DESIGN - VINTAGE NICKEL](https://www.jimdunlop.com/straplok-strap-retainers-dual-design-vintage-nickel/?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=)
-                        
-                    - Dunlop Strap
-                        
-                        [PENDLETON® X DUNLOP ORIGINAL SURF PLAID WOOLEN AUTHENTICS™ STRAP](https://www.jimdunlop.com/pendleton-x-dunlop-original-surf-plaid-woolen-authentics-strap/)
-                        
-                    - Ernie Ball 10-48
-                        
-                        [Slinky Nickel Wound Electric Guitar 6 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02227)
-                        
-                - Strandberg Boden Original 6 Neck-Thru
+##### [PRS Private Stock Super Eagle II](https://prsguitars.com/electrics/model/private_stock_super_eagle_ii)
                     
-                    [Boden Original 6 Neck-Thru Brown Burst - .strandberg* Guitars Europe](https://strandbergguitars.com/eu/product/boden-original-6-neck-thru-brown-burst/)
+#### Pedalboard
+
+[The GigRig G3](https://www.thegigrig.com/g3)
                     
-                    - Ernie Ball Slinky 10.5-52
-                        
-                        [Slinky Nickel Wound Electric Guitar 6 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02211)
-                        
-                    - Fralin Modern PAF Neck
-                        
-                        [Modern P.A.F. by Lindy Fralin - Thicker, Beefier Vintage P.A.F. Tone](https://www.fralinpickups.com/product/modern-paf/)
-                        
-                    - BareKnuckle Silo Bridge
-                        
-                        [Silo humbucker](https://www.bareknucklepickups.co.uk/pickup/humbucker/silo)
-                        
-                    - Dunlop Seatbelt Strap
-                        
-                        [DELUXE SEATBELT BLACK STRAP](https://www.jimdunlop.com/32700102001-deluxe-seatbelt-strap/)
-                        
-                - PRS Super Eagle II
+[TC Electronic Polytune](https://www.tcelectronic.com/product.html?modelCode=P0CM0)
                     
-                    [Private Stock Super Eagle II](https://prsguitars.com/electrics/model/private_stock_super_eagle_ii)
-                    
-            - Pedalboard
-                - GigRig G3
-                    
-                    [The GigRig | G3 Effects Pedal Switching System](https://www.thegigrig.com/g3)
-                    
-                - TC Electronics Polytune 3
-                    
-                    [TC Electronic | Product | POLYTUNE 3](https://www.tcelectronic.com/product.html?modelCode=P0CM0)
-                    
-                - Dry Pedals
+##### Dry Pedals
                     - Nordvang ‘83 Drive v2.0
                         
                         ['83 Drive v2.0](https://nordvangcustom.com/collections/trio/products/83-drive-v2-0-pre-order)
@@ -318,7 +275,7 @@
                         
                         [Preamp MKII — Chase Bliss](https://www.chasebliss.com/preamp-mkii)
                         
-                - Wet Pedals
+##### Wet Pedals
                     - Poly Effects Beebo
                         
                         [Beebo — Poly Effects](https://www.polyeffects.com/polyeffects/p/beebo)
@@ -331,7 +288,7 @@
                         
                         [Cloudburst Ambient Reverb - Strymon](https://www.strymon.net/product/cloudburst/)
                         
-            - Amps
+#### Amps
                 - Two Rock Traditional Clean
                     
                     [Traditional Clean](https://www.two-rock.com/traditional-clean/)
@@ -356,7 +313,7 @@
                     
                     [VX100 The Super Kraken](https://www.victoryamps.com/product/vx100-the-super-kraken/)
                     
-        - Bass Guitar
+### Bass Guitar
             - Fender Custom Shop 63 P Bass
                 
                 ['63 P Bass® Journeyman Relic®](http://www.fendercustomshop.com/basses/precision-bass/63-p-bass-journeyman-relic-rosewood-fingerboard-aged-3-color-sunburst/)
@@ -372,12 +329,12 @@
             
             Direct Box [Acme Audio Motown D.I.](https://acmeaudio.net/#motowndi) 
             
-        - Keyboard
+### Keyboard
             - Korg Pa5X
                 
                 [Pa5X - PROFESSIONAL ARRANGER | KORG (USA)](https://www.korg.com/us/products/synthesizers/pa5x/)
                 
-    - **Skiing**
+## Skiing
         - Classic
             - Fischer Speedmax 3D Double Poling Sprint
                 
@@ -611,19 +568,12 @@
             
             [Skwama](https://www.lasportiva.com/en/skwama-black-10sby)
             
-- **Garage**
-    - Volvo V90
+# Garage
+
+[Volvo V90](https://www.volvocars.com/se/cars/v90-hybrid/)
         
-        [](https://www.volvocars.com/se/cars/v90-hybrid/)
+[BRABUS 800 4x4² Stealth Green](https://www.brabus.com/en/cars/supercars/brabus-800-4x4-sg.html)
         
-    - Brabus 800 4x4² Stealth Green
+[Automobilii Pininfarina Battista](https://automobili-pininfarina.com/battista)
         
-        [BRABUS 800 4x4² Stealth Green](https://www.brabus.com/en/cars/supercars/brabus-800-4x4-sg.html)
-        
-    - Automobilii Pininfarina Battista
-        
-        [Battista: sustainable and powerful Italian sport car | Pininfarina](https://automobili-pininfarina.com/battista)
-        
-    - Koenigsegg CC850
-        
-        [](https://www.koenigsegg.com/model/cc850)
+[Koenigsegg CC850](https://www.koenigsegg.com/model/cc850)
