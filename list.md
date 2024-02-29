@@ -1,69 +1,49 @@
-- **EDC**
-    - Asus Zenfone 10
+## EDC
+
+[ASUS Zenfone 10](https://www.asus.com/se/mobile-handhelds/phones/zenfone/zenfone-10/)
         
-        [Zenfone 10](https://www.asus.com/se/mobile-handhelds/phones/zenfone/zenfone-10/)
+[Cappla Wallet Midnight Black](https://cappla.com/collections/wallets/products/midnight-black)
+   
+[Orbitkey Key Organiser Active](https://www.orbitkey.com/collections/key-organiser/products/orbitkey-2-0-active?variant=8198980993120)
         
-    - Cappla Wallet
+[Richard Mille 67-02](https://www.richardmille.com/collections/rm-67-02-automatic-extra-flat)
         
-        [Midnight Black](https://cappla.com/collections/wallets/products/midnight-black)
+[Garmin Tactix 7 Pro](https://www.garmin.com/sv-SE/p/802703/pn/010-02704-11)
         
-    - Orbitkey Key Organizer
+[Sony WF-1000XM4](https://www.sony.se/electronics/truly-wireless/wf-1000xm4)
         
-        [Key Organiser Active](https://www.orbitkey.com/collections/key-organiser/products/orbitkey-2-0-active?variant=8198980993120)
+2 [Spce Pen Bullet 400B](https://www.spacepen.com/400B.aspx)
         
-    - Richard Mille 67-02
-        
-        [RM 67-02 : Watch Automatic Winding Extra Flat | RICHARD MILLE ⋅ RICHARD MILLE | Automatic Winding Extra Flat](https://www.richardmille.com/collections/rm-67-02-automatic-extra-flat)
-        
-    - Garmin Tactix 7 Pro
-        
-        [Garmin tactix® 7 - Pro Edition | Taktisk klocka med GPS](https://www.garmin.com/sv-SE/p/802703/pn/010-02704-11)
-        
-    - Sony WF-1000XM4
-        
-        [Sony WF-1000XM4 trådlösa brusreducerande hörlurar](https://www.sony.se/electronics/truly-wireless/wf-1000xm4)
-        
-    - 2 Space Pen Bullet
-        
-        [400B - Matte Black Bullet Space Pen](https://www.spacepen.com/400B.aspx)
-        
-    - Tool-Kit
-        - Victorinox Bantam Alox
+### Tool-Kit
+
+[Victorinox Bantam Alox](https://www.victorinox.com/us/en/Products/Swiss-Army-Knives/Medium-Pocket-Knives/Bantam-Alox/p/0.2300.26)
             
-            [Bantam Alox](https://www.victorinox.com/us/en/Products/Swiss-Army-Knives/Medium-Pocket-Knives/Bantam-Alox/p/0.2300.26)
+[Prestacycle T-Handle Ratchet - Ratchet Tool only](https://www.prestacycle.com/product/prestacycle-t-handle-ratchet-ratchet-tool-only/)
             
-        - Prestacycle T-Handle Ratchet
+#### Bits
             
-            [Prestacycle T-Handle Ratchet - Ratchet Tool only - Prestacycle](https://www.prestacycle.com/product/prestacycle-t-handle-ratchet-ratchet-tool-only/)
+##### From Leatherman Bit Kit Set:
             
-        - Bits
+- Torx #6 & #8
+- Torx #10 & #15
+- Hex 1.5mm & 2mm
+- Hex 2.5mm & 3mm
+- Hex 4mm & 5mm
+- Phillips #0 & #3
             
-            From Leatherman Bit Kit Set:
+[Leatherman Bit Kit Set](https://www.leatherman.com/bit-kit-set-127.html)
             
-            - Torx #6 & #8
-            - Torx #10 & #15
-            - Hex 1.5mm & 2mm
-            - Hex 2.5mm & 3mm
-            - Hex 4mm & 5mm
-            - Phillips #0 & #3
+##### From Bacho:
+
+- PH1
             
-            [Bit Kit Set](https://www.leatherman.com/bit-kit-set-127.html)
+[1/4" Stainless Steel Bit Set for Phillips PH1 Head Screws - 10 Pcs](https://www.bahco.com/int_en/1-4--stainless-steel-bit-set-for-phillips-ph1-head-screws---10-pcs-65i-ph1.html)
             
-            From Bacho:
+[KNIPEX Cobra XS](https://www.knipex.com/products/pipe-wrenches-and-water-pump-pliers/knipex-cobra-xs/knipex-cobra-xs/8700100)
             
-            - PH1
+Scissors and Tweezers
             
-            [1/4" Stainless Steel Bit Set for Phillips PH1 Head Screws - 10 Pcs](https://www.bahco.com/int_en/1-4--stainless-steel-bit-set-for-phillips-ph1-head-screws---10-pcs-65i-ph1.html)
-            
-        - Knipex Cobra XS
-            
-            [KNIPEX Cobra® XS](https://www.knipex.com/products/pipe-wrenches-and-water-pump-pliers/knipex-cobra-xs/knipex-cobra-xs/8700100)
-            
-        - Scissors and Tweezers
-            
-            From Victorinox Swiss Card Lite
-            
-            [Swiss Card Lite](https://www.victorinox.com/global/en/Products/Swiss-Army-Knives/Swiss-Cards/Swiss-Card-Lite/p/0.7300.T)
+[Victorinox Swiss Card Lite](https://www.victorinox.com/global/en/Products/Swiss-Army-Knives/Swiss-Cards/Swiss-Card-Lite/p/0.7300.T)
             
 - **Wardrobe**
     - Bags
