@@ -1,6 +1,6 @@
 # Office
 
-[Venice studio wood table](https://www.cb2.com/venice-studio-wood-table-desk/s341065) 
+[Venice studio wood table](https://www.cb2.com/venice-studio-wood-table-desk/s341065)
 
 [Razer Blade 16](https://www.razer.com/gaming-laptops/razer-blade-16)
 
