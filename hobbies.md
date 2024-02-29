@@ -107,72 +107,52 @@
 [Korg Pa5X](https://www.korg.com/us/products/synthesizers/pa5x/)
                 
 ## Skiing
-        - Classic
-            - Fischer Speedmax 3D Double Poling Sprint
+
+### Classic
+
+#### Double Poling
+
+[Fischer Speedmax 3D Double Poling Sprint](https://www.fischersports.com/speedmax-3d-double-poling-sprint-2938?c=927)
                 
-                [Speedmax 3D Double Poling Sprint](https://www.fischersports.com/speedmax-3d-double-poling-sprint-2938?c=927)
+[Fischer WORLDCUP CLASSIC IFP](https://www.fischersports.com/us_en/worldcup-classic-ifp-2995)
+
+#### Classic
+
+[Fischer SPEEDMAX 3D CLASSIC PLUS 812](https://www.fischersports.com/speedmax-3d-classic-plus-812-medium-2983)
                 
-                - Fischer Worldcup Classic IFP
-                    
-                    [WORLDCUP CLASSIC IFP](https://www.fischersports.com/us_en/worldcup-classic-ifp-2995)
-                    
-            - Fischer Speedmax 3D Classic Plus 812
+[Fischer WORLDCUP CLASSIC IFP](https://www.fischersports.com/us_en/worldcup-classic-ifp-2995)
+
+#### Skate
+
+[Fischer SPEEDMAX 3D SKATE PLUS](https://www.fischersports.com/speedmax-3d-skate-plus-medium-2971)
                 
-                [SPEEDMAX 3D CLASSIC PLUS 812](https://www.fischersports.com/speedmax-3d-classic-plus-812-medium-2983)
+[Fischer Worldcup Skate IFP](https://www.fischersports.com/us_en/worldcup-skate-ifp-2996)
+
+#### Boots and Poles
+
+[Alpina Elite 3.0 CL DP](https://www.alpinasports.com/en/nordic/elite-3-0/e30-cl-dp-53651)
                 
-                - Fischer Worldcup Classic IFP
-                    
-                    [WORLDCUP CLASSIC IFP](https://www.fischersports.com/us_en/worldcup-classic-ifp-2995)
-                    
-            - Fischer Speedmax 3D Skate Plus
+[Alpina Elite 3.0 SK](https://www.alpinasports.com/en/nordic/elite-3-0/e30-sk-53611)
                 
-                [SPEEDMAX 3D SKATE PLUS](https://www.fischersports.com/speedmax-3d-skate-plus-medium-2971)
+2 [Leki HRC Max](https://www.leki.com/se/en/HRC-max/652400012170)
                 
-                - Fischer Worldcup Skate IFP
-                    
-                    [WORLDCUP SKATE IFP](https://www.fischersports.com/us_en/worldcup-skate-ifp-2996)
-                    
-            - Alpina Elite 3.0 CL DP
+### Roller
+
+[SkiGo Classic Carbon](https://shopen.skigo.se/rullskidor-och-tillbehor/rullskidor/rullskida-classic-carbon/)
                 
-                [E30 CL DP](https://www.alpinasports.com/en/nordic/elite-3-0/e30-cl-dp-53651)
+[Alpina ECL 2.0 S](https://www.alpinasports.com/en/nordic/rollerski/ecl-2-0-s-50961)
                 
-            - Alpina Elite 3.0 SK
+[Leki PRC Max](https://www.leki.com/scandinavia/product-area/ski-roller/poles/3319/prc-max/)
                 
-                [E30 SK](https://www.alpinasports.com/en/nordic/elite-3-0/e30-sk-53611)
+### Alpine
+
+[Elan RIPSTICK 96 BLACK EDITION](https://elanskis.com/eu/mens-skis/freeride/ripstick-96-black-edition-addhmv21)
                 
-            - 2 Leki HRC Max
+[Elan ATTACK2 18 (X) AT](https://elanskis.com/eu/accessories/attack2-18-x-at-dd053815000)
                 
-                [HRC max | LEKI](https://www.leki.com/se/en/HRC-max/652400012170)
+[Head KORE RS 130 GW Freeride Boot](https://www.head.com/en_SE/kore-rs-130-gw-602040.html#)
                 
-        - Roller
-            - SkiGo Classic Carbon
-                
-                [KLASSISKA RULLSKIDOR CARBON SOFT](https://shopen.skigo.se/rullskidor-och-tillbehor/rullskidor/rullskida-classic-carbon/)
-                
-            - Alpina ECL 2.0 S
-                
-                [ECL 2.0 S](https://www.alpinasports.com/en/nordic/rollerski/ecl-2-0-s-50961)
-                
-            - Leki PRC Max
-                
-                [PRC max](https://www.leki.com/scandinavia/product-area/ski-roller/poles/3319/prc-max/)
-                
-        - Alpine
-            - Elan Ripstick 96 Black Edition
-                
-                [RIPSTICK 96 BLACK EDITION](https://elanskis.com/eu/mens-skis/freeride/ripstick-96-black-edition-addhmv21)
-                
-            - Elan Attack2 18 (X) AT
-                
-                [ATTACK2 18 (X) AT](https://elanskis.com/eu/accessories/attack2-18-x-at-dd053815000)
-                
-            - Head Kore RS 130 GW
-                
-                [KORE RS 130 GW Freeride Boot](https://www.head.com/en_SE/kore-rs-130-gw-602040.html#)
-                
-            - Leki Spitfire Vario 3D
-                
-                [Spitfire Vario 3D](https://www.leki.com/scandinavia/product-area/alpine-skiing/poles/3543/spitfire-vario-3d/)
+[Leki Spitfire Vario 3D](https://www.leki.com/scandinavia/product-area/alpine-skiing/poles/3543/spitfire-vario-3d/)
                 
 ## Swimming
 
