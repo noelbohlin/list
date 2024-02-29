@@ -256,83 +256,63 @@
 
 [The GigRig G3](https://www.thegigrig.com/g3)
                     
-[TC Electronic Polytune](https://www.tcelectronic.com/product.html?modelCode=P0CM0)
+[TC Electronic Polytune 3](https://www.tcelectronic.com/product.html?modelCode=P0CM0)
                     
 ##### Dry Pedals
-                    - Nordvang ‘83 Drive v2.0
+
+[Nordvang '83 Drive v2.0](https://nordvangcustom.com/collections/trio/products/83-drive-v2-0-pre-order)
                         
-                        ['83 Drive v2.0](https://nordvangcustom.com/collections/trio/products/83-drive-v2-0-pre-order)
+[Kingtone Soloist](https://www.kingtoneguitar.com/product/the-soloist-black/)
                         
-                    - Kingtone Soloist
+[Origin Effects Cali76 Stacked Edition](https://origineffects.com/product/cali76-stacked-edition/)
                         
-                        [THE SOLOIST [black]](https://www.kingtoneguitar.com/product/the-soloist-black/)
-                        
-                    - Origin Effects Cali76 Stacked Edition
-                        
-                        [Cali76 Stacked Edition](https://origineffects.com/product/cali76-stacked-edition/)
-                        
-                    - Chase Bliss Audio Automatone Preamp MkII
-                        
-                        [Preamp MKII — Chase Bliss](https://www.chasebliss.com/preamp-mkii)
+[Chase Bliss Audio Automatone Preamp MkII](https://www.chasebliss.com/preamp-mkii)
                         
 ##### Wet Pedals
-                    - Poly Effects Beebo
+
+[Poly Effects Beebo](https://www.polyeffects.com/polyeffects/p/beebo)
                         
-                        [Beebo — Poly Effects](https://www.polyeffects.com/polyeffects/p/beebo)
+[Chase Bliss Tonal Recall RKM](https://www.chaseblissaudio.com/shop-pedals/tonal-recall-rkm)
                         
-                    - Chase Bliss Tonal Recall RKM
-                        
-                        [Tonal Recall RKM : Analog Delay : Chase Bliss Audio](https://www.chaseblissaudio.com/shop-pedals/tonal-recall-rkm)
-                        
-                    - Strymon Cloudburst
-                        
-                        [Cloudburst Ambient Reverb - Strymon](https://www.strymon.net/product/cloudburst/)
+[Strymon Cloudburst](https://www.strymon.net/product/cloudburst/)
                         
 #### Amps
-                - Two Rock Traditional Clean
+
+##### [Two Rock Traditional Clean](https://www.two-rock.com/traditional-clean/)
                     
-                    [Traditional Clean](https://www.two-rock.com/traditional-clean/)
-                    
-                    - Two Rock 2x12 Cabinet
+[Two Rock 2x12 Cabinet](https://www.two-rock.com/product/cabinets/)
                         
-                        [Cabinets](https://www.two-rock.com/product/cabinets/)
+##### [Two Rock Classic Reverb Signature](https://www.two-rock.com/amps/classic-reverb-signature/)
+                    
+[Two Rock 2x12 Cabinet](https://www.two-rock.com/product/cabinets/)
                         
-                - Two Rock Classic Reverb Signature
-                    
-                    [Classic Reverb Signature | Two-Rock Amplifiers](https://www.two-rock.com/amps/classic-reverb-signature/)
-                    
-                    - Two Rock 2x12 Cabinet
-                        
-                        [Cabinets](https://www.two-rock.com/product/cabinets/)
-                        
-                - PRS HDRX 100
-                    
-                    [HDRX 100 - 2023](https://prsguitars.com/amplifier/hdrx_100_2023)
-                    
-                - Victory VX100 Super Kraken
-                    
-                    [VX100 The Super Kraken](https://www.victoryamps.com/product/vx100-the-super-kraken/)
-                    
+##### [PRS HDRX](https://prsguitars.com/amplifier/hdrx_100_2023_2_2)
+
+[PRS HDRX 4x12 Cabinet](https://eu.prsguitars.com/amplifier/hdrx_4x12_cabinet_2023_2)
+
+##### [Victory VX100 The Super Kraken](https://www.victoryamps.com/product/vx100-the-super-kraken/)
+
+[Victory Kraken 212 Cabinet](https://www.victoryamps.com/product/v212-vg/)
+
 ### Bass Guitar
-            - Fender Custom Shop 63 P Bass
+
+#### Bass Guitars
+
+##### [Fender Custom Shop 63 P Bass Journeyman Relic®](http://www.fendercustomshop.com/basses/precision-bass/63-p-bass-journeyman-relic-rosewood-fingerboard-aged-3-color-sunburst/)
                 
-                ['63 P Bass® Journeyman Relic®](http://www.fendercustomshop.com/basses/precision-bass/63-p-bass-journeyman-relic-rosewood-fingerboard-aged-3-color-sunburst/)
+[La Bella Deep Talkin 0760M Strings](https://www.labella.com/strings/category/standard-long-scale-4-string-deep-talkin-bass-flat-wounds-bass/)
                 
-                Strings [La Bella Deep Talkin 0760M](https://www.labella.com/strings/category/standard-long-scale-4-string-deep-talkin-bass-flat-wounds-bass/)
-                
-            - Fodera Imperial 5 Elite
-                
-                [Quilted Mahogany Imperial 5 Elite](https://fodera.smugmug.com/Newborn-Gallery-Vol-VI/Newborn-1985/i-7Cg25TX)
-                
+##### [Fodera Quilted Mahogany Imperial 5 Elite](https://fodera.smugmug.com/Newborn-Gallery-Vol-VI/Newborn-1985/i-7Cg25TX)
+
+#### Bass Amps
+
+[Ampeg SVT 50th Anniversary](https://ampeg.com/products/heritage/svt-50thAnniversary/)
             
-            Bass Amp Stack [Ampeg SVT 50th Anniversary](https://ampeg.com/products/heritage/svt-50thAnniversary/)
-            
-            Direct Box [Acme Audio Motown D.I.](https://acmeaudio.net/#motowndi) 
+[Acme Audio Motown D.I.](https://acmeaudio.net/#motowndi) 
             
 ### Keyboard
-            - Korg Pa5X
-                
-                [Pa5X - PROFESSIONAL ARRANGER | KORG (USA)](https://www.korg.com/us/products/synthesizers/pa5x/)
+
+[Korg Pa5X](https://www.korg.com/us/products/synthesizers/pa5x/)
                 
 ## Skiing
         - Classic
