@@ -14,36 +14,7 @@
         
 2 [Spce Pen Bullet 400B](https://www.spacepen.com/400B.aspx)
         
-### Tool-Kit
-
-        [Victorinox Bantam Alox](https://www.victorinox.com/us/en/Products/Swiss-Army-Knives/Medium-Pocket-Knives/Bantam-Alox/p/0.2300.26)
-                    
-        [Prestacycle T-Handle Ratchet - Ratchet Tool only](https://www.prestacycle.com/product/prestacycle-t-handle-ratchet-ratchet-tool-only/)
-                    
-        #### Bits
-                    
-        ##### From Leatherman Bit Kit Set:
-                    
-        - Torx #6 & #8
-        - Torx #10 & #15
-        - Hex 1.5mm & 2mm
-        - Hex 2.5mm & 3mm
-        - Hex 4mm & 5mm
-        - Phillips #0 & #3
-                    
-        [Leatherman Bit Kit Set](https://www.leatherman.com/bit-kit-set-127.html)
-                    
-        ##### From Bacho:
-        
-        - PH1
-                    
-        [1/4" Stainless Steel Bit Set for Phillips PH1 Head Screws - 10 Pcs](https://www.bahco.com/int_en/1-4--stainless-steel-bit-set-for-phillips-ph1-head-screws---10-pcs-65i-ph1.html)
-                    
-        [KNIPEX Cobra XS](https://www.knipex.com/products/pipe-wrenches-and-water-pump-pliers/knipex-cobra-xs/knipex-cobra-xs/8700100)
-                    
-        Scissors and Tweezers
-                    
-        [Victorinox Swiss Card Lite](https://www.victorinox.com/global/en/Products/Swiss-Army-Knives/Swiss-Cards/Swiss-Card-Lite/p/0.7300.T)
+[Leatherman Skeletool CX](https://www.leatherman.com/skeletool-cx-19.html)
             
 # Wardrobe
 
@@ -71,13 +42,14 @@
             
 [Lundhags Skare Expedition vinterkängor Herr](https://www.lundhags.com/se/kangor/herr/vandringskangor/skare-expedition-ms/?item=1010672-700)
             
-    - Underwear
-        - Boxers
+## Underwear
+
+### Boxers
             - 10 Woolpower Boxer M Lite
                 
                 [Woolpower Boxer M´s LITE | Boxerkalsonger i merinoull](https://woolpower.se/shop/produkt/boxer-ms-lite/)
                 
-        - Socks
+### Socks
             - 4 Silverlight Socks
                 
                 [Silverlight Socks - Find out why these hiking socks are getting rave reviews](https://silverlight.store/product/silverlight-socks/)
@@ -90,8 +62,9 @@
                 
                 [Woolpower Socks 400 | Yllesockor i Ullfrotté Original](https://woolpower.se/shop/produkt/socks-400/)
                 
-    - Base Layer
-        - Top
+## Base Layer
+
+### Top
             - 6 Unbound Merino Crew Neck T-Shirt
                 
                 [Merino Wool Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
@@ -100,13 +73,14 @@
                 
                 [WoolNet Original crewneck M's Olive Night M  - Aclima AB](https://www.aclima.se/aclima/103387/woolnet-original-crewneck-m-s-olive-night-m)
                 
-        - Bottom
+### Bottom
             - 2 Aclima WoolNet Original longs
                 
                 [WoolNet Original longs M's Olive Night M  - Aclima AB](https://www.aclima.se/aclima/103394/woolnet-original-longs-m-s-olive-night-m)
                 
-    - Mid Layer
-        - Top
+## Mid Layer
+
+### Top
             - 2 Woolpower Zip Turtleneck 200
                 
                 [Woolpower Zip Turtleneck 200 | Tröja för mellanlager](https://woolpower.se/shop/produkt/zip-turtleneck-200/)
@@ -123,7 +97,7 @@
                 
                 [Visby Sweater M](https://www.fjallraven.com/se/sv-se/herr/overdelar/trojor-stickat/visby-sweater-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_a0563db5-0a0b-4855-a8f9-f591968180d1_sv-SE&_t_hit.pos=1&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F84151%3a%3a7323450730895)
                 
-        - Bottom
+### Bottom
             - 2 Woolpower Long Johns w Fly 200
                 
                 [Woolpower Long Johns w fly 200 | Underställsbyxor i ull](https://woolpower.se/shop/produkt/long-johns-w-fly-200/)
@@ -132,7 +106,7 @@
                 
                 [Woolpower Long Johns w fly 400 | Underställ i Ullfrotté Original](https://woolpower.se/shop/produkt/long-johns-w-fly-400/)
                 
-        - Hats
+### Hats
             - Woolpower Tube LITE
                 
                 [Woolpower Tube LITE | Tubstickad halsduk eller pannband i ull](https://woolpower.se/shop/produkt/tube-lite/)
@@ -141,7 +115,7 @@
                 
                 [Woolpower Beanie LITE | Tunn och skön ullmössa](https://woolpower.se/shop/produkt/beanie-lite/)
                 
-        - Gloves
+### Gloves
             - 2 Hestra Merino Windwool Liner 5 Finger
                 
                 [](https://www.hestragloves.se/merino-windwool-liner-5-finger-black)
@@ -150,8 +124,9 @@
                 
                 [Woolpower Mittens 400 | Ullvantar i dubbla lager ullfrotté](https://woolpower.se/shop/produkt/mittens-400/)
                 
-    - Outer Layer
-        - Top
+## Outer Layer
+
+### Top
             - WeatherWool Peacoat
                 
                 [Peacoat](https://weatherwool.com/collections/jackets/products/weatherwool-peacoat?variant=206338097156)
@@ -164,7 +139,7 @@
                 
                 [Lappland Hybrid Jacket M](https://www.fjallraven.com/se/sv-se/herr/jackor/jaktjackor/lappland-hybrid-jacket-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_ec522a96-a65e-49d8-a19a-dbccd6b1099c_sv-SE&_t_hit.pos=9&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F90170%3a%3a7323450541378)
                 
-        - Bottom
+### Bottom
             - 3 Mango Slim-fit Byxa 100% Linne
                 
                 [Slim-fit byxa 100 % linne -  Herrar | Mango Man Sverige](https://shop.mango.com/se/herr/byxor-linne/slim-fit-byxa-100--linne_57000570.html)
@@ -181,7 +156,7 @@
                 
                 [G3 All Weather Field Pant™](https://www.cryeprecision.com/G3-All-Weather-Field-Pant?quantity=1&color=Ranger%20Green)
                 
-        - Hats
+### Hats
             - Woolpower Beanie Rib
                 
                 [Beanie Rib - Woolpower](https://woolpower.se/shop/produkt/beanie-rib/)
@@ -194,7 +169,7 @@
                 
                 [Abisko Hike Lite Cap](https://www.fjallraven.com/se/sv-se/dam/accessoarer/kepsar-hattar-mossor/abisko-hike-lite-cap)
                 
-        - Gloves
+### Gloves
             - Guide 5116
                 
                 [Glove Guide 5116 7](https://guidegloves.com/se/produkter/mekaniskt-skydd/allround/sydda-handskar/guide-5116)
@@ -203,8 +178,9 @@
                 
                 [Fält Guide Glove 5-finger - Brun & svart Fem-finger | Hestra Gloves](https://www.hestragloves.se/faelt-guide-glove-5-finger-brown-black)
                 
-    - Reinforcement Layer
-        - Top
+## Reinforcement Layer
+
+### Top
             - Norröna Lofoten Gore-Tex Pro Plus Jacket
                 
                 [lofoten Gore-Tex Pro Plus Jacket M's](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-jacka-herr/?color=3301)
@@ -217,7 +193,7 @@
                 
                 [Tomahawk WGTE](https://snugpak.com/collections/clothing-insulated-jacket/products/tomahawk-wgte?variant=42604786024620)
                 
-        - Bottom
+### Bottom
             - Norröna Lofoten Gore-Tex Pro Plus Pants
                 
                 [lofoten Gore-Tex Pro Plus Pants M's](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-byxor-herr/?color=7718)
@@ -226,7 +202,7 @@
                 
                 [Salopettes Reversible Full Leg Zip WGTE](https://snugpak.com/collections/clothing-salopettes/products/salopettes-rev-flz-wgte?variant=42604857852076)
                 
-        - Gloves
+### Gloves
             - Hestra Army Leather Gore-Tex 3-finger
                 
                 [Army Leather Gore-Tex 3-finger](https://www.hestragloves.se/army-leather-gore-tex-3-finger-black)
@@ -235,7 +211,7 @@
                 
                 [Army Leather Extreme Mitt](https://www.hestragloves.se/army-leather-extreme-mitt-black-offwhite)
                 
-        - Sunglasses
+### Sunglasses
             - Oakley Kato
                 
                 [Oakley Kato Polished Black Sunglasses | Oakley® SE](https://www.oakley.com/en-se/product/W0OO9455?variant=888392491633)
@@ -244,8 +220,9 @@
                 
                 [Kolla in modellen Clubround Classic på ray-ban.com](https://www.ray-ban.com/sweden/sunglasses/RB4246%20UNISEX%20clubround%20classic-svart/8053672559682)
                 
-    - Work Out
-        - Top
+## Work Out
+
+### Top
             - 2 Trimtex Fast T-shirt
                 
                 [Vår toppmodell - T-shirt till träning och löpning](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/t-shirts-och-toppar/t-shirts/fast-t-shirt-ss-men/VL18-0205-19.html)
@@ -254,7 +231,7 @@
                 
                 [Great men's training jacket for those who love to exercise. Slim fit, water- and windproof.](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/jackor-och-vaestar-1/element-2.0-traeningsjacka-herr/VL22-0086-20.html#start=1)
                 
-        - Bottom
+### Bottom
             - 2 Trimtex Fast shorts
                 
                 [Löparshorts till herr i tunt och lätt material](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/fast-shorts-herr/VL21-0310-22.html#start=1)
@@ -263,7 +240,7 @@
                 
                 [Element vintertights herr](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/element-vintertights-herr/VS21-0007-18.html#start=1)
                 
-        - Shoes
+### Shoes
             - Altra Superior 6
                 
                 [Superior 6 Man](https://www.altrarunning.eu/se/superior-6-man-13-7997.html)
@@ -272,7 +249,7 @@
                 
                 [Primus Lite Knit Mens](https://www.vivobarefoot.com/se/primus-lite-knit-mens)
                 
-    - Dress
+## Dress
         - Carmina Wholecut Oxford 910 Rain Black Cordovan
             
             [CORDOVAN WHOLECUT OXFORD 910 RAIN](https://www.carminashoemaker.com/oxford-cordovan-black-910)
@@ -284,7 +261,8 @@
         - White Tie
         - Black Tie
         - Business
-- **Office**
+        
+#  Office
     
     Desk [Venice studio wood table](https://www.cb2.com/venice-studio-wood-table-desk/s341065) 
     
