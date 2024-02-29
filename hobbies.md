@@ -108,7 +108,7 @@
 
 ## Skiing
 
-### Classic
+### Nordic
 
 #### Double Poling
 
