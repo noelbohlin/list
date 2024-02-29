@@ -382,57 +382,41 @@
                 
                 [Spitfire Vario 3D](https://www.leki.com/scandinavia/product-area/alpine-skiing/poles/3543/spitfire-vario-3d/)
                 
-    - **Swimming**
-        - Tech Suits
-            - 2 Mizuno GX Sonic III St
+## Swimming
+
+### Tech Suits
+
+2 [Mizuno GX Sonic III St](https://www.mizunousa.com/us/product/swim-gx-sonic-iii-st/570001)
                 
-                [Mens Swim Jammer, Mens GX SONIC III ST Jammer Swimsuit - Mizuno USA](https://www.mizunousa.com/us/product/swim-gx-sonic-iii-st/570001)
+3 [Mizuno GX Sonic 6 NV](https://www.mizunousa.com/us/product/swim-men-gx-sonic-6-nv/570075)
                 
-            - 3 Mizuno GX Sonic 6 NV
+2 [Mizuno GX Sonic V Mr](https://www.mizunousa.com/us/product/swim-men-gx-sonic-v-mr/570025)
                 
-                [Mizuno Men’s GX-Sonic 6 Technical Noble Velocity (NV) Swimsuit](https://www.mizunousa.com/us/product/swim-men-gx-sonic-6-nv/570075)
+### Training Briefs
+
+4 [Funky Trunks Still Black](https://www.funkytrunks.com/plain-front-trunks/1830470-still-black.html)
                 
-            - 2 Mizuno GX Sonic V Mr
+### Open Water Suits
+
+[Roka Maverick X2 Wetsuit](https://eu.roka.com/collections/mens-wetsuits/products/mens-maverick-x2-wetsuit)
                 
-                [Men's Racing Swimsuit, Men's GX-Sonic V Multi Racer Swimsuit - Mizuno USA](https://www.mizunousa.com/us/product/swim-men-gx-sonic-v-mr/570025)
+### Caps
+
+2 [Arena Aquaforce 3D Wave Soft](https://store.descente.co.jp/f/dsg-1941097)
                 
-        - Training Briefs
-            - 4 Funky Trunks Still Black
+2 [Arena Aquaforce 3D Soft](https://store.descente.co.jp/f/dsg-1941654)
                 
-                [Still Black < Swimwear < Mens | Funky Trunks Swimwear Australia](https://www.funkytrunks.com/plain-front-trunks/1830470-still-black.html)
+2 [Mizuno Silicone Cap](https://www.mizunoshop.net/f/dsg-628913)
                 
-        - Open Water Suits
-            - Roka Maverick X2
+### Googles
+
+2 [Malmsten Swedish Goggles Jewel Diamond Clear](https://malmsten.com/en/products/p/swim-goggles/swedish-goggles/swedish-goggles-jewel/2168/2357/1710027)
                 
-                [Men's Maverick X2 Wetsuit](https://eu.roka.com/collections/mens-wetsuits/products/mens-maverick-x2-wetsuit)
+2 [Malmsten Swedish Goggles Classic Clear](https://malmsten.com/en/products/p/swim-goggles/swedish-goggles/swedish-goggles-classic/2168/2357/1710021)
                 
-        - Caps
-            - 2 Arena Aquaforce 3D Wave Soft
-                
-                [【選手着用モデル】アクアフォースウェーブキャップソフトタイプ（レーシング/FINA承認/シリコン）](https://store.descente.co.jp/f/dsg-1941097)
-                
-            - 2 Arena Aquaforce 3D Soft
-                
-                [【選手着用モデル】アクアフォース3Dソフトシリコンキャップ（FINA承認）](https://store.descente.co.jp/f/dsg-1941654)
-                
-            - 2 Mizuno Silicone Cap
-                
-                [ミズノ|シリコーンキャップ[ユニセックス]|スイム|キャップ](https://www.mizunoshop.net/f/dsg-628913)
-                
-        - Googles
-            - 2 Malmsten Swedish Goggles Jewel Diamond Clear
-                
-                [Swedish Goggles Jewel - 1710027 | Produkter | Malmsten.com](https://malmsten.com/en/products/p/swim-goggles/swedish-goggles/swedish-goggles-jewel/2168/2357/1710027)
-                
-            - 2 Malmsten Swedish Goggles Classic Clear
-                
-                [Swedish Goggles Classic - 1710021 | Produkter | Malmsten.com](https://malmsten.com/en/products/p/swim-goggles/swedish-goggles/swedish-goggles-classic/2168/2357/1710021)
-                
-            - Speedo Spare Silicone Strap
-                
-                [Shop Speedo Swimsuits & Swimwear | Speedo USA](https://www.speedo.com/uk/en/spare-silicone-strap/8023030001.html)
-                
-        - Training Gear
+2 [Speedo Spare Silicone Strap](https://www.speedo.com/uk/en/spare-silicone-strap/8023030001.html)
+               
+### Training Gear
             - DMC Elite Max Fins
                 
                 [ELITE MAX - Black](https://dmcfins.com/collections/swim-fins/products/elite-max-black)
@@ -457,7 +441,7 @@
                 
                 [Swim Snorkel Pro III](https://www.arenasport.com/en_us/004826-swim-snorkel-pro-iii.html#280=38840)
                 
-    - **Outdoor**
+## Outdoor
         - Sea To Summit Spark Ultra Lite Sleeping Bag
             
             [Spark Ultralight Mummy Sleeping Bag for Backpacking](https://seatosummit.eu/products/spark-ultralight-sleeping-bag-series?variant=41699449602198)
@@ -491,62 +475,37 @@
             [A1xb - Tungsten Carbide (Black coated blade) - Fällkniven](https://fallkniven.se/en/knife/a1xb/)
             
         - Thermos
-    - **Cycling**
-        - Pinarello Dogma F
+## Cycling
+
+[Pinarello DOGMA F DURA ACE Di2](https://pinarello.com/usa/en/bikes/road/competition/dogma-f/dogma-f-dura-ace-di2)
             
-            [DOGMA F DURA ACE Di2 | en | Pinarello USA](https://pinarello.com/usa/en/bikes/road/competition/dogma-f/dogma-f-dura-ace-di2)
-            
-            - Fizik Vento Argo 00
+[Fizik Vento Argo 00 Saddle](https://www.fizik.com/eu_en/vento-argo-00.html)
                 
-                [Short nosed road racing saddle - Vento Argo - Fizik](https://www.fizik.com/eu_en/vento-argo-00.html)
+[Lightweight Meilenstein Obermayer](https://lightweight.info/en/road-bike/wheels/meilenstein-obermayer)
                 
-            - Lightweight Meilenstein Obermayer
+[Continental Competition](https://www.continental-tires.com/bicycle/tires/race-tires/competition)
                 
-                [](https://lightweight.info/en/road-bike/wheels/meilenstein-obermayer)
-                
-            - Continental Competition
-                
-                [Competition](https://www.continental-tires.com/bicycle/tires/race-tires/competition)
-                
-        - Eddy Merckx Corsa Extra
+Eddy Merckx Corsa Extra
+                        
+[Specialized S-Works Epic](https://www.specialized.com/se/en/s-works-epic/p/199648?color=319946-199648)
             
+[Kask Utopia Y](https://www.kask.com/en/cycling/utopia-y_24_106.htm)
             
-        - Specialized S-Works Epic
+[Castelli Aero Race 6.0 jersey](https://www.castelli-cycling.com/US/en/Men/Cycling/Top/Men's-Cycling-Jerseys/Short-sleeve/AERO-RACE-6-0-JERSEY/p/4523009_085)
             
-            [S-Works Epic | Specialized.com](https://www.specialized.com/se/en/s-works-epic/p/199648?color=319946-199648)
+[Castelli Free Aero RC Bib short](https://www.castelli-cycling.com/US/en/Men/Cycling/Men's-Cycling-shorts-and-tights/Men's-Cycling-shorts/Bib/FREE-AERO-RC-BIBSHORT/p/4522000_010_52_3XL)
             
-        - Kask Utopia Y
+[Fizik Vento Stabilita Carbon Road Cycling Shoe](https://www.fizik.com/eu_en/vento-stabilita-carbon.html)
             
-            [Utopia Y ‹ Kask Sport](https://www.kask.com/en/cycling/utopia-y_24_106.htm)
+[Specilaized Rime 2.0 Mountain Bike Shoe | Specialized.com](https://www.specialized.com/se/en/rime-2-0-mountain-bike-shoe/p/172884?color=268956-172884)
             
-        - Castelli Aero Race 6.0
+## Climbing
+
+[BlackDiamond Solution Harness](https://www.blackdiamondequipment.com/en_US/product/solution-mens/?colorid=7305)
             
-            [Men's Cycling Jerseys Cycling Men AERO RACE 6.0 JERSEY - Castelli Cycling](https://www.castelli-cycling.com/US/en/Men/Cycling/Top/Men's-Cycling-Jerseys/Short-sleeve/AERO-RACE-6-0-JERSEY/p/4523009_085)
+[Rúngne Chalk Bag](https://rungne.com/products/rungne-chalk-bag-blue-denim)
             
-        - Castelli Free Aero RC
-            
-            [FREE AERO RC BIBSHORT](https://www.castelli-cycling.com/US/en/Men/Cycling/Men's-Cycling-shorts-and-tights/Men's-Cycling-shorts/Bib/FREE-AERO-RC-BIBSHORT/p/4522000_010_52_3XL)
-            
-        - Fizik Vento Stabilita Carbon
-            
-            [Vento Stabilita Carbon](https://www.fizik.com/eu_en/vento-stabilita-carbon.html)
-            
-        - Specilaized Rime 2.0
-            
-            [Rime 2.0 Mountain Bike Shoe | Specialized.com](https://www.specialized.com/se/en/rime-2-0-mountain-bike-shoe/p/172884?color=268956-172884)
-            
-    - **Climbing**
-        - BlackDiamond Sulotion Harness
-            
-            [Solution Harness - Men's](https://www.blackdiamondequipment.com/en_US/product/solution-mens/?colorid=7305)
-            
-        - Rúngne Chalk Bag
-            
-            [Chalk Bag](https://rungne.com/products/rungne-chalk-bag-blue-denim)
-            
-        - La Sportiva Skwama
-            
-            [Skwama](https://www.lasportiva.com/en/skwama-black-10sby)
+[La Sportiva Skwama](https://www.lasportiva.com/en/skwama-black-10sby)
             
 # Garage
 
