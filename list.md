@@ -101,140 +101,94 @@
 ## Outer Layer
 
 ### Top
-            - WeatherWool Peacoat
+
+[WeatherWool Peacoat](https://weatherwool.com/collections/jackets/products/weatherwool-peacoat?variant=206338097156)
                 
-                [Peacoat](https://weatherwool.com/collections/jackets/products/weatherwool-peacoat?variant=206338097156)
+[Mango Slim-fit Skjorta 100% Linne](https://shop.mango.com/se/herr/skjortor-linne/slim-fit-skjorta-100--linne_57080618.html?c=55)
                 
-            - Mango Slim-fit Skjorta 100 % Linne
-                
-                [Slim fit-skjorta 100 % linne -  Herrar | Mango Man Sverige](https://shop.mango.com/se/herr/skjortor-linne/slim-fit-skjorta-100--linne_57080618.html?c=55)
-                
-            - Fjällräven Lappland Hybrid Jacket M
-                
-                [Lappland Hybrid Jacket M](https://www.fjallraven.com/se/sv-se/herr/jackor/jaktjackor/lappland-hybrid-jacket-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_ec522a96-a65e-49d8-a19a-dbccd6b1099c_sv-SE&_t_hit.pos=9&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F90170%3a%3a7323450541378)
+[Fjällräven Lappland Hybrid Jacket M](https://www.fjallraven.com/se/sv-se/herr/jackor/jaktjackor/lappland-hybrid-jacket-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_ec522a96-a65e-49d8-a19a-dbccd6b1099c_sv-SE&_t_hit.pos=9&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F90170%3a%3a7323450541378)
                 
 ### Bottom
-            - 3 Mango Slim-fit Byxa 100% Linne
+
+3 [Mango Slim-fit Byxa 100% Linne](https://shop.mango.com/se/herr/byxor-linne/slim-fit-byxa-100--linne_57000570.html)
                 
-                [Slim-fit byxa 100 % linne -  Herrar | Mango Man Sverige](https://shop.mango.com/se/herr/byxor-linne/slim-fit-byxa-100--linne_57000570.html)
+4 [Unbound Merino Travel Pants](https://unboundmerino.com/collections/pants/products/merino-wool-pants?variant=39642264993886)
                 
-            - 4 Unbound Merino Travel Pants
+2 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
                 
-                [Merino Travel Pants](https://unboundmerino.com/collections/pants/products/merino-wool-pants?variant=39642264993886)
-                
-            - 2 Buck Mason Black Ford Standard Jean
-                
-                [Men's Jeans - Buck Mason- Modern American Classics](https://www.buckmason.com/products/standard-black-jean/)
-                
-            - Crye Precision G3 All Weather Field Pant
-                
-                [G3 All Weather Field Pant™](https://www.cryeprecision.com/G3-All-Weather-Field-Pant?quantity=1&color=Ranger%20Green)
+[Crye Precision G3 All Weather Field Pant](https://www.cryeprecision.com/G3-All-Weather-Field-Pant?quantity=1&color=Ranger%20Green)
                 
 ### Hats
-            - Woolpower Beanie Rib
+
+[Woolpower Beanie Rib](https://woolpower.se/shop/produkt/beanie-rib/)
                 
-                [Beanie Rib - Woolpower](https://woolpower.se/shop/produkt/beanie-rib/)
+[Houdini Alto Neck Gaiter](https://houdinisportswear.com/sv-se/clothing/accessories/alto-neck-gaiter-370274?color=370274900)
                 
-            - Houdini Alto Neck Gaiter
-                
-                [Alto Neck Gaiter | Houdini Sportswear](https://houdinisportswear.com/sv-se/clothing/accessories/alto-neck-gaiter-370274?color=370274900)
-                
-            - Fjällräven Abisko Hike Lite Cap
-                
-                [Abisko Hike Lite Cap](https://www.fjallraven.com/se/sv-se/dam/accessoarer/kepsar-hattar-mossor/abisko-hike-lite-cap)
+[Fjällräven Abisko Hike Lite Cap](https://www.fjallraven.com/se/sv-se/dam/accessoarer/kepsar-hattar-mossor/abisko-hike-lite-cap)
                 
 ### Gloves
-            - Guide 5116
-                
-                [Glove Guide 5116 7](https://guidegloves.com/se/produkter/mekaniskt-skydd/allround/sydda-handskar/guide-5116)
-                
-            - Hestra Fält Guide Glove 5-finger
-                
-                [Fält Guide Glove 5-finger - Brun & svart Fem-finger | Hestra Gloves](https://www.hestragloves.se/faelt-guide-glove-5-finger-brown-black)
+
+[Glove Guide 5116](https://guidegloves.com/se/produkter/mekaniskt-skydd/allround/sydda-handskar/guide-5116)
+
+[Hestra Fält Guide Glove 5-finger](https://www.hestragloves.se/faelt-guide-glove-5-finger-brown-black)
                 
 ## Reinforcement Layer
 
 ### Top
-            - Norröna Lofoten Gore-Tex Pro Plus Jacket
+
+[Norröna Lofoten Gore-Tex Pro Plus Jacket](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-jacka-herr/?color=3301)
                 
-                [lofoten Gore-Tex Pro Plus Jacket M's](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-jacka-herr/?color=3301)
+[Snugpak Sleeka Elite WGTE](https://snugpak.com/collections/clothing-insulated-jacket/products/sleeka-elite-wgte?variant=42604872532140)
                 
-            - Snugpak Sleeka Elite
-                
-                [Sleeka Elite WGTE](https://snugpak.com/collections/clothing-insulated-jacket/products/sleeka-elite-wgte?variant=42604872532140)
-                
-            - Snugpak Tomahawk
-                
-                [Tomahawk WGTE](https://snugpak.com/collections/clothing-insulated-jacket/products/tomahawk-wgte?variant=42604786024620)
+[Snugpak Tomahawk WGTE](https://snugpak.com/collections/clothing-insulated-jacket/products/tomahawk-wgte?variant=42604786024620)
                 
 ### Bottom
-            - Norröna Lofoten Gore-Tex Pro Plus Pants
+
+[Norröna Lofoten Gore-Tex Pro Plus Pants](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-byxor-herr/?color=7718)
                 
-                [lofoten Gore-Tex Pro Plus Pants M's](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-byxor-herr/?color=7718)
-                
-            - Snugpack Salopettes Reversible Full Leg Zip
-                
-                [Salopettes Reversible Full Leg Zip WGTE](https://snugpak.com/collections/clothing-salopettes/products/salopettes-rev-flz-wgte?variant=42604857852076)
+[Snugpak Salopettes Reversible Full Leg Zip WGTE](https://snugpak.com/collections/clothing-salopettes/products/salopettes-rev-flz-wgte?variant=42604857852076)
                 
 ### Gloves
-            - Hestra Army Leather Gore-Tex 3-finger
+
+[Hestra Army Leather Gore-Tex 3-finger](https://www.hestragloves.se/army-leather-gore-tex-3-finger-black)
                 
-                [Army Leather Gore-Tex 3-finger](https://www.hestragloves.se/army-leather-gore-tex-3-finger-black)
-                
-            - Hestra Army Leather Extreme Mitt
-                
-                [Army Leather Extreme Mitt](https://www.hestragloves.se/army-leather-extreme-mitt-black-offwhite)
+[Hestra Army Leather Extreme Mitt](https://www.hestragloves.se/army-leather-extreme-mitt-black-offwhite)
                 
 ### Sunglasses
-            - Oakley Kato
+
+[Oakley Kato Polished Black Sunglasses](https://www.oakley.com/en-se/product/W0OO9455?variant=888392491633)
                 
-                [Oakley Kato Polished Black Sunglasses | Oakley® SE](https://www.oakley.com/en-se/product/W0OO9455?variant=888392491633)
-                
-            - Ray-Ban Clubround Classic
-                
-                [Kolla in modellen Clubround Classic på ray-ban.com](https://www.ray-ban.com/sweden/sunglasses/RB4246%20UNISEX%20clubround%20classic-svart/8053672559682)
+[Ray-Ban Clubround Classic](https://www.ray-ban.com/sweden/sunglasses/RB4246%20UNISEX%20clubround%20classic-svart/8053672559682)
                 
 ## Work Out
 
 ### Top
-            - 2 Trimtex Fast T-shirt
+
+2 [Trimtex Fast T-shirt](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/t-shirts-och-toppar/t-shirts/fast-t-shirt-ss-men/VL18-0205-19.html)
                 
-                [Vår toppmodell - T-shirt till träning och löpning](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/t-shirts-och-toppar/t-shirts/fast-t-shirt-ss-men/VL18-0205-19.html)
-                
-            - Trimtex Element 2.0
-                
-                [Great men's training jacket for those who love to exercise. Slim fit, water- and windproof.](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/jackor-och-vaestar-1/element-2.0-traeningsjacka-herr/VL22-0086-20.html#start=1)
+[Trimtex Element 2.0](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/jackor-och-vaestar-1/element-2.0-traeningsjacka-herr/VL22-0086-20.html#start=1)
                 
 ### Bottom
-            - 2 Trimtex Fast shorts
+
+2 [Trimtex Fast shorts](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/fast-shorts-herr/VL21-0310-22.html#start=1)
                 
-                [Löparshorts till herr i tunt och lätt material](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/fast-shorts-herr/VL21-0310-22.html#start=1)
-                
-            - Trimtex Element Vintertights
-                
-                [Element vintertights herr](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/element-vintertights-herr/VS21-0007-18.html#start=1)
+[Trimtex Element vintertights](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/element-vintertights-herr/VS21-0007-18.html#start=1)
                 
 ### Shoes
-            - Altra Superior 6
+
+[Altra Superior 6](https://www.altrarunning.eu/se/superior-6-man-13-7997.html)
                 
-                [Superior 6 Man](https://www.altrarunning.eu/se/superior-6-man-13-7997.html)
-                
-            - Vivobarefoot Primus Lite Knit
-                
-                [Primus Lite Knit Mens](https://www.vivobarefoot.com/se/primus-lite-knit-mens)
+[Vivobarefoot Primus Lite Knit](https://www.vivobarefoot.com/se/primus-lite-knit-mens)
                 
 ## Dress
-        - Carmina Wholecut Oxford 910 Rain Black Cordovan
+
+[Carmina Wholecut Oxford 910 Rain Black Cordovan](https://www.carminashoemaker.com/oxford-cordovan-black-910)
             
-            [CORDOVAN WHOLECUT OXFORD 910 RAIN](https://www.carminashoemaker.com/oxford-cordovan-black-910)
+[Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
             
-        - Crockett and Jones Harlech Whiskey Cordovan
-            
-            [Harlech Whisky Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
-            
-        - White Tie
-        - Black Tie
-        - Business
+- White Tie
+- Black Tie
+- Business
         
 #  Office
     
