@@ -1,4 +1,4 @@
-## EDC
+# EDC
 
 [ASUS Zenfone 10](https://www.asus.com/se/mobile-handhelds/phones/zenfone/zenfone-10/)
         
@@ -45,50 +45,31 @@ Scissors and Tweezers
             
 [Victorinox Swiss Card Lite](https://www.victorinox.com/global/en/Products/Swiss-Army-Knives/Swiss-Cards/Swiss-Card-Lite/p/0.7300.T)
             
-- **Wardrobe**
-    - Bags
-        - Liteway Biggie Ultra 45L
+# Wardrobe
+
+## Bags
+
+[Liteway Biggie Pack Ultra 45L](https://liteway.equipment/packs/biggie-pack-ultra-45l)
             
-            [BIGGIE PACK ULTRA 45L](https://liteway.equipment/packs/biggie-pack-ultra-45l)
+[Prometheus Design Werx S.H.A.D.O. Pack 24L](https://prometheusdesignwerx.com/collections/backpacks/products/s-h-a-d-o-pack-24l-universal-field-gray-1?variant=39341008158806)
             
-        - Prometheus Design Werx S.H.A.D.O. Pack 24L
+[Pakt Travel Backpack](https://paktbags.com/products/the-pakt-travel-backpack?variant=34631236223138)
             
-            [S.H.A.D.O. Pack 24L - Universal Field Gray](https://prometheusdesignwerx.com/collections/backpacks/products/s-h-a-d-o-pack-24l-universal-field-gray-1?variant=39341008158806)
+## Shoes
+
+[Xero Z-Trek](https://www.xeroshoes.eu/shop/sandals/ztrek-men/)
             
-        - Pakt Travel Backpack
+[Vivobarefoot Geo Court III](https://www.vivobarefoot.com/se/geo-court-iii-mens?colour=Naturell)
             
-            [The Travel Backpack](https://paktbags.com/products/the-pakt-travel-backpack?variant=34631236223138)
+[Crown Northamton Harlestone Hand Stitch Derby](https://crownnorthampton.com/collections/luxury-handmade-sneakers/products/harlestone-hand-stitch-derby-horween-black-shell-cordovan?variant=40709040537773)
             
-    - Shoes
-        - Xero Z-Trek
+[Nicks Wickett & Craig English Bridle Veg Tan](https://nicksboots.com/wickett-craig-english-bridle-veg-tan-mto/)
             
-            [Z-Trek - Men - Xero Shoes EU](https://www.xeroshoes.eu/shop/sandals/ztrek-men/)
+[Merrell Moab 3 Wide](https://www.merrell.com/US/en/moab-3-wide-width/52465M.html?dwvar_52465M_color=J035885W#cgid=moab-3-collection&prefn1=isOnSale&prefv1=false&start=1)
             
-        
-        - Vivobarefoot Geo Court III
+[Lundhags Jaure II Light High Wide](https://www.lundhags.com/se/kangor/herr/vandringskangor/jaure-ii-ms-lt-high-wide/?item=1013790-925)
             
-            [Geo Court III Mens](https://www.vivobarefoot.com/se/geo-court-iii-mens?colour=Naturell)
-            
-        - Crown Northamton Harlestone Hand Stitch Derby
-            
-            [Harlestone Hand Stitch Derby - Horween Black Shell Cordovan](https://crownnorthampton.com/collections/luxury-handmade-sneakers/products/harlestone-hand-stitch-derby-horween-black-shell-cordovan?variant=40709040537773)
-            
-        - Nicks W&C English Bridle Veg Tan
-            
-            [Wickett & Craig - English Bridle Veg Tan - MTO](https://nicksboots.com/wickett-craig-english-bridle-veg-tan-mto/)
-            
-        
-        - Merrell Moab 3
-            
-            [Men's Moab 3 Wide Width](https://www.merrell.com/US/en/moab-3-wide-width/52465M.html?dwvar_52465M_color=J035885W#cgid=moab-3-collection&prefn1=isOnSale&prefv1=false&start=1)
-            
-        - Lundhags Jaure II Light High
-            
-            [Jaure II Light High Wide vandringskängor Herr](https://www.lundhags.com/se/kangor/herr/vandringskangor/jaure-ii-ms-lt-high-wide/?item=1013790-925)
-            
-        - Lundhags Skare Expedition
-            
-            [Skare Expedition vinterkängor Herr](https://www.lundhags.com/se/kangor/herr/vandringskangor/skare-expedition-ms/?item=1010672-700)
+[Lundhags Skare Expedition vinterkängor Herr](https://www.lundhags.com/se/kangor/herr/vandringskangor/skare-expedition-ms/?item=1010672-700)
             
     - Underwear
         - Boxers
