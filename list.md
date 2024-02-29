@@ -45,84 +45,58 @@
 ## Underwear
 
 ### Boxers
-            - 10 Woolpower Boxer M Lite
-                
-                [Woolpower Boxer M´s LITE | Boxerkalsonger i merinoull](https://woolpower.se/shop/produkt/boxer-ms-lite/)
+
+10 [Woolpower Boxer M Lite](https://woolpower.se/shop/produkt/boxer-ms-lite/)
                 
 ### Socks
-            - 4 Silverlight Socks
+
+4 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
                 
-                [Silverlight Socks - Find out why these hiking socks are getting rave reviews](https://silverlight.store/product/silverlight-socks/)
+7 [Smartwool Everyday Solid Rib Crew Socks](https://www.smartwool.com/shop/everyday-solid-rib-crew-2-pack-socks-sw001888?variationId=122)
                 
-            - 7 Smartwool Everyday Solid Rib Crew Socks
-                
-                [Everyday Solid Rib Crew 2 Pack Socks](https://www.smartwool.com/shop/everyday-solid-rib-crew-2-pack-socks-sw001888?variationId=122)
-                
-            - 4 Woolpower Socks 400
-                
-                [Woolpower Socks 400 | Yllesockor i Ullfrotté Original](https://woolpower.se/shop/produkt/socks-400/)
+4 [Woolpower Socks 400](https://woolpower.se/shop/produkt/socks-400/)
                 
 ## Base Layer
 
 ### Top
-            - 6 Unbound Merino Crew Neck T-Shirt
+
+6 [Unbound Merino Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
                 
-                [Merino Wool Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
-                
-            - 3 Aclima Woolnet Original crewneck
-                
-                [WoolNet Original crewneck M's Olive Night M  - Aclima AB](https://www.aclima.se/aclima/103387/woolnet-original-crewneck-m-s-olive-night-m)
+3 [Aclima Woolnet Original crewneck](https://www.aclima.se/aclima/103387/woolnet-original-crewneck-m-s-olive-night-m)
                 
 ### Bottom
-            - 2 Aclima WoolNet Original longs
-                
-                [WoolNet Original longs M's Olive Night M  - Aclima AB](https://www.aclima.se/aclima/103394/woolnet-original-longs-m-s-olive-night-m)
+
+2 [Aclima WoolNet Original longs](https://www.aclima.se/aclima/103394/woolnet-original-longs-m-s-olive-night-m)
                 
 ## Mid Layer
 
 ### Top
-            - 2 Woolpower Zip Turtleneck 200
+
+2 [Woolpower Zip Turtleneck 200](https://woolpower.se/shop/produkt/zip-turtleneck-200/)
                 
-                [Woolpower Zip Turtleneck 200 | Tröja för mellanlager](https://woolpower.se/shop/produkt/zip-turtleneck-200/)
+2 [Woolpower Full Zip Jacket 600](https://woolpower.se/shop/produkt/full-zip-jacket-600/)
                 
-            - 2 Woolpower Full Zip Jacket 600
+2 [Houdini M’s Alto Hoodie](https://houdinisportswear.com/sv-se/clothing/sweaters-hoodies/mens-alto-houdi-840032?color=840032900)
                 
-                [Woolpower Full Zip Jacket 600 | Mellanlagerjacka](https://woolpower.se/shop/produkt/full-zip-jacket-600/)
-                
-            - 2 Houdini M’s Alto Hoodie
-                
-                [M's Alto Houdi | Houdini Sportswear](https://houdinisportswear.com/sv-se/clothing/sweaters-hoodies/mens-alto-houdi-840032?color=840032900)
-                
-            - 2 Fjällräven Visby Chalk White Sweater M
-                
-                [Visby Sweater M](https://www.fjallraven.com/se/sv-se/herr/overdelar/trojor-stickat/visby-sweater-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_a0563db5-0a0b-4855-a8f9-f591968180d1_sv-SE&_t_hit.pos=1&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F84151%3a%3a7323450730895)
+2 [Fjällräven Visby Chalk White Sweater M](https://www.fjallraven.com/se/sv-se/herr/overdelar/trojor-stickat/visby-sweater-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_a0563db5-0a0b-4855-a8f9-f591968180d1_sv-SE&_t_hit.pos=1&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F84151%3a%3a7323450730895)
                 
 ### Bottom
-            - 2 Woolpower Long Johns w Fly 200
+
+2 [Woolpower Long Johns w fly 200](https://woolpower.se/shop/produkt/long-johns-w-fly-200/)
                 
-                [Woolpower Long Johns w fly 200 | Underställsbyxor i ull](https://woolpower.se/shop/produkt/long-johns-w-fly-200/)
-                
-            - Woolpower Long Johns w Fly 400
-                
-                [Woolpower Long Johns w fly 400 | Underställ i Ullfrotté Original](https://woolpower.se/shop/produkt/long-johns-w-fly-400/)
+[Woolpower Long Johns w fly 400](https://woolpower.se/shop/produkt/long-johns-w-fly-400/)
                 
 ### Hats
-            - Woolpower Tube LITE
+
+[Woolpower Tube Lite](https://woolpower.se/shop/produkt/tube-lite/)
                 
-                [Woolpower Tube LITE | Tubstickad halsduk eller pannband i ull](https://woolpower.se/shop/produkt/tube-lite/)
-                
-            - Woolpower Beanie LITE
-                
-                [Woolpower Beanie LITE | Tunn och skön ullmössa](https://woolpower.se/shop/produkt/beanie-lite/)
+[Woolpower Beanie Lite](https://woolpower.se/shop/produkt/beanie-lite/)
                 
 ### Gloves
-            - 2 Hestra Merino Windwool Liner 5 Finger
+
+2 [Hestra Merino Windwool Liner 5 Finger](https://www.hestragloves.se/merino-windwool-liner-5-finger-black)
                 
-                [](https://www.hestragloves.se/merino-windwool-liner-5-finger-black)
-                
-            - Woolpower Mittens 400
-                
-                [Woolpower Mittens 400 | Ullvantar i dubbla lager ullfrotté](https://woolpower.se/shop/produkt/mittens-400/)
+[Woolpower Mittens 400](https://woolpower.se/shop/produkt/mittens-400/)
                 
 ## Outer Layer
 
