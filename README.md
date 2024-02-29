@@ -1,3 +1,4 @@
 # List
 
-[wardrobe](list.md)
+## [EDC / Wardrobe](wardrobe.md) 
+## [Other](list.md)
