@@ -40,8 +40,6 @@
 
 [Lundhags Jaure II Light High Wide](https://www.lundhags.com/se/kangor/herr/vandringskangor/jaure-ii-ms-lt-high-wide/?item=1013790-925)
 
-[Lundhags Skare Expedition vinterkängor Herr](https://www.lundhags.com/se/kangor/herr/vandringskangor/skare-expedition-ms/?item=1010672-700)
-
 ## Underwear
 
 ### Boxers
@@ -114,7 +112,7 @@
 
 4 [Unbound Merino Travel Pants](https://unboundmerino.com/collections/pants/products/merino-wool-pants?variant=39642264993886)
 
-2 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
+[Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
 [Crye Precision G3 All Weather Field Pant](https://www.cryeprecision.com/G3-All-Weather-Field-Pant?quantity=1&color=Ranger%20Green)
 
@@ -137,8 +135,6 @@
 ### Top
 
 [Norröna Lofoten Gore-Tex Pro Plus Jacket](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-jacka-herr/?color=3301)
-
-[Snugpak Sleeka Elite WGTE](https://snugpak.com/collections/clothing-insulated-jacket/products/sleeka-elite-wgte?variant=42604872532140)
 
 [Snugpak Tomahawk WGTE](https://snugpak.com/collections/clothing-insulated-jacket/products/tomahawk-wgte?variant=42604786024620)
 
