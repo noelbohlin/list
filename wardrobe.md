@@ -110,7 +110,7 @@
 
 3 [Mango Slim-fit Byxa 100% Linne](https://shop.mango.com/se/herr/byxor-linne/slim-fit-byxa-100--linne_57000570.html)
 
-4 [Unbound Merino Travel Pants](https://unboundmerino.com/collections/pants/products/merino-wool-pants?variant=39642264993886)
+3 [Unbound Merino Travel Pants](https://unboundmerino.com/collections/pants/products/merino-wool-pants?variant=39642264993886)
 
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
@@ -136,7 +136,7 @@
 
 [Norröna Lofoten Gore-Tex Pro Plus Jacket](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-jacka-herr/?color=3301)
 
-[Snugpak Tomahawk WGTE](https://snugpak.com/collections/clothing-insulated-jacket/products/tomahawk-wgte?variant=42604786024620)
+[Carinthia MIG 4.0](https://www.carinthia.eu/en/mig-4-0-jacket-sof-olive-m-p6352/)
 
 ### Bottom
 
