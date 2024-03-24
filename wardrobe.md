@@ -38,7 +38,7 @@
 
 [Merrell Moab 3 Wide](https://www.merrell.com/US/en/moab-3-wide-width/52465M.html?dwvar_52465M_color=J035885W#cgid=moab-3-collection&prefn1=isOnSale&prefv1=false&start=1)
 
-[Lundhags Jaure II Light High Wide](https://www.lundhags.com/se/kangor/herr/vandringskangor/jaure-ii-ms-lt-high-wide/?item=1013790-925)
+[Lundhags Jaure II High Wide](https://www.lundhags.com/se/kangor/herr/vandringskangor/jaure-ii-ms-high-wide/?item=1013789-725)
 
 ## Underwear
 
