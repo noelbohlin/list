@@ -142,7 +142,7 @@
 
 [Norröna Lofoten Gore-Tex Pro Plus Pants](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-byxor-herr/?color=7718)
 
-[Snugpak Salopettes Reversible Full Leg Zip WGTE](https://snugpak.com/collections/clothing-salopettes/products/salopettes-rev-flz-wgte?variant=42604857852076)
+[Taiga CPA Arctic Trousers](https://www.taiga.se/en/products/cpa-arctic-trousers)
 
 ### Gloves
 
