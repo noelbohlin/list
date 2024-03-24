@@ -26,6 +26,8 @@
 
 [Pakt Travel Backpack](https://paktbags.com/products/the-pakt-travel-backpack?variant=34631236223138)
 
+[Savotta Keikka 80L](https://www.savotta.fi/products/keikka-80l?variant=39319053140102)
+
 ## Shoes
 
 [Xero Z-Trek](https://www.xeroshoes.eu/shop/sandals/ztrek-men/)
