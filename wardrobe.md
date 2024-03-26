@@ -94,7 +94,7 @@
 
 ### Gloves
 
-2 [Hestra Merino Windwool Liner 5 Finger](https://www.hestragloves.se/merino-windwool-liner-5-finger-black)
+2 [Hestra Merino Wool Liner Active 5 Finger](https://www.hestragloves.se/merino-wool-liner-active-5-finger-charcoal)
 
 [Woolpower Mittens 400](https://woolpower.se/shop/produkt/mittens-400/)
 
