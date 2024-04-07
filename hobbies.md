@@ -162,7 +162,7 @@
 
 3 [Mizuno GX Sonic 6 NV](https://www.mizunousa.com/us/product/swim-men-gx-sonic-6-nv/570075)
 
-2 [Mizuno GX Sonic V Mr](https://www.mizunousa.com/us/product/swim-men-gx-sonic-v-mr/570025)
+2 [Arena Powerskin Primo](https://www.arenasport.com/en_us/006962-powerskin-primo-jammer.html)
 
 ### Training Briefs
 
