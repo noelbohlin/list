@@ -14,7 +14,7 @@
 
 2 [Spce Pen Bullet 400B](https://www.spacepen.com/400B.aspx)
 
-[Leatherman Skeletool CX](https://www.leatherman.com/skeletool-cx-19.html)
+[Leatherman MUT](https://www.leatherman.com/mut-29.html)
 
 # Wardrobe
 
