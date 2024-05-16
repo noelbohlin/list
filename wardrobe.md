@@ -116,8 +116,6 @@
 
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
-[Crye Precision G3 All Weather Field Pant](https://www.cryeprecision.com/G3-All-Weather-Field-Pant?quantity=1&color=Ranger%20Green)
-
 [Lundhags Authentic II](https://www.lundhags.com/se/klader/herr/byxor/authentic-ii-ms-pant/?item=1114095-619)
 
 ### Hats
