@@ -144,7 +144,7 @@
 
 [Norröna Lofoten Gore-Tex Pro Plus Pants](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-byxor-herr/?color=7718)
 
-[Taiga CPA Arctic Trousers](https://www.taiga.se/en/products/cpa-arctic-trousers-0015-0015-m-m))
+[Taiga CPA Arctic Trousers](https://www.taiga.se/en/products/cpa-arctic-trousers-0015-0015-m-m)
 
 ### Gloves
 
