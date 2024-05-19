@@ -118,6 +118,8 @@
 
 [Lundhags Authentic II](https://www.lundhags.com/se/klader/herr/byxor/authentic-ii-ms-pant/?item=1114095-619)
 
+[Taiga Russel Trousers](https://www.taiga.se/sv/produkter/russel-trousers-068-068-c50-c50)
+
 ### Hats
 
 [Woolpower Beanie Rib](https://woolpower.se/shop/produkt/beanie-rib/)
