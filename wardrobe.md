@@ -124,8 +124,6 @@
 
 [Woolpower Beanie Rib](https://woolpower.se/shop/produkt/beanie-rib/)
 
-[Houdini Alto Neck Gaiter](https://houdinisportswear.com/sv-se/clothing/accessories/alto-neck-gaiter-370274?color=370274900)
-
 [Fjällräven Abisko Hike Lite Cap](https://www.fjallraven.com/se/sv-se/dam/accessoarer/kepsar-hattar-mossor/abisko-hike-lite-cap)
 
 ### Gloves
