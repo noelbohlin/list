@@ -38,7 +38,7 @@
 
 [Nicks Wickett & Craig English Bridle Veg Tan](https://nicksboots.com/wickett-craig-english-bridle-veg-tan-mto/)
 
-[Merrell Moab 3 Wide](https://www.merrell.com/US/en/moab-3-wide-width/52465M.html?dwvar_52465M_color=J035885W#cgid=moab-3-collection&prefn1=isOnSale&prefv1=false&start=1)
+[Salomon XA Forces Jungle](https://www.salomon.com/en-us/shop/product/xa-forces-jungle-lg4826.html#color=71893)
 
 [Lundhags Jaure II High Wide](https://www.lundhags.com/se/kangor/herr/vandringskangor/jaure-ii-ms-high-wide/?item=1013789-725)
 
