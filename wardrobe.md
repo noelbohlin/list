@@ -52,7 +52,7 @@
 
 4 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
-7 [Smartwool Everyday Solid Rib Crew Socks](https://www.smartwool.com/shop/everyday-solid-rib-crew-2-pack-socks-sw001888?variationId=122)
+7 [Smartwool Everyday Anchor Line Crew Socks](https://www.smartwool.com/shop/everyday-anchor-line-crew-socks-sw001735?variationId=122)
 
 4 [Woolpower Socks 400](https://woolpower.se/shop/produkt/socks-400/)
 
