@@ -62,6 +62,8 @@
 
 6 [Unbound Merino Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
 
+2 [Western Rise Limitless SS Shirt](https://westernrise.com/products/limitless-short-sleeve-shirt?variant=42123051991223)
+
 3 [Aclima Woolnet Original crewneck](https://www.aclima.se/aclima/103387/woolnet-original-crewneck-m-s-olive-night-m)
 
 ### Bottom
