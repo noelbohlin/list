@@ -82,6 +82,8 @@
 
 2 [Fjällräven Visby Chalk White Sweater M](https://www.fjallraven.com/se/sv-se/herr/overdelar/trojor-stickat/visby-sweater-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_a0563db5-0a0b-4855-a8f9-f591968180d1_sv-SE&_t_hit.pos=1&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F84151%3a%3a7323450730895)
 
+[Mango Slim-fit Skjorta 100% Linne](https://shop.mango.com/se/herr/skjortor-linne/slim-fit-skjorta-100--linne_57080618.html?c=55)
+
 ### Bottom
 
 2 [Woolpower Long Johns w fly 200](https://woolpower.se/shop/produkt/long-johns-w-fly-200/)
@@ -106,8 +108,6 @@
 
 [WeatherWool Peacoat](https://weatherwool.com/collections/jackets/products/weatherwool-peacoat?variant=206338097156)
 
-[Mango Slim-fit Skjorta 100% Linne](https://shop.mango.com/se/herr/skjortor-linne/slim-fit-skjorta-100--linne_57080618.html?c=55)
-
 [Fjällräven Lappland Hybrid Jacket M](https://www.fjallraven.com/se/sv-se/herr/jackor/jaktjackor/lappland-hybrid-jacket-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_ec522a96-a65e-49d8-a19a-dbccd6b1099c_sv-SE&_t_hit.pos=9&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F90170%3a%3a7323450541378)
 
 ### Bottom
@@ -119,8 +119,6 @@
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
 [Lundhags Authentic II](https://www.lundhags.com/se/klader/herr/byxor/authentic-ii-ms-pant/?item=1114095-619)
-
-[Taiga Russel Trousers](https://www.taiga.se/sv/produkter/russel-trousers-068-068-c50-c50)
 
 ### Hats
 
