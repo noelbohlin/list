@@ -52,7 +52,9 @@
 
 4 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
-7 [Smartwool Everyday Anchor Line Crew Socks](https://www.smartwool.com/shop/everyday-anchor-line-crew-socks-sw001735?variationId=122)
+4 [Smartwool Everyday Anchor Line Crew Socks](https://www.smartwool.com/shop/everyday-anchor-line-crew-socks-sw001735?variationId=122)
+
+4 [Injinji Liner Crew Merino Wool](https://www.injinji.com/liner-crew-merino-wool.html)
 
 4 [Woolpower Socks 400](https://woolpower.se/shop/produkt/socks-400/)
 
