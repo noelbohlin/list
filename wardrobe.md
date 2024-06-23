@@ -140,7 +140,7 @@
 
 ### Bottom
 
-[Taiga Forest Trousers 3.0](https://www.taiga.se/sv/produkter/forest-trousers-3-0-068-068-m-m)
+[Taiga Forest Trousers 3.0](https://www.taiga.se/sv/produkter/forest-trousers-3-0)
 
 ### Gloves
 
