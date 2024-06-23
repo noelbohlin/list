@@ -24,8 +24,6 @@
 
 [Prometheus Design Werx S.H.A.D.O. Pack 24L](https://prometheusdesignwerx.com/collections/backpacks/products/s-h-a-d-o-pack-24l-universal-field-gray-1?variant=39341008158806)
 
-[Pakt Travel Backpack](https://paktbags.com/products/the-pakt-travel-backpack?variant=34631236223138)
-
 [Savotta Keikka 80L](https://www.savotta.fi/products/keikka-80l?variant=39319053140102)
 
 ## Shoes
@@ -89,8 +87,6 @@
 ### Bottom
 
 2 [Woolpower Long Johns w fly 200](https://woolpower.se/shop/produkt/long-johns-w-fly-200/)
-
-[Woolpower Long Johns w fly 400](https://woolpower.se/shop/produkt/long-johns-w-fly-400/)
 
 ### Hats
 
