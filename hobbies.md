@@ -170,7 +170,7 @@
 
 ### Open Water Suits
 
-[Roka Maverick X2 Wetsuit](https://eu.roka.com/collections/mens-wetsuits/products/mens-maverick-x2-wetsuit)
+[Roka Maverick X3 Wetsuit](https://eu.roka.com/collections/mens-wetsuits/products/mens-maverick-x-3-wetsuit?variant=41201459986537)
 
 ### Caps
 
@@ -190,29 +190,17 @@
 
 ### Training Gear
 
-            - DMC Elite Max Fins
+[DMC Elite Max Fins](https://dmcfins.com/collections/swim-fins/products/elite-max-black)
                 
-                [ELITE MAX - Black](https://dmcfins.com/collections/swim-fins/products/elite-max-black)
+[Arena Kickboard](https://www.arenasport.com/en_us/95275-kickboard.html)
                 
-            - Arena Kickboard
+[Strokemakers 3](https://strokemakers.com/products/star-spangled-strokemakers-size-large-3-red-ss3r?variant=39921170776236)
                 
-                [Kickboard](https://www.arenasport.com/en_us/95275-kickboard.html)
+[Speedo Pullbuoy](https://www.speedo.com/uk/en/pullbuoy/801791B076.html)
                 
-            - Strokemakers 3
+[Finis Swim Parachute](https://www.finisswim.com/Swim-Parachute?quantity=1&custcol9=5)
                 
-                [Strokemakers Technique Swimming Paddles](https://strokemakers.com/products/star-spangled-strokemakers-size-large-3-red-ss3r?variant=39921170776236)
-                
-            - Speedo Pullbuoy
-                
-                [Shop Speedo Swimsuits & Swimwear | Speedo USA](https://www.speedo.com/uk/en/pullbuoy/801791B076.html)
-                
-            - Finis Swim Parachute
-                
-                [](https://www.finisswim.com/Swim-Parachute?quantity=1&custcol9=5)
-                
-            - Arena Swim Snorkel Pro
-                
-                [Swim Snorkel Pro III](https://www.arenasport.com/en_us/004826-swim-snorkel-pro-iii.html#280=38840)
+[Arena Swim Snorkel Pro](https://www.arenasport.com/en_us/004826-swim-snorkel-pro-iii.html#280=38840)
 
 ## Outdoor
 
