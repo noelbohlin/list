@@ -60,9 +60,13 @@
 
 ### Top
 
-6 [Unbound Merino Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
+4 [Unbound Merino Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
 
 2 [Western Rise Limitless SS Shirt](https://westernrise.com/products/limitless-short-sleeve-shirt?variant=42123051991223)
+
+2 [Unbound Merino Long Sleeve Henley](https://unboundmerino.com/collections/tops/products/merino-wool-henley?variant=39993432277086)
+
+2 [Unbound Merino Polo](https://unboundmerino.com/products/merino-polo?variant=39839867338846)
 
 3 [Aclima Woolnet Original crewneck](https://www.aclima.se/aclima/103387/woolnet-original-crewneck-m-s-olive-night-m)
 
@@ -80,9 +84,7 @@
 
 2 [Houdini M’s Alto Hoodie](https://houdinisportswear.com/sv-se/clothing/sweaters-hoodies/mens-alto-houdi-840032?color=840032900)
 
-2 [Fjällräven Visby Chalk White Sweater M](https://www.fjallraven.com/se/sv-se/herr/overdelar/trojor-stickat/visby-sweater-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_a0563db5-0a0b-4855-a8f9-f591968180d1_sv-SE&_t_hit.pos=1&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F84151%3a%3a7323450730895)
-
-[Mango Slim-fit Skjorta 100% Linne](https://shop.mango.com/se/herr/skjortor-linne/slim-fit-skjorta-100--linne_57080618.html?c=55)
+[Western Rise Adapt Quarter Zip](https://westernrise.com/products/adapt-quarter-zip)
 
 ### Bottom
 
