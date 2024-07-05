@@ -108,6 +108,8 @@
 
 [WeatherWool Peacoat](https://weatherwool.com/collections/jackets/products/weatherwool-peacoat?variant=206338097156)
 
+[Flint and Tinder Flannel Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
+
 [Fjällräven Lappland Hybrid Jacket M](https://www.fjallraven.com/se/sv-se/herr/jackor/jaktjackor/lappland-hybrid-jacket-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_ec522a96-a65e-49d8-a19a-dbccd6b1099c_sv-SE&_t_hit.pos=9&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F90170%3a%3a7323450541378)
 
 ### Bottom
@@ -115,6 +117,8 @@
 3 [Mango Slim-fit Byxa 100% Linne](https://shop.mango.com/se/herr/byxor-linne/slim-fit-byxa-100--linne_57000570.html)
 
 3 [Unbound Merino Travel Pants](https://unboundmerino.com/collections/pants/products/merino-wool-pants?variant=39642264993886)
+
+[Tom Ford Wool Blend Twill Jean](https://www.tomfordfashion.com/wool-blend-twill-jean/SDL002-FMN040F24.html)
 
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
