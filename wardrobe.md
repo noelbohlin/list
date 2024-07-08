@@ -28,17 +28,21 @@
 
 ## Shoes
 
-[Xero Z-Trek](https://www.xeroshoes.eu/shop/sandals/ztrek-men/)
-
-[Vivobarefoot Geo Court III](https://www.vivobarefoot.com/se/geo-court-iii-mens?colour=Naturell)
-
 [Crown Northamton Harlestone Hand Stitch Derby](https://crownnorthampton.com/collections/luxury-handmade-sneakers/products/harlestone-hand-stitch-derby-horween-black-shell-cordovan?variant=40709040537773)
 
-[Nicks Wickett & Craig English Bridle Veg Tan](https://nicksboots.com/wickett-craig-english-bridle-veg-tan-mto/)
+[Carmina Wholecut Oxford 910 Rain Black Cordovan](https://www.carminashoemaker.com/oxford-cordovan-black-910)
+
+[Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
+
+[Crown Northamton Woodford Desert Boot](https://crownnorthampton.com/en-se/collections/stitchdown-construction/products/woodford-desert-boot-snuff-janus-calf-suede?variant=31905492041795)
+
+[Vivobarefoot Geo Court III](https://www.vivobarefoot.com/se/geo-court-iii-mens?colour=Naturell)
 
 [Salomon XA Forces Jungle](https://www.salomon.com/en-us/shop/product/xa-forces-jungle-lg4826.html#color=71893)
 
 [Lundhags Jaure II High Wide](https://www.lundhags.com/se/kangor/herr/vandringskangor/jaure-ii-ms-high-wide/?item=1013789-725)
+
+[Xero Z-Trek](https://www.xeroshoes.eu/shop/sandals/ztrek-men/)
 
 ## Underwear
 
@@ -60,7 +64,7 @@
 
 ### Top
 
-4 [Unbound Merino Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
+3 [Unbound Merino Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
 
 2 [Western Rise Limitless SS Shirt](https://westernrise.com/products/limitless-short-sleeve-shirt?variant=42123051991223)
 
@@ -181,10 +185,6 @@
 [Vivobarefoot Primus Lite Knit](https://www.vivobarefoot.com/se/primus-lite-knit-mens)
 
 ## Dress
-
-[Carmina Wholecut Oxford 910 Rain Black Cordovan](https://www.carminashoemaker.com/oxford-cordovan-black-910)
-
-[Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
 
 - White Tie
 - Black Tie
