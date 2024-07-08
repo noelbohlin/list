@@ -28,8 +28,6 @@
 
 ## Shoes
 
-[Crown Northamton Harlestone Hand Stitch Derby](https://crownnorthampton.com/collections/luxury-handmade-sneakers/products/harlestone-hand-stitch-derby-horween-black-shell-cordovan?variant=40709040537773)
-
 [Carmina Wholecut Oxford 910 Rain Black Cordovan](https://www.carminashoemaker.com/oxford-cordovan-black-910)
 
 [Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
