@@ -108,7 +108,7 @@
 
 ### Top
 
-[WeatherWool Peacoat](https://weatherwool.com/collections/jackets/products/weatherwool-peacoat?variant=206338097156)
+[WeatherWool Peacoat](https://weatherwool.com/collections/jackets/products/weatherwool-peacoat?variant=45011720569079)
 
 [Flint and Tinder Flannel Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
 
