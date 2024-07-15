@@ -38,7 +38,7 @@
 
 [Salomon XA Forces Jungle](https://www.salomon.com/en-us/shop/product/xa-forces-jungle-lg4826.html#color=71893)
 
-[Lundhags Jaure II High Wide](https://www.lundhags.com/se/kangor/herr/vandringskangor/jaure-ii-ms-high-wide/?item=1013789-725)
+[Lundhags Jaure II High Wide](https://lundhags.com/se/kangor/herrkangor/vandringskangor/jaure-ii-ms-high-wide-bark-black--1013789-725)
 
 [Xero Z-Trek](https://www.xeroshoes.eu/shop/sandals/ztrek-men/)
 
