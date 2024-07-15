@@ -68,8 +68,6 @@
 
 3 [Unbound Merino Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
 
-2 [Western Rise Limitless SS Shirt](https://westernrise.com/products/limitless-short-sleeve-shirt?variant=42123051991223)
-
 2 [Unbound Merino Long Sleeve Henley](https://unboundmerino.com/collections/tops/products/merino-wool-henley?variant=39993432277086)
 
 2 [Unbound Merino Polo](https://unboundmerino.com/products/merino-polo?variant=39839867338846)
