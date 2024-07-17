@@ -26,6 +26,8 @@
 
 [Savotta Keikka 80L](https://www.savotta.fi/products/keikka-80l?variant=39319053140102)
 
+4 [Silva Dry Bag TPU 6L](https://silvasweden.com/products/dry-bags-tpu?variant=44368583131458)
+
 ## Shoes
 
 [Carmina Wholecut Oxford 910 Rain Black Cordovan](https://www.carminashoemaker.com/oxford-cordovan-black-910)
