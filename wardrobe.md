@@ -122,6 +122,8 @@
 
 3 [Unbound Merino Travel Pants](https://unboundmerino.com/collections/pants/products/merino-wool-pants?variant=39642264993886)
 
+2 [Tom Ford Techno Gabardine Atticus Western Pocket Trouser](https://www.tomfordfashion.com/techno-gabardine-atticus-western-pocket-trouser/PLAW01-WVS03.html)
+
 [Tom Ford Wool Blend Twill Jean](https://www.tomfordfashion.com/wool-blend-twill-jean/SDL002-FMN040F24.html)
 
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
