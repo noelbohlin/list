@@ -132,7 +132,7 @@
 
 [Woolpower Beanie Rib](https://woolpower.se/shop/produkt/beanie-rib/)
 
-[Fjällräven Abisko Hike Lite Cap](https://www.fjallraven.com/se/sv-se/dam/accessoarer/kepsar-hattar-mossor/abisko-hike-lite-cap)
+[Lundhags Base II Cap](https://lundhags.com/se/base-ii-cap--1142331-604)
 
 ### Gloves
 
