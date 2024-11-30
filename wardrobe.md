@@ -116,8 +116,6 @@
 
 [Flint and Tinder Flannel Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
 
-[Fjällräven Lappland Hybrid Jacket M](https://www.fjallraven.com/se/sv-se/herr/jackor/jaktjackor/lappland-hybrid-jacket-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_ec522a96-a65e-49d8-a19a-dbccd6b1099c_sv-SE&_t_hit.pos=9&_t_tags=andquerymatch%2clanguage%3asv%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F90170%3a%3a7323450541378)
-
 ### Bottom
 
 3 [Tom Ford Techno Gabardine Atticus Western Pocket Trouser](https://www.tomfordfashion.com/techno-gabardine-atticus-western-pocket-trouser/PLAW01-WVS03.html)
