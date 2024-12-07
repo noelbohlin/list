@@ -5,3 +5,5 @@
 ## [Hobbies](hobbies.md)
 
 ## [Other](list.md)
+
+## [Kilimanjaro](kilimanjaro.md)
