@@ -13,7 +13,9 @@ Altra Timp Hikers
 ### Socks
 
 3 Woolpower liners
+
 2 Injinji outdoor midweight toe socks
+
 3 Smartwool mountaineering heavyweight
 
 ## Base Layer
@@ -21,8 +23,11 @@ Altra Timp Hikers
 ### Top
 
 Aclima Woolnet Shirt
+
 2 Fältskjorta 90
+
 2 Fältskjorta 59
+
 Swedmount merino t-shirt
 
 ### Bottom
@@ -34,13 +39,17 @@ Aclima Woolnet Hybrid Pants
 ### Top
 
 Värmeundertröja
+
 Tröja 90
+
 Trimtex jacka
 
 ### Bottom
 
 Värmeunderbyxor
+
 Woolpower 200 byxor
+
 Trimtex byxor
 
 ### Hats
