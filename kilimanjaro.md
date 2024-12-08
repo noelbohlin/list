@@ -14,21 +14,33 @@
 
 ### Top
 
-3 [Aclima Woolnet Original crewneck](https://www.aclima.se/aclima/103387/woolnet-original-crewneck-m-s-olive-night-m)
+Aclima Woolnet Shirt
+2 Fältskjorta 90
+2 Fältskjorta 59
+Swedmount merino t-shirt
 
 ### Bottom
+
+Aclima Woolnet Hybrid Pants
 
 ## Mid Layer
 
 ### Top
 
+Värmeundertröja
+Tröja 90
+Trimtex jacka
+
 ### Bottom
+
+Värmeunderbyxor
+Trimtex byxor
 
 ### Hats
 
 ### Gloves
 
-2 [Hestra Merino Wool Liner Active 5 Finger](https://www.hestragloves.se/merino-wool-liner-active-5-finger-charcoal)
+Merino wool liners
 
 ## Outer Layer
 
@@ -36,7 +48,7 @@
 
 ### Bottom
 
-[Lundhags Authentic II](https://www.lundhags.com/se/klader/herr/byxor/authentic-ii-ms-pant/?item=1114095-619)
+Lundhags Authentic II trousers
 
 ### Hats
 
@@ -44,3 +56,14 @@
 
 ## Reinforcement Layer
 
+### Top
+
+Snugpak Sleeka Elite
+
+### Bottom
+
+### Hats
+
+### Gloves
+
+### Sunglasses
