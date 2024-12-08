@@ -4,11 +4,17 @@
 
 ## Shoes
 
+Altra Timp Hikers
+
 ## Underwear
 
 ### Boxers
 
 ### Socks
+
+3 Woolpower liners
+2 Injinji outdoor midweight toe socks
+3 Smartwool mountaineering heavyweight
 
 ## Base Layer
 
@@ -34,6 +40,7 @@ Trimtex jacka
 ### Bottom
 
 Värmeunderbyxor
+Woolpower 200 byxor
 Trimtex byxor
 
 ### Hats
