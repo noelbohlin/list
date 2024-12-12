@@ -26,9 +26,7 @@ Aclima Woolnet Shirt
 
 2 Fältskjorta 90
 
-2 Fältskjorta 59
-
-Swedmount merino t-shirt
+2 Swedmount merino t-shirt
 
 ### Bottom
 
@@ -43,6 +41,8 @@ Värmeundertröja
 Tröja 90
 
 Trimtex jacka
+
+Fältskjorta 59
 
 ### Bottom
 
