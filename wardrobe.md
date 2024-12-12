@@ -118,9 +118,9 @@
 
 ### Bottom
 
-3 [Tom Ford Techno Gabardine Atticus Western Pocket Trouser](https://www.tomfordfashion.com/techno-gabardine-atticus-western-pocket-trouser/PLAW01-WVS03.html)
+3 [AskOkey Pleated Dinner Trousers](https://askokey.com/shop/trousers/pleated-dinner-trousers)
 
-3 [Mango Slim-fit Byxa 100% Linne](https://shop.mango.com/se/herr/byxor-linne/slim-fit-byxa-100--linne_57000570.html)
+3 [AskOkey Flat Front Trousers Ivory Linen](https://askokey.com/shop/trousers/flat-front-trousers)
 
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
