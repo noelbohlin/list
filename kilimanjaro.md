@@ -40,8 +40,6 @@ Värmeundertröja
 
 Tröja 90
 
-Trimtex jacka
-
 Fältskjorta 59
 
 ### Bottom
@@ -61,6 +59,8 @@ Merino wool liners
 ## Outer Layer
 
 ### Top
+
+Trimtex jacka
 
 ### Bottom
 
