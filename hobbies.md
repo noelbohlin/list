@@ -66,8 +66,6 @@
 
 [Chase Bliss Tonal Recall RKM](https://www.chaseblissaudio.com/shop-pedals/tonal-recall-rkm)
 
-[Strymon Cloudburst](https://www.strymon.net/product/cloudburst/)
-
 #### Amps
 
 ##### [Two Rock Traditional Clean](https://www.two-rock.com/traditional-clean/)
