@@ -164,20 +164,6 @@
 
 [Ray-Ban Clubround Classic](https://www.ray-ban.com/sweden/sunglasses/RB4246%20UNISEX%20clubround%20classic-svart/8053672559682)
 
-## Work Out
-
-### Top
-
-2 [Trimtex Fast T-shirt](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/t-shirts-och-toppar/t-shirts/fast-t-shirt-ss-men/VL18-0205-19.html)
-
-[Trimtex Element 2.0](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/jackor-och-vaestar-1/element-2.0-traeningsjacka-herr/VL22-0086-20.html#start=1)
-
-### Bottom
-
-2 [Trimtex Fast shorts](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/fast-shorts-herr/VL21-0310-22.html#start=1)
-
-[Trimtex Element vintertights](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/element-vintertights-herr/VS21-0007-18.html#start=1)
-
 ## Dress
 
 - White Tie
