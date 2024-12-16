@@ -118,9 +118,11 @@
 
 ### Bottom
 
-3 [AskOkey Pleated Dinner Trousers](https://askokey.com/shop/trousers/pleated-dinner-trousers)
+2 [AskOkey Pleated Dinner Trousers](https://askokey.com/shop/trousers/pleated-dinner-trousers)
 
-3 [AskOkey Flat Front Trousers Ivory Linen](https://askokey.com/shop/trousers/flat-front-trousers)
+2 [AskOkey Office Trousers](https://askokey.com/shop/trousers/office-trousers)
+
+2 [AskOkey Drawstring Trousers](https://askokey.com/shop/trousers/drawstring-trousers)
 
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
