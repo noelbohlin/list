@@ -28,6 +28,8 @@
 
 3 [Aclima Woolnet Original crewneck](https://www.aclima.se/aclima/103387/woolnet-original-crewneck-m-s-olive-night-m)
 
+2 [Woolpower Tee Lite](https://woolpower.se/shop/produkt/tee-lite/)
+
 ### Bottom
 
 2 [Aclima WoolNet Original longs](https://www.aclima.se/aclima/103394/woolnet-original-longs-m-s-olive-night-m)
