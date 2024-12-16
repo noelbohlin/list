@@ -80,7 +80,7 @@
 
 ### Top
 
-[Norröna Lofoten Gore-Tex Pro Plus Jacket](https://www.norrona.com/sv-SE/produkter/lofoten/lofoten-gore-tex-pro-plus-jacka-herr/?color=3301)
+[Taiga Forest Jacket 3.0](https://www.taiga.se/sv/produkter/forest-jacket-3-0)
 
 [Carinthia MIG 4.0](https://www.carinthia.eu/en/mig-4-0-jacket-sof-olive-m-p6352/)
 
