@@ -40,7 +40,7 @@
 
 2 [Woolpower Zip Turtleneck 200](https://woolpower.se/shop/produkt/zip-turtleneck-200/)
 
-2 [Woolpower Full Zip Jacket 600](https://woolpower.se/shop/produkt/full-zip-jacket-600/)
+[Woolpower Full Zip Jacket 600](https://woolpower.se/shop/produkt/full-zip-jacket-600/)
 
 ### Bottom
 
