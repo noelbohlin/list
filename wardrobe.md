@@ -44,10 +44,6 @@
 
 [Xero Z-Trek](https://www.xeroshoes.eu/shop/sandals/ztrek-men/)
 
-[Altra Superior 6](https://www.altrarunning.eu/se/superior-6-man-13-7997.html)
-
-[Vivobarefoot Primus Lite Knit](https://www.vivobarefoot.com/se/primus-lite-knit-mens)
-
 ## Underwear
 
 ### Boxers
