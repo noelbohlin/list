@@ -60,6 +60,8 @@
 
 ### Top
 
+[Fjällräven Lappland Hybrid Jacket M](https://www.fjallraven.com/se/sv-se/herr/jackor/jaktjackor/lappland-hybrid-jacket-m/)
+
 ### Bottom
 
 [Lundhags Authentic II](https://www.lundhags.com/se/klader/herr/byxor/authentic-ii-ms-pant/?item=1114095-619)
