@@ -66,7 +66,7 @@
 
 2 [Houdini M’s Alto Hoodie](https://houdinisportswear.com/sv-se/clothing/sweaters-hoodies/mens-alto-houdi-840032?color=840032900)
 
-[Western Rise Adapt Quarter Zip](https://westernrise.com/products/adapt-quarter-zip)
+[N.Peal Men's Albemarle Cable Half Zip Cashmere Jumper](https://eu.npeal.com/products/mens-cable-half-zip-cashmere-jumper-navy-blue-melange)
 
 ### Bottom
 
