@@ -50,7 +50,7 @@
 
 ### Bottom
 
-2 [Woolpower Long Johns w fly 200](https://woolpower.se/shop/produkt/long-johns-w-fly-200/)
+[Woolpower Long Johns w fly 200](https://woolpower.se/shop/produkt/long-johns-w-fly-200/)
 
 ### Hats
 
@@ -106,3 +106,4 @@
 
 ### Sunglasses
 
+[Okley Sutro TI](https://www.oakleysi.com/en-us/product/W0OO6013?variant=888392589088)
