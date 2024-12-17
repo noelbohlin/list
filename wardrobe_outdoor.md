@@ -20,7 +20,13 @@
 
 ### Boxers
 
+7 [Woolpower Boxer M Lite](https://woolpower.se/shop/produkt/boxer-ms-lite/)
+
 ### Socks
+
+4 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
+
+3 [Woolpower Socks 400](https://woolpower.se/shop/produkt/socks-400/)
 
 ## Base Layer
 
