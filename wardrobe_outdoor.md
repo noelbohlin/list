@@ -100,8 +100,6 @@
 
 ### Gloves
 
-[Hestra Army Leather Gore-Tex 3-finger](https://www.hestragloves.se/army-leather-gore-tex-3-finger-black-natural-grey)
-
 [Hestra Army Leather Extreme Mitt](https://www.hestragloves.se/army-leather-extreme-mitt-black-offwhite)
 
 ### Sunglasses
