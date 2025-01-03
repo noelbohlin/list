@@ -26,11 +26,9 @@
 
 [Fender Locking Tuners](https://shop.fender.com/en-SE/parts/stratocaster-parts/locking-stratocastertelecaster-tuning-machines/0990818000.html)
 
-[Dunlop StrapLok Dual Design](https://www.jimdunlop.com/straplok-strap-retainers-dual-design-vintage-nickel/?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=)
-
 [Dunlop PENDLETON® X DUNLOP ORIGINAL SURF PLAID WOOLEN AUTHENTICS™ STRAP](https://www.jimdunlop.com/pendleton-x-dunlop-original-surf-plaid-woolen-authentics-strap/)
 
-[Ernie Ball 10-48 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02227)
+[Ernie Ball 10.5-48 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02213)
 
 #### [Strandberg Boden Original 6 Neck-Thru](https://strandbergguitars.com/eu/product/boden-original-6-neck-thru-brown-burst/)
 
@@ -43,6 +41,8 @@
 [Dunlop DELUXE SEATBELT BLACK STRAP](https://www.jimdunlop.com/32700102001-deluxe-seatbelt-strap/)
 
 #### [PRS Private Stock Super Eagle II](https://prsguitars.com/electrics/model/private_stock_super_eagle_ii)
+
+[Ernie Ball Slinky 10-48 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02227)
 
 ### Pedalboard
 
