@@ -1,8 +1,8 @@
 # Hobbies
 
-## Music
+# Music
 
-### Picks
+## Picks
 
 [Dunlop Tortex 1.14](https://www.jimdunlop.com/tortex-standard-pick-1-14mm/)
 
@@ -10,15 +10,15 @@
 
 [Dunlop Jazz III](https://www.jimdunlop.com/jazz-iii-nylon-pick/)
 
-### Acoustic Guitars
+## Acoustic Guitars
 
 [Martin OM-42](https://www.martinguitar.com/guitars/all-guitars/OM-42.html?cgid=all-guitars)
 
-### Electric Guitar
+## Electric Guitar
 
-#### Electric Guitars
+### Electric Guitars
 
-##### [1960 Fender Stratocaster Serial # 49005](https://www.premierguitar.com/articles/1960-fender-stratocaster-serial-49005-1)
+#### [1960 Fender Stratocaster Serial # 49005](https://www.premierguitar.com/articles/1960-fender-stratocaster-serial-49005-1)
 
 [King Tone Bluebird J1 Pickups](https://www.kingtoneguitar.com/product/bluebird-j1-guitar-pickups/)
 
@@ -32,7 +32,7 @@
 
 [Ernie Ball 10-48 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02227)
 
-##### [Strandberg Boden Original 6 Neck-Thru](https://strandbergguitars.com/eu/product/boden-original-6-neck-thru-brown-burst/)
+#### [Strandberg Boden Original 6 Neck-Thru](https://strandbergguitars.com/eu/product/boden-original-6-neck-thru-brown-burst/)
 
 [Ernie Ball Slinky 10.5-52 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02211)
 
@@ -42,15 +42,15 @@
 
 [Dunlop DELUXE SEATBELT BLACK STRAP](https://www.jimdunlop.com/32700102001-deluxe-seatbelt-strap/)
 
-##### [PRS Private Stock Super Eagle II](https://prsguitars.com/electrics/model/private_stock_super_eagle_ii)
+#### [PRS Private Stock Super Eagle II](https://prsguitars.com/electrics/model/private_stock_super_eagle_ii)
 
-#### Pedalboard
+### Pedalboard
 
 [The GigRig G3](https://www.thegigrig.com/g3)
 
 [TC Electronic Polytune 3](https://www.tcelectronic.com/product.html?modelCode=P0CM0)
 
-##### Dry Pedals
+#### Dry Pedals
 
 [Nordvang '83 Drive v2.0](https://nordvangcustom.com/collections/trio/products/83-drive-v2-0-pre-order)
 
@@ -60,51 +60,51 @@
 
 [Chase Bliss Audio Automatone Preamp MkII](https://www.chasebliss.com/preamp-mkii)
 
-##### Wet Pedals
+#### Wet Pedals
 
 [Poly Effects Beebo](https://www.polyeffects.com/polyeffects/p/beebo)
 
 [Chase Bliss Tonal Recall RKM](https://www.chaseblissaudio.com/shop-pedals/tonal-recall-rkm)
 
-#### Amps
+### Amps
 
-##### [Two Rock Traditional Clean](https://www.two-rock.com/traditional-clean/)
-
-[Two Rock 2x12 Cabinet](https://www.two-rock.com/product/cabinets/)
-
-##### [Two Rock Classic Reverb Signature](https://www.two-rock.com/amps/classic-reverb-signature/)
+#### [Two Rock Traditional Clean](https://www.two-rock.com/traditional-clean/)
 
 [Two Rock 2x12 Cabinet](https://www.two-rock.com/product/cabinets/)
 
-##### [PRS HDRX](https://prsguitars.com/amplifier/hdrx_100_2023_2_2)
+#### [Two Rock Classic Reverb Signature](https://www.two-rock.com/amps/classic-reverb-signature/)
+
+[Two Rock 2x12 Cabinet](https://www.two-rock.com/product/cabinets/)
+
+#### [PRS HDRX](https://prsguitars.com/amplifier/hdrx_100_2023_2_2)
 
 [PRS HDRX 4x12 Cabinet](https://eu.prsguitars.com/amplifier/hdrx_4x12_cabinet_2023_2)
 
-##### [Victory VX100 The Super Kraken](https://www.victoryamps.com/product/vx100-the-super-kraken/)
+#### [Victory VX100 The Super Kraken](https://www.victoryamps.com/product/vx100-the-super-kraken/)
 
 [Victory Kraken 212 Cabinet](https://www.victoryamps.com/product/v212-vg/)
 
-### Bass Guitar
+## Bass Guitar
 
-#### Bass Guitars
+### Bass Guitars
 
-##### [Fender Custom Shop 63 P Bass Journeyman Relic®](http://www.fendercustomshop.com/basses/precision-bass/63-p-bass-journeyman-relic-rosewood-fingerboard-aged-3-color-sunburst/)
+#### [Fender Custom Shop 63 P Bass Journeyman Relic®](http://www.fendercustomshop.com/basses/precision-bass/63-p-bass-journeyman-relic-rosewood-fingerboard-aged-3-color-sunburst/)
 
 [La Bella Deep Talkin 0760M Strings](https://www.labella.com/strings/category/standard-long-scale-4-string-deep-talkin-bass-flat-wounds-bass/)
 
-##### [Fodera Quilted Mahogany Imperial 5 Elite](https://fodera.smugmug.com/Newborn-Gallery-Vol-VI/Newborn-1985/i-7Cg25TX)
+#### [Fodera Quilted Mahogany Imperial 5 Elite](https://fodera.smugmug.com/Newborn-Gallery-Vol-VI/Newborn-1985/i-7Cg25TX)
 
-#### Bass Amps
+### Bass Amps
 
 [Ampeg SVT 50th Anniversary](https://ampeg.com/products/heritage/svt-50thAnniversary/)
 
 [Acme Audio Motown D.I.](https://acmeaudio.net/#motowndi)
 
-### Keyboard
+## Keyboard
 
 [Korg Pa5X](https://www.korg.com/us/products/synthesizers/pa5x/)
 
-## Skiing
+# Skiing
 
 ### Nordic
 
