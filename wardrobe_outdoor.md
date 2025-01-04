@@ -24,7 +24,9 @@
 
 ### Socks
 
-4 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
+3 [Injinji Liner Crew Merino Wool](https://www.injinji.com/liner-crew-merino-wool.html)
+
+5 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
 3 [Woolpower Socks 400](https://woolpower.se/shop/produkt/socks-400/)
 
