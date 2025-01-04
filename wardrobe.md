@@ -10,6 +10,8 @@
 
 [Richard Mille 67-02](https://www.richardmille.com/collections/rm-67-02-automatic-extra-flat)
 
+[Richard Mille 67-01](https://www.richardmille.com/collections/rm-67-01-automatic-extra-flat)
+
 [Garmin Tactix 7 Pro](https://www.garmin.com/sv-SE/p/802703/pn/010-02704-11)
 
 [Rolex Submariner](https://www.rolex.com/en-us/watches/submariner/m124060-0001)
