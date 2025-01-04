@@ -1,8 +1,24 @@
 # Wardrobe
 
+## Accessories
+
+### Watches
+
+[Richard Mille 67-02](https://www.richardmille.com/collections/rm-67-02-automatic-extra-flat)
+
+[Richard Mille 67-01](https://www.richardmille.com/collections/rm-67-01-automatic-extra-flat)
+
+[Rolex Submariner](https://www.rolex.com/en-us/watches/submariner/m124060-0001)
+
 ## Bags
 
 ## Shoes
+
+[Carmina Wholecut Oxford 910 Rain Black Cordovan](https://www.carminashoemaker.com/oxford-cordovan-black-910)
+
+[Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
+
+[Crown Northamton Woodford Desert Boot](https://crownnorthampton.com/en-se/collections/stitchdown-construction/products/woodford-desert-boot-snuff-janus-calf-suede?variant=31905492041795)
 
 ## Underwear
 
@@ -15,6 +31,7 @@
 
 ## Mid Layer
 
+[N.Peal Men's Albemarle Cable Half Zip Cashmere Jumper](https://eu.npeal.com/products/mens-cable-half-zip-cashmere-jumper-navy-blue-melange)
 
 ## Outer Layer
 
