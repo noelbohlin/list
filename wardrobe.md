@@ -84,8 +84,6 @@
 
 ### Sunglasses
 
-[Oakley Kato Polished Black Sunglasses](https://www.oakley.com/en-se/product/W0OO9455?variant=888392491633)
-
 [Ray-Ban Clubround Classic](https://www.ray-ban.com/sweden/sunglasses/RB4246%20UNISEX%20clubround%20classic-svart/8053672559682)
 
 ## Dress
