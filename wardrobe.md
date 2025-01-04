@@ -54,8 +54,6 @@
 
 4 [Smartwool Everyday Anchor Line Crew Socks](https://www.smartwool.com/shop/everyday-anchor-line-crew-socks-sw001735?variationId=122)
 
-4 [Injinji Liner Crew Merino Wool](https://www.injinji.com/liner-crew-merino-wool.html)
-
 ## Base Layer
 
 ### Top
