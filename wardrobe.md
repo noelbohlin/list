@@ -6,14 +6,6 @@
 
 [Sony WF-1000XM4](https://www.sony.se/electronics/truly-wireless/wf-1000xm4)
 
-## Watches
-
-[Richard Mille 67-02](https://www.richardmille.com/collections/rm-67-02-automatic-extra-flat)
-
-[Richard Mille 67-01](https://www.richardmille.com/collections/rm-67-01-automatic-extra-flat)
-
-[Rolex Submariner](https://www.rolex.com/en-us/watches/submariner/m124060-0001)
-
 ## Other
 
 [Cappla Wallet Midnight Black](https://cappla.com/collections/wallets/products/midnight-black)
@@ -27,12 +19,6 @@
 ## Bags
 
 ## Shoes
-
-[Carmina Wholecut Oxford 910 Rain Black Cordovan](https://www.carminashoemaker.com/oxford-cordovan-black-910)
-
-[Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
-
-[Crown Northamton Woodford Desert Boot](https://crownnorthampton.com/en-se/collections/stitchdown-construction/products/woodford-desert-boot-snuff-janus-calf-suede?variant=31905492041795)
 
 [Vivobarefoot Geo Court III](https://www.vivobarefoot.com/se/geo-court-iii-mens?colour=Naturell)
 
@@ -68,8 +54,6 @@
 
 2 [Houdini M’s Alto Hoodie](https://houdinisportswear.com/sv-se/clothing/sweaters-hoodies/mens-alto-houdi-840032?color=840032900)
 
-[N.Peal Men's Albemarle Cable Half Zip Cashmere Jumper](https://eu.npeal.com/products/mens-cable-half-zip-cashmere-jumper-navy-blue-melange)
-
 ### Bottom
 
 ### Hats
@@ -85,14 +69,6 @@
 [Flint and Tinder Flannel Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
 
 ### Bottom
-
-2 [AskOkey Pleated Dinner Trousers](https://askokey.com/shop/trousers/pleated-dinner-trousers)
-
-2 [AskOkey Office Trousers](https://askokey.com/shop/trousers/office-trousers)
-
-2 [AskOkey Drawstring Trousers](https://askokey.com/shop/trousers/drawstring-trousers)
-
-[Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
 ### Hats
 
