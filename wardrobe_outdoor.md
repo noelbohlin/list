@@ -6,6 +6,8 @@
 
 [Leatherman MUT](https://www.leatherman.com/mut-29.html)
 
+[Nitecore HC68](https://flashlight.nitecore.com/product/hc68)
+
 ## Bags
 
 [Liteway Biggie Pack Ultra 45L](https://liteway.equipment/packs/biggie-pack-ultra-45l)
