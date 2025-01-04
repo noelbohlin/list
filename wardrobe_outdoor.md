@@ -2,7 +2,11 @@
 
 ## Accessories
 
+### Watches
+
 [Garmin Tactix 7 Pro](https://www.garmin.com/sv-SE/p/802703/pn/010-02704-11)
+
+### Tools
 
 [Leatherman MUT](https://www.leatherman.com/mut-29.html)
 
