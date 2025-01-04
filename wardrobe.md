@@ -12,8 +12,6 @@
 
 [Richard Mille 67-01](https://www.richardmille.com/collections/rm-67-01-automatic-extra-flat)
 
-[Garmin Tactix 7 Pro](https://www.garmin.com/sv-SE/p/802703/pn/010-02704-11)
-
 [Rolex Submariner](https://www.rolex.com/en-us/watches/submariner/m124060-0001)
 
 ## Other
@@ -23,8 +21,6 @@
 [Orbitkey Key Organiser Active](https://www.orbitkey.com/collections/key-organiser/products/orbitkey-2-0-active?variant=8198980993120)
 
 2 [Spce Pen Bullet 400B](https://www.spacepen.com/400B.aspx)
-
-[Leatherman MUT](https://www.leatherman.com/mut-29.html)
 
 # Wardrobe
 
