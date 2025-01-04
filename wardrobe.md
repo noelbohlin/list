@@ -1,16 +1,24 @@
 # EDC
 
+## Electronics
+
 [ASUS Zenfone 10](https://www.asus.com/se/mobile-handhelds/phones/zenfone/zenfone-10/)
 
-[Cappla Wallet Midnight Black](https://cappla.com/collections/wallets/products/midnight-black)
+[Sony WF-1000XM4](https://www.sony.se/electronics/truly-wireless/wf-1000xm4)
 
-[Orbitkey Key Organiser Active](https://www.orbitkey.com/collections/key-organiser/products/orbitkey-2-0-active?variant=8198980993120)
+## Watches
 
 [Richard Mille 67-02](https://www.richardmille.com/collections/rm-67-02-automatic-extra-flat)
 
 [Garmin Tactix 7 Pro](https://www.garmin.com/sv-SE/p/802703/pn/010-02704-11)
 
-[Sony WF-1000XM4](https://www.sony.se/electronics/truly-wireless/wf-1000xm4)
+[Rolex Submariner](https://www.rolex.com/en-us/watches/submariner/m124060-0001)
+
+## Other
+
+[Cappla Wallet Midnight Black](https://cappla.com/collections/wallets/products/midnight-black)
+
+[Orbitkey Key Organiser Active](https://www.orbitkey.com/collections/key-organiser/products/orbitkey-2-0-active?variant=8198980993120)
 
 2 [Spce Pen Bullet 400B](https://www.spacepen.com/400B.aspx)
 
