@@ -39,8 +39,6 @@
 
 ## Trousers
 
-2 [AskOkey Pleated Dinner Trousers](https://askokey.com/shop/trousers/pleated-dinner-trousers)
-
 2 [AskOkey Office Trousers](https://askokey.com/shop/trousers/office-trousers)
 
 2 [AskOkey Drawstring Trousers](https://askokey.com/shop/trousers/drawstring-trousers)
@@ -50,6 +48,8 @@
 ### Hats
 
 ### Gloves
+
+[Hestra Peccary Unlined](https://www.hestragloves.se/peccary-unlined-palm-button-black)
 
 ## Reinforcement Layer
 
