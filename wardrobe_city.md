@@ -10,6 +10,16 @@
 
 [Rolex Submariner](https://www.rolex.com/en-us/watches/submariner/m124060-0001)
 
+### Sunglasses
+
+[Ray-Ban Clubround Classic](https://www.ray-ban.com/sweden/sunglasses/RB4246%20UNISEX%20clubround%20classic-svart/8053672559682)
+
+### Gloves
+
+[Hestra Peccary Unlined](https://www.hestragloves.se/peccary-unlined-palm-button-black)
+
+### Hats
+
 ## Bags
 
 ## Shoes
@@ -28,7 +38,6 @@
 
 ## Base Layer
 
-
 ## Mid Layer
 
 [N.Peal Men's Albemarle Cable Half Zip Cashmere Jumper](https://eu.npeal.com/products/mens-cable-half-zip-cashmere-jumper-navy-blue-melange)
@@ -39,22 +48,14 @@
 
 ## Trousers
 
-2 [AskOkey Office Trousers](https://askokey.com/shop/trousers/office-trousers)
+[AskOkey Office Trousers](https://askokey.com/shop/trousers/office-trousers)
 
-2 [AskOkey Drawstring Trousers](https://askokey.com/shop/trousers/drawstring-trousers)
+[AskOkey Drawstring Trousers Linen](https://askokey.com/shop/trousers/drawstring-trousers)
 
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
-### Hats
-
-### Gloves
-
-[Hestra Peccary Unlined](https://www.hestragloves.se/peccary-unlined-palm-button-black)
-
 ## Reinforcement Layer
 
-[AksOkey Dress Coat](https://askokey.com/shop/coats/dress-coat)
+[AksOkey Dress Coat Charcoal](https://askokey.com/shop/coats/dress-coat)
 
-### Sunglasses
-
-[Ray-Ban Clubround Classic](https://www.ray-ban.com/sweden/sunglasses/RB4246%20UNISEX%20clubround%20classic-svart/8053672559682)
+[Burberry Long Gabardine Trench Coat Graphite](https://us.burberry.com/long-gabardine-trench-coat-p80998711)
