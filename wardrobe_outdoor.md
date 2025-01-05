@@ -119,5 +119,3 @@
 ### Sunglasses
 
 [Okley Sutro TI](https://www.oakleysi.com/en-us/product/W0OO6013?variant=888392589088)
-
-[Oakley Kato Polished Black Sunglasses](https://www.oakley.com/en-se/product/W0OO9455?variant=888392491633)
