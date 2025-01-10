@@ -26,9 +26,13 @@
 
 [Carmina Wholecut Oxford 910 Rain Black Cordovan](https://www.carminashoemaker.com/oxford-cordovan-black-910)
 
-[Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
+[Crockett and Jones Oxford Lonsdale Dark Brown Calf](https://eu.crockettandjones.com/collections/mens-oxfords-collection/products/lonsdale-darkbrown-calf)
+
+[Carmina Cordovan Penny Loafers Full Strap Burgundy Cordovan](https://www.carminashoemaker.com/cordovan-loafers-burgundy-80372)
 
 [Crown Northamton Woodford Desert Boot](https://crownnorthampton.com/en-se/collections/stitchdown-construction/products/woodford-desert-boot-snuff-janus-calf-suede?variant=31905492041795)
+
+[Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
 
 ## Underwear
 
@@ -41,6 +45,8 @@
 ## Mid Layer
 
 [N.Peal Men's Albemarle Cable Half Zip Cashmere Jumper](https://eu.npeal.com/products/mens-cable-half-zip-cashmere-jumper-navy-blue-melange)
+
+[N.Peal Men's Cable Roll Neck Cashmere Jumper](https://eu.npeal.com/products/mens-cable-roll-neck-cashmere-jumper-pebble-grey)
 
 ## Outer Layer
 
