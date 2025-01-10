@@ -60,7 +60,7 @@
 
 2 [Woolpower Zip Turtleneck 200](https://woolpower.se/shop/produkt/zip-turtleneck-200/)
 
-[Woolpower Full Zip Jacket 600](https://woolpower.se/shop/produkt/full-zip-jacket-600/)
+[Befälströja m/87](https://nordicpreparation.com/klader-accessoarer/befalstroja-m87)
 
 ### Bottom
 
