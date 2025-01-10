@@ -30,9 +30,9 @@
 
 [Carmina Cordovan Penny Loafers Full Strap Burgundy Cordovan](https://www.carminashoemaker.com/cordovan-loafers-burgundy-80372)
 
-[Crown Northamton Woodford Desert Boot](https://crownnorthampton.com/en-se/collections/stitchdown-construction/products/woodford-desert-boot-snuff-janus-calf-suede?variant=31905492041795)
+[Crown Northamton Woodford Desert Boot Brown Janus Calf Suede](https://crownnorthampton.com/en-se/collections/stitchdown-construction/products/woodford-desert-boot-brown-janus-calf-suede)
 
-[Crockett and Jones Harlech Whiskey Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-whisky-cordovan)
+[Crockett and Jones Harlech Dark Brown Cordovan](https://eu.crockettandjones.com/collections/shell-cordovan-collection/products/harlech-darkbrown-cordovan)
 
 ## Underwear
 
