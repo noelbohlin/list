@@ -48,8 +48,6 @@
 
 ## Suits
 
-[AskOkey Double Breasted Office Suit Black](https://askokey.com/shop/suits/double-breasted-office-suit)
-
 [AskOkey Three Piece Suit Navy](https://askokey.com/shop/suits/three-piece-suit)
 
 [AskOkey Double Breasted Office Suit Meduim Gray](https://askokey.com/shop/suits/double-breasted-office-suit)
