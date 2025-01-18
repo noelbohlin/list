@@ -78,6 +78,8 @@
 
 [N.Peal Men's Albemarle Cable Half Zip Cashmere Jumper](https://eu.npeal.com/products/mens-cable-half-zip-cashmere-jumper-navy-blue-melange)
 
+[N.Peal Men's The Thames Cable Cashmere Jumper Moss Green](https://eu.npeal.com/products/mens-the-thames-cable-cashmere-jumper-moss-green)
+
 [N.Peal Men's Cable Roll Neck Cashmere Jumper](https://eu.npeal.com/products/mens-cable-roll-neck-cashmere-jumper-pebble-grey)
 
 [AskOkey Double Breasted Waistcoat Gray](https://askokey.com/shop/waistcoats/double-breasted-waistcoat)
