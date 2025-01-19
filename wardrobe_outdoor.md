@@ -14,8 +14,6 @@
 
 ## Bags
 
-[Liteway Biggie Pack Ultra 45L](https://liteway.equipment/packs/biggie-pack-ultra-45l)
-
 [Prometheus Design Werx S.H.A.D.O. Pack 24L](https://prometheusdesignwerx.com/collections/backpacks/products/s-h-a-d-o-pack-24l-universal-field-gray-1?variant=39341008158806)
 
 [Savotta Keikka 80L](https://www.savotta.fi/products/keikka-80l?variant=39319053140102)
