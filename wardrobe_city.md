@@ -66,6 +66,8 @@
 
 [AskOkey Drawstring Trousers Linen](https://askokey.com/shop/trousers/drawstring-trousers)
 
+[Brioni Charcoal grey and olive green houndstooth flannel wool Journey trousers](https://www.brioni.com/en/us/pr/charcoal-grey-and-olive-green-houndstooth-flannel-wool-journey-trousers-RP300MOCA671300?from=search)
+
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
 ## Shirts
