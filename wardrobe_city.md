@@ -72,18 +72,20 @@
 
 ## Shirts
 
+[Brioni White and blue striped Giza 45 cotton formal shirt](https://www.brioni.com/en/us/pr/white-and-blue-striped-giza-45-cotton-formal-shirt-RCB40LOC04D9048)
+
 [Brioni Essential white cotton shirt French cuff formal](https://www.brioni.com/en/us/pr/essential-white-cotton-french-cuff-formal-shirt-RCL0BIPZ0249000)
 
-[Brioni White and blue striped Giza 45 cotton formal shirt](https://www.brioni.com/en/us/pr/white-and-blue-striped-giza-45-cotton-formal-shirt-RCB40LOC04D9048)
+[Brioni White Linen hidden button down shirt](https://www.brioni.com/en/us/pr/white-linen-hidden-button-down-shirt-SCAY0LP91119000)
 
 [N-Peal 007 Round Neck Cotton Cashmere Henley](https://eu.npeal.com/products/round-neck-henley-new-ivory-white)
 
 ## Mid Layer
+
+[AskOkey Double Breasted Waistcoat Gray](https://askokey.com/shop/waistcoats/double-breasted-waistcoat)
 
 [N.Peal Men's Albemarle Cable Half Zip Cashmere Jumper](https://eu.npeal.com/products/mens-cable-half-zip-cashmere-jumper-navy-blue-melange)
 
 [N.Peal Men's The Thames Cable Cashmere Jumper Moss Green](https://eu.npeal.com/products/mens-the-thames-cable-cashmere-jumper-moss-green)
 
 [N.Peal Men's Cable Roll Neck Cashmere Jumper](https://eu.npeal.com/products/mens-cable-roll-neck-cashmere-jumper-pebble-grey)
-
-[AskOkey Double Breasted Waistcoat Gray](https://askokey.com/shop/waistcoats/double-breasted-waistcoat)
