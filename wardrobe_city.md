@@ -72,9 +72,9 @@
 
 ## Shirts
 
-[AskOkey Classic Dress Shirt](https://askokey.com/shop/shirts/classic-dress-shirt)
-
 [Brioni Essential white cotton shirt French cuff formal](https://www.brioni.com/en/us/pr/essential-white-cotton-french-cuff-formal-shirt-RCL0BIPZ0249000)
+
+[Brioni White and blue striped Giza 45 cotton formal shirt](https://www.brioni.com/en/us/pr/white-and-blue-striped-giza-45-cotton-formal-shirt-RCB40LOC04D9048)
 
 [N-Peal 007 Round Neck Cotton Cashmere Henley](https://eu.npeal.com/products/round-neck-henley-new-ivory-white)
 
