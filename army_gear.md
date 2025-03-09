@@ -44,7 +44,13 @@
 
 ### Top
 
+[Taiga Combat SF Shirt](https://www.taiga.se/sv/produkter/combat-sf-shirt-073190552-1679)
+
+[Taiga DTJ UAC Shirt](https://www.taiga.se/sv/produkter/field-dtj-uac-shirt)
+
 ### Bottom
+
+[Taiga Combat SF Trousers](https://www.taiga.se/sv/produkter/023247752-1679-023247752-1679)
 
 ### Hats
 
@@ -58,4 +64,8 @@
 
 ### Top
 
+[Taiga CPA Jacket](https://www.taiga.se/sv/produkter/cpa-jacket-013075552-1679)
+
 ### Bottom
+
+[Taiga CPA Trousers](https://www.taiga.se/sv/produkter/cpa-trousers-023075652-1679)
