@@ -82,4 +82,4 @@
 
 ### Bottom
 
-[Taiga CPA Arctic Trousers](https://www.taiga.se/sv/produkter/cpa-arctic-trousers)
+[Taiga CPA Arctic Trousers](www.taiga.se/sv/produkter/cpa-arctic-trousers)
