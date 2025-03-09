@@ -2,6 +2,8 @@
 
 ## Bags
 
+[Savotta Keikka 80L](https://www.savotta.fi/products/keikka-80l)
+
 ## Shoes
 
 [Salomon XA Forces Jungle](https://www.salomon.com/en-us/shop/product/xa-forces-jungle-lg4826.html#color=71893)
@@ -15,6 +17,8 @@
 7 [Woolpower Boxer M Lite](https://woolpower.se/shop/produkt/boxer-ms-lite/)
 
 ### Socks
+
+
 
 ## Base Layer
 
