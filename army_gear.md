@@ -60,12 +60,26 @@
 
 [Arc'Teryx Cold WX Jacket LT (Gen2.1)](https://leaf.arcteryx.com/se/en/shop/mens/cold-wx-jacket-lt-gen-2-1-9548)
 
+### Bottom
+
+[Arc'Teryx Cold WX Pant LT (Gen2.1)](https://leaf.arcteryx.com/se/en/shop/mens/cold-wx-pant-lt-gen-2-1-multicam)
+
 ## Rain Layer
 
 ### Top
 
-[Taiga CPA Jacket](https://www.taiga.se/sv/produkter/cpa-jacket-013075552-1679)
+[Taiga CPA Jacket](https://www.taiga.se/sv/produkter/cpa-jacket)
 
 ### Bottom
 
-[Taiga CPA Trousers](https://www.taiga.se/sv/produkter/cpa-trousers-023075652-1679)
+[Taiga CPA Trousers](https://www.taiga.se/sv/produkter/cpa-trousers)
+
+## Snow Layer
+
+### Top
+
+[Taiga CPA Arctic Jacket](https://www.taiga.se/sv/produkter/cpa-arctic-jacket)
+
+### Bottom
+
+[Taiga CPA Arctic Trousers](https://www.taiga.se/sv/produkter/cpa-arctic-trousers)
