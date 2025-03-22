@@ -56,7 +56,7 @@
 
 ## Jackets
 
-
+[Zegna Light Beige Crossover Linen Wool and Silk Blend Jacket](https://www.zegna.com/se-en/ready-to-wear/blazers/product.light-beige-crossover-linen-wool-and-silk-blend-jacket.33520405/)
 
 [Flint and Tinder Flannel Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
 
@@ -64,9 +64,9 @@
 
 [AskOkey Office Trousers](https://askokey.com/shop/trousers/office-trousers)
 
-[AskOkey Drawstring Trousers Linen](https://askokey.com/shop/trousers/drawstring-trousers)
-
 [Brioni Charcoal grey and olive green houndstooth flannel wool Journey trousers](https://www.brioni.com/en/us/pr/charcoal-grey-and-olive-green-houndstooth-flannel-wool-journey-trousers-RP300MOCA671300?from=search)
+
+[Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
 [Buck Mason Black Ford Standard Jean](https://www.buckmason.com/products/standard-black-jean/)
 
