@@ -6,6 +6,8 @@
 
 Altra Timp Hikers
 
+Xero hiking shoes
+
 ## Underwear
 
 ### Boxers
@@ -37,6 +39,8 @@ Aclima Woolnet Hybrid Pants
 ### Top
 
 Värmeundertröja
+
+Stabströja M87
 
 Tröja 90
 
@@ -75,6 +79,8 @@ Lundhags Authentic II trousers
 ### Top
 
 Snugpak Sleeka Elite
+
+Snugpack Sleeka Elite Reversible
 
 ### Bottom
 
