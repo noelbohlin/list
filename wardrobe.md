@@ -20,72 +20,37 @@
 
 ## Shoes
 
-[Vivobarefoot Geo Court III](https://www.vivobarefoot.com/se/geo-court-iii-mens?colour=Naturell)
+[Crockett and Jones Oxford Lonsdale Dark Brown Calf](https://eu.crockettandjones.com/collections/mens-oxfords-collection/products/lonsdale-darkbrown-calf)
 
-[Xero Z-Trek](https://www.xeroshoes.eu/shop/sandals/ztrek-men/)
+[Carmina Cordovan Penny Loafers 80832 Robert](https://www.carminashoemaker.com/se/en/penny-loafer-burgundy-cordovan-80832)
+
+
 
 ## Underwear
 
 ### Boxers
 
-10 [Woolpower Boxer M Lite](https://woolpower.se/shop/produkt/boxer-ms-lite/)
+12 [Woolpower Boxer M Lite](https://woolpower.se/shop/produkt/boxer-ms-lite/)
 
 ### Socks
 
-4 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
+8 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
-4 [Smartwool Everyday Anchor Line Crew Socks](https://www.smartwool.com/shop/everyday-anchor-line-crew-socks-sw001735?variationId=122)
-
-## Base Layer
-
-### Top
-
-3 [Unbound Merino Crew Neck T-Shirt](https://unboundmerino.com/collections/shirts/products/merino-wool-crew-neck-t-shirt?variant=39673249103966)
-
-2 [Unbound Merino Long Sleeve Henley](https://unboundmerino.com/collections/tops/products/merino-wool-henley?variant=39993432277086)
+## Shirts
 
 2 [Unbound Merino Polo](https://unboundmerino.com/products/merino-polo?variant=39839867338846)
 
-### Bottom
+[Brioni White Linen hidden button down shirt](https://www.brioni.com/en/us/pr/white-linen-hidden-button-down-shirt-SCAY0LP91119000)
 
-## Mid Layer
+## Trousers
 
-### Top
+[Brioni Charcoal grey and olive green houndstooth flannel wool Journey trousers](https://www.brioni.com/en/us/pr/charcoal-grey-and-olive-green-houndstooth-flannel-wool-journey-trousers-RP300MOCA671300?from=search)
 
-2 [Houdini M’s Alto Hoodie](https://houdinisportswear.com/sv-se/clothing/sweaters-hoodies/mens-alto-houdi-840032?color=840032900)
+[Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
-### Bottom
-
-### Hats
-
-### Gloves
+## Sweaters
 
 ## Outer Layer
 
-### Top
-
-[WeatherWool Peacoat](https://weatherwool.com/collections/jackets/products/weatherwool-peacoat?variant=45011720569079)
-
 [Flint and Tinder Flannel Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
 
-### Bottom
-
-### Hats
-
-### Gloves
-
-## Reinforcement Layer
-
-### Top
-
-### Bottom
-
-### Gloves
-
-### Sunglasses
-
-## Dress
-
-- White Tie
-- Black Tie
-- Business
