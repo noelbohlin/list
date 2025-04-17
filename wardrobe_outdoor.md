@@ -70,12 +70,6 @@
 
 [Woolpower Beanie Lite](https://woolpower.se/shop/produkt/beanie-lite/)
 
-### Gloves
-
-2 [Hestra Merino Wool Liner Active 5 Finger](https://www.hestragloves.se/merino-wool-liner-active-5-finger-charcoal)
-
-[Woolpower Mittens 400](https://woolpower.se/shop/produkt/mittens-400/)
-
 ## Outer Layer
 
 ### Top
