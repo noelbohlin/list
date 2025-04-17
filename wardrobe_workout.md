@@ -1,20 +1,10 @@
 # Wardrobe Workout
 
-## Bags
-
 ## Shoes
 
 [Altra Superior 6](https://www.altrarunning.eu/se/superior-6-man-13-7997.html)
 
 [Vivobarefoot Primus Lite Knit](https://www.vivobarefoot.com/se/primus-lite-knit-mens)
-
-## Underwear
-
-### Boxers
-
-### Socks
-
-## Base Layer
 
 ### Top
 
@@ -23,12 +13,6 @@
 ### Bottom
 
 2 [Trimtex Fast shorts](https://trimtex.se/sv/produkter/herr/lopning-och-friidrott/tights-och-shorts-1/fast-shorts-herr/VL21-0310-22.html#start=1)
-
-## Mid Layer
-
-### Top
-
-### Bottom
 
 ## Outer Layer
 
@@ -46,12 +30,3 @@
 
 [Hestra Ergo Grip Wool Touring 5-Finger Black](https://www.hestragloves.se/ergo-grip-wool-touring-5-finger-black)
 
-## Reinforcement Layer
-
-### Top
-
-### Bottom
-
-### Gloves
-
-### Sunglasses
