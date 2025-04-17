@@ -34,7 +34,7 @@
 
 3 [Brioni White Linen hidden button down shirt](https://www.brioni.com/en/us/pr/white-linen-hidden-button-down-shirt-SCAY0LP91119000)
 
-4 [Unbound Merino Men's Merino Polo](https://unboundmerino.com/collections/polos/products/merino-polo?variant=41092125982814)
+4 [Unbound Merino Men's Short Sleeve Merino Button‑Up](https://unboundmerino.com/collections/button-ups/products/short-sleeve-merino-button-up?variant=40097449181278)
 
 ## Trousers
 
