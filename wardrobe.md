@@ -38,7 +38,7 @@
 
 ## Trousers
 
-2 [Brioni Charcoal grey and olive green houndstooth flannel wool Journey trousers](https://www.brioni.com/en/us/pr/charcoal-grey-and-olive-green-houndstooth-flannel-wool-journey-trousers-RP300MOCA671300?from=search)
+2 [Brioni Dark grey flannel wool and cotton twill Chamonix jeans](https://www.brioni.com/en/us/pr/dark-grey-flannel-wool-and-cotton-twill-chamonix-jeans-SPLQ0LO1A4N1100)
 
 2 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
