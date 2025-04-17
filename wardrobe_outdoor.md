@@ -46,7 +46,7 @@
 
 3 [Aclima Woolnet Original crewneck](https://www.aclima.se/aclima/103387/woolnet-original-crewneck-m-s-olive-night-m)
 
-2 [Woolpower Tee Lite](https://woolpower.se/shop/produkt/tee-lite/)
+2 [Aclima LeisureWool short sleeve shirt M's](https://www.aclima.com/sv/aclima/105990/leisurewool-short-sleeve-shirt-m-s-ranger-green-l)
 
 ### Bottom
 
