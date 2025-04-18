@@ -14,8 +14,6 @@
 
 [Richard Mille 67-02](https://www.richardmille.com/collections/rm-67-02-automatic-extra-flat)
 
-[Rolex Submariner](https://www.rolex.com/en-us/watches/submariner/m124060-0001)
-
 ## Bags
 
 ## Shoes
