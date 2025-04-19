@@ -30,9 +30,11 @@
 
 ## Shirts
 
-3 [Brioni White Linen hidden button down shirt](https://www.brioni.com/en/us/pr/white-linen-hidden-button-down-shirt-SCAY0LP91119000)
+3 [Wool & Prince 100% Wool Undershirt](https://woolandprince.com/products/natural-white-v-neck-undershirt)
 
-4 [Unbound Merino Men's Short Sleeve Merino Button‑Up](https://unboundmerino.com/collections/button-ups/products/short-sleeve-merino-button-up?variant=40097449181278)
+3 [Cifonelli Beige striped linen shirt](https://cifonelli.com/en/collections/chemises/products/chemise-en-lin-a-rayures-beige)
+
+3 [Zegna light blue and white striped Oasi Lino Shirt](https://www.zegna.com/se-en/ready-to-wear/shirts/product.oasi-lino-shirt.33994743/)
 
 ## Trousers
 
