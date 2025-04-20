@@ -30,11 +30,9 @@
 
 ## Shirts
 
-3 [Wool & Prince 100% Wool Undershirt](https://woolandprince.com/products/natural-white-v-neck-undershirt)
+3 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
 
-3 [Cifonelli Beige striped linen shirt](https://cifonelli.com/en/collections/chemises/products/chemise-en-lin-a-rayures-beige)
-
-3 [Zegna light blue and white striped Oasi Lino Shirt](https://www.zegna.com/se-en/ready-to-wear/shirts/product.oasi-lino-shirt.33994743/)
+3 [Eton Custom Made Light blue stripe merino, High cut away, Super slim fit](https://www.etonshirts.com/us/en/category/custom-made)
 
 ## Trousers
 
