@@ -44,7 +44,7 @@
 
 ## Sweaters
 
-[N.Peal Men's Albemarle Cable Half Zip Cashmere Jumper](https://eu.npeal.com/products/mens-cable-half-zip-cashmere-jumper-navy-blue-melange)
+[Stenströms Navy Cable Knit Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/navy-cable-knit-merino-half-zip?att=TA==)
 
 ## Outer Layer
 
