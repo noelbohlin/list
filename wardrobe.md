@@ -30,9 +30,9 @@
 
 ## Shirts
 
-3 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
+5 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
 
-3 [Eton Custom Made Light blue stripe merino, High cut away, Super slim fit](https://www.etonshirts.com/us/en/category/custom-made)
+5 [Eton Custom Made Light blue stripe merino, High cut away, Super slim fit](https://www.etonshirts.com/us/en/category/custom-made)
 
 ## Trousers
 
