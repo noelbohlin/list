@@ -44,6 +44,8 @@
 
 [Stenströms Navy Cable Knit Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/navy-cable-knit-merino-half-zip?att=TA==)
 
+[Brioni Military green and taupe cashmere and wool half-zip mockneck sweater](https://www.brioni.com/en/us/pr/military-green-and-taupe-cashmere-and-wool-half-zip-mockneck-sweater-UMS70LOCK123230?from=search)
+
 ## Outer Layer
 
 [Flint and Tinder Flannel Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
