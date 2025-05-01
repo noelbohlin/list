@@ -48,6 +48,5 @@
 
 ## Outer Layer
 
-[Flint and Tinder Flannel Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
+[Zegna Navy Blue Oasi Lino Shirt Jacket](https://www.zegna.com/se-en/ready-to-wear/blazers/product.navy-blue-oasi-lino-shirt-jacket.30317129/)
 
-[Brioni Royal blue vicuña, cashmere and silk Ravello jacket](https://www.brioni.com/en/us/pr/royal-blue-vicuna-cashmere-and-silk-ravello-jacket-RG0D0UO13390000?from=search)
