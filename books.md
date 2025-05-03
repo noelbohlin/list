@@ -1,6 +1,6 @@
 # Böcker
 
-## Klassiker
+## Skönlitteratur 
 
 ### Svenska
 
@@ -12,6 +12,14 @@ Odysséen - Homeros (Ingvar Björkeson)
 
 Aeneiden - Vergilius (Ingvar Björkeson)
 
+Brott och straff
+
+Krig och fred 
+
+Candide
+
+Millennium trilogin - Stieg Larsson 
+
 ### Engelska
 
 Nineteen Eighty-Four - George Orwell
@@ -19,6 +27,12 @@ Nineteen Eighty-Four - George Orwell
 Animal Farm - George Orwell
 
 The Phantom of the Opera - Gaston Leroux (Mireille Ribière)
+
+Lord of the rings
+
+Harry Potter
+
+Dan Browns works
 
 ## Filosofi
 
