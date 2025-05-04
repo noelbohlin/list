@@ -12,7 +12,9 @@ Odysséen - Homeros (Ingvar Björkeson)
 
 Aeneiden - Vergilius (Ingvar Björkeson)
 
-Brott och straff
+Metamorphoser - Ovidius (Ingvar Björkeson)
+
+Brott och straff - Fjodor Dostojevskij (Hans Björkegren)
 
 Krig och fred 
 
