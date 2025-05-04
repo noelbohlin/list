@@ -16,7 +16,7 @@ Metamorphoser - Ovidius (Ingvar Björkeson)
 
 Brott och straff - Fjodor Dostojevskij (Hans Björkegren)
 
-Krig och fred 
+Krig och fred - Leo Tolstoy
 
 Candide
 
