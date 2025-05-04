@@ -20,7 +20,7 @@ Krig och fred
 
 Candide
 
-Millennium trilogin - Stieg Larsson 
+Millenniumtrilogin - Stieg Larsson 
 
 ### Engelska
 
@@ -35,6 +35,12 @@ Lord of the rings
 Harry Potter
 
 Dan Browns works
+
+Mythos - Stephen Fry
+
+Heroes - Stephen Fry
+
+Troy - Stephen Fry
 
 ## Filosofi
 
