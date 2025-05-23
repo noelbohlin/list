@@ -24,15 +24,19 @@
 
 ## Underwear
 
+4 [Wool & Prince 100% Wool Undershirt](https://woolandprince.com/products/natural-white-v-neck-undershirt)
+
 12 [Woolpower Boxer M Lite](https://woolpower.se/shop/produkt/boxer-ms-lite/)
 
 8 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
 ## Shirts
 
-5 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
+4 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
 
-5 [Eton Custom Made Light blue stripe merino, Moderate cut away, Super slim fit](https://www.etonshirts.com/us/en/category/custom-made)
+4 [Eton Custom Made Light blue stripe merino, Moderate cut away, Super slim fit](https://www.etonshirts.com/us/en/category/custom-made)
+
+2 [Eton White Signature Twill Shirt – French Cuffs](https://www.etonshirts.com/us/en/product/white-french-cuff-shirt)
 
 ## Trousers
 
@@ -46,7 +50,9 @@
 
 [Brioni Military green and taupe cashmere and wool half-zip mockneck sweater](https://www.brioni.com/en/us/pr/military-green-and-taupe-cashmere-and-wool-half-zip-mockneck-sweater-UMS70LOCK123230?from=search)
 
-## Outer Layer
+[Brioni Beige cashmere and vicuña sweater](https://www.brioni.com/en/us/pr/beige-cashmere-and-vicuna-sweater-UMQ90LO1K119700?from=search)
+
+## Jackets
 
 [Zegna Navy Blue Oasi Lino Shirt Jacket](https://www.zegna.com/se-en/ready-to-wear/blazers/product.navy-blue-oasi-lino-shirt-jacket.30317129/)
 
