@@ -38,7 +38,7 @@
 
 2 [Brioni Dark grey flannel wool and cotton twill Chamonix jeans](https://www.brioni.com/en/us/pr/dark-grey-flannel-wool-and-cotton-twill-chamonix-jeans-SPLQ0LO1A4N1100)
 
-2 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
+3 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
 ## Sweaters
 
