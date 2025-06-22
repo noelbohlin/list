@@ -20,6 +20,10 @@
 
 [Carmina Cordovan Penny Loafers 80832 Robert](https://www.carminashoemaker.com/se/en/penny-loafer-burgundy-cordovan-80832)
 
+[Crockett & Jones Lonsdale Dark Brown Antique Calf](https://eu.crockettandjones.com/collections/lonsdale/products/lonsdale-darkbrown-calf)
+
+[Crockett & Jones Lonsdale Black Calf](https://eu.crockettandjones.com/collections/lonsdale/products/lonsdale-darkbrown-calf)
+
 [Nicks Falcon - W&C Veg Tan](https://nicksboots.com/falcon-boot-wc/)
 
 ## Underwear
@@ -30,6 +34,8 @@
 
 8 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
+8 [Smartwool Everyday No Show Socks](https://www.smartwool.com/en-us/wool-apparel-and-socks/everyday-socks/everyday-no-show-socks/SW001995.html?dwvar_SW001995_size=M&dwvar_SW001995_color=122)
+
 ## Shirts
 
 4 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
@@ -38,9 +44,11 @@
 
 4 [Eton White Signature Twill Shirt – French Cuffs](https://www.etonshirts.com/us/en/product/white-french-cuff-shirt)
 
+4 [Eton Jacquard Polo Shirt](https://www.etonshirts.com/us/en/product/dark-green-diamond-jaquard-polo-shirt)
+
 ## Trousers
 
-2 [Brioni Dark grey flannel wool and cotton twill Chamonix jeans](https://www.brioni.com/en/us/pr/dark-grey-flannel-wool-and-cotton-twill-chamonix-jeans-SPLQ0LO1A4N1100)
+
 
 3 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
