@@ -34,7 +34,7 @@
 
 ### Socks
 
-3 [Injinji Liner Crew Merino Wool](https://www.injinji.com/liner-crew-merino-wool.html)
+5 [Injinji Liner Crew Merino Wool](https://www.injinji.com/liner-crew-merino-wool.html)
 
 5 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
@@ -56,9 +56,11 @@
 
 ### Top
 
-2 [Woolpower Zip Turtleneck 200](https://woolpower.se/shop/produkt/zip-turtleneck-200/)
+[Woolpower Zip Turtleneck 200](https://woolpower.se/shop/produkt/zip-turtleneck-200/)
 
 [Befälströja m/87](https://nordicpreparation.com/klader-accessoarer/befalstroja-m87)
+
+[Arc'teryx LEAF Atom LT Jacket Gen 2.1 Men's](https://leaf.arcteryx.com/se/en/shop/mens/atom-lt-jacket-gen-2-1)
 
 ### Bottom
 
