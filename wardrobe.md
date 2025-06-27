@@ -22,7 +22,7 @@
 
 [Crockett & Jones Lonsdale Dark Brown Antique Calf](https://eu.crockettandjones.com/collections/lonsdale/products/lonsdale-darkbrown-calf)
 
-[Crockett & Jones Lonsdale Black Calf](https://eu.crockettandjones.com/collections/lonsdale/products/lonsdale-darkbrown-calf)
+[Crockett & Jones Lonsdale Black Calf](https://eu.crockettandjones.com/collections/lonsdale/products/lonsdale-black-calf)
 
 [Nicks Falcon - W&C Veg Tan](https://nicksboots.com/falcon-boot-wc/)
 
