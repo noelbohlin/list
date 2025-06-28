@@ -70,7 +70,7 @@ inte) [15 $]
 
 • Solhatt (bör ha skärm eller bred kant för att skydda nacke och öron)
 
-Rekyl Boonie
+- Rekyl Boonie
 
 • Bandana/buff (för damm och kyla)
 
