@@ -61,7 +61,7 @@ inte) [15 $]
 
 • Badkläder (före/efter vandringen)
 
-Skor
+## Skor
 
 • Vandringskängor (MÅSTE ha ankelstöd, vattenavvisande, väl ingångna) [35 $]
 
