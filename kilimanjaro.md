@@ -1,91 +1,13 @@
-# Packlist Kilimajaro
 
-## Bags
 
-## Shoes
+## Bagage
+• Dagsryggsäck 30–40L (MÅSTE ha ett bekvämt, stödjande midjebälte. Tillgängliga fickor,
+plats för vätskebehållare, ryggventilation och fästen för vandringsstavar underlättar också
+vid vandring) [35 $]
 
-Altra Timp Hikers
+* Ryggsäck/Duffelbag 70–100L (måste vara mjuk eftersom bärare bär den på huvudet) [35 $]
 
-Xero hiking shoes
+• Vattentätt överdrag/Torra påsar/Starka soppåsar (nödvändiga för att hålla kläder och
+sovutrustning torra i din väska) [15 $ vardera för dagsryggsäck och bärarväska]
 
-## Underwear
-
-### Boxers
-
-### Socks
-
-3 Woolpower liners
-
-2 Injinji outdoor midweight toe socks
-
-3 Smartwool mountaineering heavyweight
-
-## Base Layer
-
-### Top
-
-Aclima Woolnet Shirt
-
-2 Fältskjorta 90
-
-2 Swedmount merino t-shirt
-
-### Bottom
-
-Aclima Woolnet Hybrid Pants
-
-## Mid Layer
-
-### Top
-
-Värmeundertröja
-
-Stabströja M87
-
-Tröja 90
-
-Fältskjorta 59
-
-### Bottom
-
-Värmeunderbyxor
-
-Woolpower 200 byxor
-
-Trimtex byxor
-
-### Hats
-
-### Gloves
-
-Merino wool liners
-
-## Outer Layer
-
-### Top
-
-Trimtex jacka
-
-### Bottom
-
-Lundhags Authentic II trousers
-
-### Hats
-
-### Gloves
-
-## Reinforcement Layer
-
-### Top
-
-Snugpak Sleeka Elite
-
-Snugpack Sleeka Elite Reversible
-
-### Bottom
-
-### Hats
-
-### Gloves
-
-### Sunglasses
+• Återförslutningsbara plastpåsar* (användbara för att organisera din väska)
