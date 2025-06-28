@@ -22,9 +22,7 @@
 
 ## Shoes
 
-[Salomon XA Forces Jungle](https://www.salomon.com/en-us/shop/product/xa-forces-jungle-lg4826.html#color=71893)
-
-[Lundhags Jaure II High Wide](https://lundhags.com/se/kangor/herrkangor/vandringskangor/jaure-ii-ms-high-wide-bark-black--1013789-725)
+[Russell Moccasin Backcountry](https://russellmoccasin.com/collections/classic-builds/products/backcountry-premier-build-copy?variant=47155185942741)
 
 ## Underwear
 
