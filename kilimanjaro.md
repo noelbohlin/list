@@ -56,7 +56,9 @@ inte) [15 $]
 
 - Arc'teryx LEAF Naga 
 
-• Fukttransporterande t-shirts x 2/3; Långärmad fukttransporterande topp/skjorta x 1/2
+• Fukttransporterande t-shirts x 2/3
+
+• Långärmad fukttransporterande topp/skjorta x 1/2
 
 • Vandringsbyxor [Tjocka 15 $; Lätta 15 $]
 
@@ -88,6 +90,9 @@ inte) [15 $]
 • Isolerade tjocka handskar/Vantar (vind- och vattentäta för toppnatt) [10 $]
 
 • Tunna innerhandskar (för andra dagar, bör passa under tjocka handskar vid toppen) [10 $]
+
+- hestra merino liners
+- Guide arbetshandskar
 
 • Badkläder (före/efter vandringen)
 
