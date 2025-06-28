@@ -24,7 +24,7 @@ sovutrustning torra i din väska) [15 $ vardera för dagsryggsäck och bärarvä
 
 • Sovsäck för fyra säsonger (komforttemperatur på minst -12 °C) [35 $]
 
-- snugpak stor jäkel
+- Snugpak stor jäkel
 
 • Sovmadrass/Uppblåsbar Thermarest (för komfort och isolering, tunna skumunderlag räcker
 inte) [15 $]
@@ -44,15 +44,17 @@ inte) [15 $]
 
 • Poncho* [15 $]
 
-- snugpak patrol poncho
+- Snugpak patrol poncho
 
 • Dunjacka/Varm skidjacka [20 $]
 
-- snugpak sleeka elite
+- Snugpak Sleeka Elite
 
 • Tjock fleecetröja [15 $]
 
 • Vindskyddande softshelljacka/Lätt fleecetröja x 1/2 [15 $]
+
+- Arc'teryx LEAF Naga 
 
 • Fukttransporterande t-shirts x 2/3; Långärmad fukttransporterande topp/skjorta x 1/2
 
@@ -61,6 +63,8 @@ inte) [15 $]
 - Lundhags Authentic II
 
 • Shorts
+
+- Swedemount vandringsshorts
 
 • Långkalsonger [10 $]
 
@@ -74,7 +78,12 @@ inte) [15 $]
 
 • Bandana/buff (för damm och kyla)
 
+- Woolpower merinobuff
+
 • Balaklava/Varm mössa [10 $]
+
+- Olles Brorsa
+- Aclima merinomössa
 
 • Isolerade tjocka handskar/Vantar (vind- och vattentäta för toppnatt) [10 $]
 
