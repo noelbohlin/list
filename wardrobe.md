@@ -18,13 +18,13 @@
 
 ## Shoes
 
+[Nicks Falcon - W&C Veg Tan](https://nicksboots.com/falcon-boot-wc/)
+
 [Carmina Cordovan Penny Loafers 80832 Robert](https://www.carminashoemaker.com/se/en/penny-loafer-burgundy-cordovan-80832)
 
 [Crockett & Jones Lonsdale Dark Brown Antique Calf](https://eu.crockettandjones.com/collections/lonsdale/products/lonsdale-darkbrown-calf)
 
-[Crockett & Jones Lonsdale Black Calf](https://eu.crockettandjones.com/collections/lonsdale/products/lonsdale-black-calf)
-
-[Nicks Falcon - W&C Veg Tan](https://nicksboots.com/falcon-boot-wc/)
+[Carmina Cordovan Wholecut Oxford 910 Rain](https://www.carminashoemaker.com/se/en/oxford-cordovan-black-910)
 
 ## Underwear
 
