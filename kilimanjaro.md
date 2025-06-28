@@ -8,10 +8,16 @@ vid vandring) [35 $]
 
 • Ryggsäck/Duffelbag 70–100L (måste vara mjuk eftersom bärare bär den på huvudet) [35 $]
 
+  Trosspackning 100L
+
 • Vattentätt överdrag/Torra påsar/Starka soppåsar (nödvändiga för att hålla kläder och
 sovutrustning torra i din väska) [15 $ vardera för dagsryggsäck och bärarväska]
 
+  1 st innersäck stridspackning
+
 • Återförslutningsbara plastpåsar* (användbara för att organisera din väska)
+
+  3 st drybags
 
 ## Sovutrustning
 
