@@ -48,9 +48,11 @@
 
 ## Trousers
 
-
-
 3 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
+
+medium gray trousers
+
+navy trousers
 
 ## Sweaters
 
