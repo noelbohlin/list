@@ -18,15 +18,22 @@ sovutrustning torra i din väska) [15 $ vardera för dagsryggsäck och bärarvä
 • Återförslutningsbara plastpåsar* (användbara för att organisera din väska)
 
 - 3 st drybags
+- behöver fler
 
 ## Sovutrustning
 
 • Sovsäck för fyra säsonger (komforttemperatur på minst -12 °C) [35 $]
 
+- snugpak stor jäkel
+
 • Sovmadrass/Uppblåsbar Thermarest (för komfort och isolering, tunna skumunderlag räcker
 inte) [15 $]
 
+- ska ingå enligt reseledare
+
 • Sovsäckslakan* (siden eller fleece) [fleecelakan 15 $]
+
+- nej
 
 ## Kläder
 
@@ -37,7 +44,11 @@ inte) [15 $]
 
 • Poncho* [15 $]
 
+- snugpak patrol poncho
+
 • Dunjacka/Varm skidjacka [20 $]
+
+- snugpak sleeka elite
 
 • Tjock fleecetröja [15 $]
 
@@ -46,6 +57,8 @@ inte) [15 $]
 • Fukttransporterande t-shirts x 2/3; Långärmad fukttransporterande topp/skjorta x 1/2
 
 • Vandringsbyxor [Tjocka 15 $; Lätta 15 $]
+
+- Lundhags Authentic II
 
 • Shorts
 
@@ -56,6 +69,8 @@ inte) [15 $]
 • Underkläder (helst ej bomull)
 
 • Solhatt (bör ha skärm eller bred kant för att skydda nacke och öron)
+
+Rekyl Boonie
 
 • Bandana/buff (för damm och kyla)
 
@@ -92,13 +107,15 @@ par]
 
 • Vandringsstavar (starkt rekommenderade, särskilt för att minska belastning på knän) [15 $]
 
+- Nej
+
 • Kemiska handvärmare
+
+- Nej
 
 • Kamera & extra batterier
 
 • Powerbank/Solcellsladdare
-
-• Kontaktlinser (plus extra glasögon)
 
 • Gaffatejp för nödreparationer
 
@@ -143,6 +160,8 @@ par]
 • Värmesalva/Ibuprofen gel
 
 • Knäskydd
+
+- Nej
 
 • Malariatabletter (enligt läkares råd)
 
