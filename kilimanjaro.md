@@ -195,8 +195,6 @@ par]
 
 • Näsdukar/Toalettpapper
 
-• Mensskydd (vid behov)
-
 • Våtservetter
 
 • Plastpåsar för toalettpapper på leden (kan kastas i lägren)
