@@ -8,16 +8,16 @@ vid vandring) [35 $]
 
 • Ryggsäck/Duffelbag 70–100L (måste vara mjuk eftersom bärare bär den på huvudet) [35 $]
 
-  Trosspackning 100L
+- Trosspackning 100L
 
 • Vattentätt överdrag/Torra påsar/Starka soppåsar (nödvändiga för att hålla kläder och
 sovutrustning torra i din väska) [15 $ vardera för dagsryggsäck och bärarväska]
 
-  1 st innersäck stridspackning
+- 1 st innersäck stridspackning
 
 • Återförslutningsbara plastpåsar* (användbara för att organisera din väska)
 
-  3 st drybags
+- 3 st drybags
 
 ## Sovutrustning
 
@@ -84,9 +84,7 @@ par]
 
 • LED-pannlampa plus extra batterier [15 $ – ta med AAA-batterier om du planerar att hyra]
 
-• Vattenflaskor/Vätskepåse (minimikapacitet totalt 3-4L, kombination av båda för att minimera
-
-frysrisk på toppnatt) [Flaska - 10 $ styck; Påse - 15 $]
+• Vattenflaskor/Vätskepåse (minimikapacitet totalt 3-4L, kombination av båda för att minimera frysrisk på toppnatt) [Flaska - 10 $ styck; Påse - 15 $]
 
 • Solglasögon (100 % UV-skydd, helst omslutande) [10 $]
 
