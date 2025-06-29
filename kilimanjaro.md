@@ -43,30 +43,16 @@
 ## Skor
 | rekomendation | kommentar | packade |
 |----|----|----|
+|Vandringskängor (MÅSTE ha ankelstöd, vattenavvisande, väl ingångna) [35 $] | | |
+|Vandringsstrumpor x 5+ (minst 4 par, varav minst 1 par ska vara termostrumpor) [5 $ per par] | | |
+|Damasker (Obligatoriska om du inte har långa byxor med remmar eller höga kängor) [15 $] | | |
+|Lättare skor/tofflor (för kvällar i lägret) | | |
+|Extra skosnören | | |
 | | | |
 | | | |
 | | | |
 | | | |
 | | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-
-
-## Skor
-
-• Vandringskängor (MÅSTE ha ankelstöd, vattenavvisande, väl ingångna) [35 $]
-
-• Vandringsstrumpor x 5+ (minst 4 par, varav minst 1 par ska vara termostrumpor) [5 $ per
-par]
-
-• Damasker (Obligatoriska om du inte har långa byxor med remmar eller höga kängor) [15 $]
-
-• Lättare skor/tofflor (för kvällar i lägret)
-
-• Extra skosnören
 
 ## Allmän vandringsutrustning
 
@@ -133,8 +119,6 @@ par]
 • Värmesalva/Ibuprofen gel
 
 • Knäskydd
-
-- Nej
 
 • Malariatabletter (enligt läkares råd)
 
