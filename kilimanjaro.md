@@ -2,107 +2,58 @@
 
 
 ## Bagage
-| rekomendation | antal | packade |
-|-----|-----|----|
-|Dagsryggsäck 30–40L (MÅSTE ha ett bekvämt, stödjande midjebälte. Tillgängliga fickor, plats för vätskebehållare, ryggventilation och fästen för vandringsstavar underlättar också vid vandring) [35$] | 1 | 1 |
-| | | |
-
-
-## Bagage
-
-• Dagsryggsäck 30–40L (MÅSTE ha ett bekvämt, stödjande midjebälte. Tillgängliga fickor,
-plats för vätskebehållare, ryggventilation och fästen för vandringsstavar underlättar också
-vid vandring) [35 $]
-
-• Ryggsäck/Duffelbag 70–100L (måste vara mjuk eftersom bärare bär den på huvudet) [35 $]
-
-- Trosspackning 100L
-
-• Vattentätt överdrag/Torra påsar/Starka soppåsar (nödvändiga för att hålla kläder och
-sovutrustning torra i din väska) [15 $ vardera för dagsryggsäck och bärarväska]
-
-- 1 st innersäck stridspackning
-
-• Återförslutningsbara plastpåsar* (användbara för att organisera din väska)
-
-- 3 st drybags
-- behöver fler
+| rekomendation | kommentar | packade |
+|:---|:---:|---:|
+|Dagsryggsäck 30–40L (MÅSTE ha ett bekvämt, stödjande midjebälte. Tillgängliga fickor, plats för vätskebehållare, ryggventilation och fästen för vandringsstavar underlättar också vid vandring) [35$] | Prometheus Design Werx S.H.A.D.O | |
+|Ryggsäck/Duffelbag 70–100L (måste vara mjuk eftersom bärare bär den på huvudet) [35 $] |FM Trosspackning | |
+|Vattentätt överdrag/Torra påsar/Starka soppåsar (nödvändiga för att hålla kläder och sovutrustning torra i din väska) [15 $ vardera för dagsryggsäck och bärarväska] |1 st innersäck stridspackning | |
+|Återförslutningsbara plastpåsar* (användbara för att organisera din väska) |3 st drybags - behöver fler | |
 
 ## Sovutrustning
-
-• Sovsäck för fyra säsonger (komforttemperatur på minst -12 °C) [35 $]
-
-- Snugpak stor jäkel
-
-• Sovmadrass/Uppblåsbar Thermarest (för komfort och isolering, tunna skumunderlag räcker
-inte) [15 $]
-
-- ska ingå enligt reseledare
-
-• Sovsäckslakan* (siden eller fleece) [fleecelakan 15 $]
-
-- nej
+| rekomendation | kommentar | packade |
+|----|----|----|
+|Sovsäck för fyra säsonger (komforttemperatur på minst -12 °C) [35 $] |Snugpak stor jäkel | |
+|Sovmadrass/Uppblåsbar Thermarest (för komfort och isolering, tunna skumunderlag räcker inte) [15 $] |ska ingå enligt reseledare | |
+|Sovsäckslakan* (siden eller fleece) [fleecelakan 15 $] |behövs inte | |
 
 ## Kläder
+| rekomendation | kommentar | packade |
+|----|----|----|
+|Vattentät och andningsbar jacka (GORE-TEX eller likvärdig rekommenderas, måste passa över dunjacka) [15 $] | | |
+|Vattentäta överdragsbyxor (GORE-TEX eller likvärdig rekommenderas) [15 $] | | |
+|Poncho* [15 $] |Snugpak patrol poncho | |
+|Dunjacka/Varm skidjacka [20 $] |Snugpak Sleeka Elite: 2 st eller 1 st? | |
+|Tjock fleecetröja [15 $] | | |
+|Vindskyddande softshelljacka/Lätt fleecetröja x 1/2 [15 $] |Arc'teryx LEAF Naga | |
+|Fukttransporterande t-shirts x 2/3 | | |
+|Långärmad fukttransporterande topp/skjorta x 1/2 | | |
+|Vandringsbyxor [Tjocka 15 $; Lätta 15 $] |Lundhags Authentic II | |
+|Shorts |Swedemount vandringsshorts | |
+|Långkalsonger [10 $] | | |
+|Termounderställ x 1/2 [10 $] | | |
+|Underkläder (helst ej bomull) | | |
+|Solhatt (bör ha skärm eller bred kant för att skydda nacke och öron) |Rekyl Boonie | |
+|Bandana/buff (för damm och kyla) |Woolpower merinobuff | |
+|Balaklava/Varm mössa [10 $] |Olles Brorsa och Aclima merinomössa: behövs båda? | |
+|Isolerade tjocka handskar/Vantar (vind- och vattentäta för toppnatt) [10 $] | | |
+|Tunna innerhandskar (för andra dagar, bör passa under tjocka handskar vid toppen) [10 $] |hestra merino liners och Guide arbetshandskar: behövs varmare? | |
+|Badkläder (före/efter vandringen) |blåa badbyxor | |
+| | | |
 
-• Vattentät och andningsbar jacka (GORE-TEX eller likvärdig rekommenderas, måste passa
-över dunjacka) [15 $]
+## Skor
+| rekomendation | kommentar | packade |
+|----|----|----|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
-• Vattentäta överdragsbyxor (GORE-TEX eller likvärdig rekommenderas) [15 $]
-
-• Poncho* [15 $]
-
-- Snugpak patrol poncho
-
-• Dunjacka/Varm skidjacka [20 $]
-
-- Snugpak Sleeka Elite
-
-• Tjock fleecetröja [15 $]
-
-• Vindskyddande softshelljacka/Lätt fleecetröja x 1/2 [15 $]
-
-- Arc'teryx LEAF Naga 
-
-• Fukttransporterande t-shirts x 2/3
-
-• Långärmad fukttransporterande topp/skjorta x 1/2
-
-• Vandringsbyxor [Tjocka 15 $; Lätta 15 $]
-
-- Lundhags Authentic II
-
-• Shorts
-
-- Swedemount vandringsshorts
-
-• Långkalsonger [10 $]
-
-• Termounderställ x 1/2 [10 $]
-
-• Underkläder (helst ej bomull)
-
-• Solhatt (bör ha skärm eller bred kant för att skydda nacke och öron)
-
-- Rekyl Boonie
-
-• Bandana/buff (för damm och kyla)
-
-- Woolpower merinobuff
-
-• Balaklava/Varm mössa [10 $]
-
-- Olles Brorsa
-- Aclima merinomössa
-
-• Isolerade tjocka handskar/Vantar (vind- och vattentäta för toppnatt) [10 $]
-
-• Tunna innerhandskar (för andra dagar, bör passa under tjocka handskar vid toppen) [10 $]
-
-- hestra merino liners
-- Guide arbetshandskar
-
-• Badkläder (före/efter vandringen)
 
 ## Skor
 
