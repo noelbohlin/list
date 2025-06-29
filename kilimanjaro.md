@@ -4,10 +4,8 @@
 ## Bagage
 | rekomendation | antal | packade |
 |-----|-----|----|
-|Dagsryggsäck 30–40L (MÅSTE ha ett bekvämt, stödjande midjebälte. Tillgängliga fickor,
-plats för vätskebehållare, ryggventilation och fästen för vandringsstavar underlättar också
-vid vandring) [35 $]|1|1|
-| | |
+|Dagsryggsäck 30–40L (MÅSTE ha ett bekvämt, stödjande midjebälte. Tillgängliga fickor, plats för vätskebehållare, ryggventilation och fästen för vandringsstavar underlättar också vid vandring) [35$] | 1 | 1 |
+| | | |
 
 
 ## Bagage
