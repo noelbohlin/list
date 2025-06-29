@@ -23,7 +23,7 @@
 |Vattentäta överdragsbyxor (GORE-TEX eller likvärdig rekommenderas) [15 $] | | |
 |Poncho* [15 $] |Snugpak patrol poncho | |
 |Dunjacka/Varm skidjacka [20 $] |Snugpak Sleeka Elite: 2 st eller 1 st? | |
-|Tjock fleecetröja [15 $] | | |
+|Tjock fleecetröja [15 $] |Bejälströja M87 | |
 |Vindskyddande softshelljacka/Lätt fleecetröja x 1/2 [15 $] |Arc'teryx LEAF Naga | |
 |Fukttransporterande t-shirts x 2/3 | | |
 |Långärmad fukttransporterande topp/skjorta x 1/2 | | |
@@ -57,9 +57,9 @@
 |Vattenflaskor/Vätskepåse (minimikapacitet totalt 3-4L, kombination av båda för att minimera frysrisk på toppnatt) [Flaska - 10 $ styck; Påse - 15 $] | | |
 |Solglasögon (100 % UV-skydd, helst omslutande) [10 $] | | |
 |Energirika snacks (bars, torkad frukt, choklad, nötter, energitabletter) | | |
-|Vandringsstavar (starkt rekommenderade, särskilt för att minska belastning på knän) [15 $] | | |
-|Kemiska handvärmare | | |
-|Kamera & extra batterier | | |
+|Vandringsstavar (starkt rekommenderade, särskilt för att minska belastning på knän) [15 $] |behövs inte | |
+|Kemiska handvärmare |behövs inte  | |
+|Kamera & extra batterier |behövs inte, har mobiltelefon | |
 |Powerbank/Solcellsladdare | | |
 |Gaffatejp för nödreparationer | | |
 |Väckarklocka/Klocka | | |
