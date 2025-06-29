@@ -68,7 +68,7 @@
 |Resekudde (en hoprullad dunjacka eller fleece i ett örngott fungerar också) | | |
 |iPod/MP3/Musik på telefon & hörlurar | | |
 |Bok/Kindle/Kortlek | | |
-| | | |
+|Isotonic/smaksatt vätskeersättning | | |
 
 ## Reseapotek
 | rekomendation | kommentar | packade |
