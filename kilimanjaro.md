@@ -3,7 +3,7 @@
 
 ## Bagage
 | rekomendation | kommentar | packade |
-|:---|:---:|---:|
+|----|----|----|
 |Dagsryggsäck 30–40L (MÅSTE ha ett bekvämt, stödjande midjebälte. Tillgängliga fickor, plats för vätskebehållare, ryggventilation och fästen för vandringsstavar underlättar också vid vandring) [35$] | Prometheus Design Werx S.H.A.D.O | |
 |Ryggsäck/Duffelbag 70–100L (måste vara mjuk eftersom bärare bär den på huvudet) [35 $] |FM Trosspackning | |
 |Vattentätt överdrag/Torra påsar/Starka soppåsar (nödvändiga för att hålla kläder och sovutrustning torra i din väska) [15 $ vardera för dagsryggsäck och bärarväska] |1 st innersäck stridspackning | |
@@ -49,80 +49,47 @@
 |Lättare skor/tofflor (för kvällar i lägret) | | |
 |Extra skosnören | | |
 | | | |
-| | | |
-| | | |
-| | | |
-| | | |
 
 ## Allmän vandringsutrustning
-
-• LED-pannlampa plus extra batterier [15 $ – ta med AAA-batterier om du planerar att hyra]
-
-• Vattenflaskor/Vätskepåse (minimikapacitet totalt 3-4L, kombination av båda för att minimera frysrisk på toppnatt) [Flaska - 10 $ styck; Påse - 15 $]
-
-• Solglasögon (100 % UV-skydd, helst omslutande) [10 $]
-
-• Energirika snacks (bars, torkad frukt, choklad, nötter, energitabletter)
-
-• Vandringsstavar (starkt rekommenderade, särskilt för att minska belastning på knän) [15 $]
-
-- Nej
-
-• Kemiska handvärmare
-
-- Nej
-
-• Kamera & extra batterier
-
-• Powerbank/Solcellsladdare
-
-• Gaffatejp för nödreparationer
-
-• Väckarklocka/Klocka
-
-• Öronproppar
-
-• Mobiltelefon & laddkabel
-
-• Resekudde (en hoprullad dunjacka eller fleece i ett örngott fungerar också)
-
-• iPod/MP3/Musik på telefon & hörlurar
-
-• Bok/Kindle/Kortlek
+| rekomendation | kommentar | packade |
+|----|----|----|
+|LED-pannlampa plus extra batterier [15 $ – ta med AAA-batterier om du planerar att hyra] | | |
+|Vattenflaskor/Vätskepåse (minimikapacitet totalt 3-4L, kombination av båda för att minimera frysrisk på toppnatt) [Flaska - 10 $ styck; Påse - 15 $] | | |
+|Solglasögon (100 % UV-skydd, helst omslutande) [10 $] | | |
+|Energirika snacks (bars, torkad frukt, choklad, nötter, energitabletter) | | |
+|Vandringsstavar (starkt rekommenderade, särskilt för att minska belastning på knän) [15 $] | | |
+|Kemiska handvärmare | | |
+|Kamera & extra batterier | | |
+|Powerbank/Solcellsladdare | | |
+|Gaffatejp för nödreparationer | | |
+|Väckarklocka/Klocka | | |
+|Öronproppar | | |
+|Mobiltelefon & laddkabel | | |
+|Resekudde (en hoprullad dunjacka eller fleece i ett örngott fungerar också) | | |
+|iPod/MP3/Musik på telefon & hörlurar | | |
+|Bok/Kindle/Kortlek | | |
+| | | |
 
 ## Reseapotek
-
-• Smärtstillande (t.ex. paracetamol)
-
-• Antiinflammatoriska (t.ex. Ibuprofen)
-
-• Antihistaminer
-
-• Medicin mot illamående
-
-• Magmedicin
-
-• Plåster/Zinktejp
-
-• Skavsårsplåster
-
-• Halstabletter
-
-• Antiseptiska våtservetter
-
-• Diarrétabletter
-
-• Vätskeersättning
-
-• Personlig medicin
-
-• Värmesalva/Ibuprofen gel
-
-• Knäskydd
-
-• Malariatabletter (enligt läkares råd)
-
-• Diamox/Acetazolamid (enligt läkares råd)
+| rekomendation | kommentar | packade |
+|----|----|----|
+|Smärtstillande (t.ex. paracetamol) | | |
+|Antiinflammatoriska (t.ex. Ibuprofen) | | |
+|Antihistaminer | | |
+|Medicin mot illamående | | |
+|Magmedicin | | |
+|Plåster/Zinktejp | | |
+|Skavsårsplåster | | |
+|Halstabletter | | |
+|Antiseptiska våtservetter | | |
+|Diarrétabletter | | |
+|Vätskeersättning | | |
+|Personlig medicin | | |
+|Värmesalva/Ibuprofen gel | | |
+|Knäskydd | | |
+|Malariatabletter (enligt läkares råd) | | |
+|Diamox/Acetazolamid (enligt läkares råd) | | |
+| | | |
 
 ## Hygienartiklar
 
