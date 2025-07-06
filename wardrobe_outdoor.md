@@ -4,7 +4,9 @@
 
 ### Watches
 
-[Garmin Tactix 7 Pro](https://www.garmin.com/sv-SE/p/802703/pn/010-02704-11)
+[Garmin MARQ Adverturer (Gen 2)](https://www.garmin.com/sv-SE/p/783467/pn/010-02648-31/)
+
+[Casio G-Shock G-5600UE-1](https://www.casio.com/intl/watches/gshock/product.G-5600UE-1/)
 
 ### Tools
 
