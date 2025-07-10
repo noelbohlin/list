@@ -20,7 +20,7 @@
 | rekomendation | kommentar | packade |
 |----|----|----|
 |Vattentät och andningsbar jacka (GORE-TEX eller likvärdig rekommenderas, måste passa över dunjacka) [15 $] | | |
-|Vattentäta överdragsbyxor (GORE-TEX eller likvärdig rekommenderas) [15 $] | | |
+|Vattentäta överdragsbyxor (GORE-TEX eller likvärdig rekommenderas) [15 $] |Swedemount Lofoten | |
 |Poncho* [15 $] |Snugpak patrol poncho | |
 |Dunjacka/Varm skidjacka [20 $] |Snugpak Sleeka Elite: 2 st eller 1 st? | |
 |Tjock fleecetröja [15 $] |Bejälströja M87 | |
