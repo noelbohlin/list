@@ -43,11 +43,11 @@
 ## Skor
 | rekomendation | kommentar | packade |
 |----|----|----|
-|Vandringskängor (MÅSTE ha ankelstöd, vattenavvisande, väl ingångna) [35 $] | | |
+|Vandringskängor (MÅSTE ha ankelstöd, vattenavvisande, väl ingångna) [35 $] |Stefans Meindl | |
 |Vandringsstrumpor x 5+ (minst 4 par, varav minst 1 par ska vara termostrumpor) [5 $ per par] | | |
-|Damasker (Obligatoriska om du inte har långa byxor med remmar eller höga kängor) [15 $] | | |
-|Lättare skor/tofflor (för kvällar i lägret) | | |
-|Extra skosnören | | |
+|Damasker (Obligatoriska om du inte har långa byxor med remmar eller höga kängor) [15 $] |Behövs inte | |
+|Lättare skor/tofflor (för kvällar i lägret) |Xero Hiker | |
+|Extra skosnören |Ett par 160cm | |
 | | | |
 
 ## Allmän vandringsutrustning
