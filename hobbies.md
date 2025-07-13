@@ -52,7 +52,7 @@
 
 #### Dry Pedals
 
-[Nordvang '83 Drive v2.0](https://nordvangcustom.com/collections/trio/products/83-drive-v2-0-pre-order)
+[Nordvang '83 Drive v2.5](https://nordvangcustom.com/collections/all/products/83-drive-v2-5-std)
 
 [Kingtone Soloist](https://www.kingtoneguitar.com/product/the-soloist-black/)
 
