@@ -34,9 +34,9 @@
 |Underkläder (helst ej bomull) | | |
 |Solhatt (bör ha skärm eller bred kant för att skydda nacke och öron) |Rekyl Boonie | |
 |Bandana/buff (för damm och kyla) |Woolpower merinobuff | |
-|Balaklava/Varm mössa [10 $] |Olles Brorsa och Aclima merinomössa: behövs båda? | |
+|Balaklava/Varm mössa [10 $] |Olles Brorsa och Aclima merinomössa | |
 |Isolerade tjocka handskar/Vantar (vind- och vattentäta för toppnatt) [10 $] | | |
-|Tunna innerhandskar (för andra dagar, bör passa under tjocka handskar vid toppen) [10 $] |hestra merino liners och Guide arbetshandskar: behövs varmare? | |
+|Tunna innerhandskar (för andra dagar, bör passa under tjocka handskar vid toppen) [10 $] |hestra merino liners och Guide arbetshandskar | |
 |Badkläder (före/efter vandringen) |blåa badbyxor | |
 | | | |
 
