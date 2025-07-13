@@ -76,10 +76,6 @@
 
 [Two Rock 2x12 Cabinet](https://www.two-rock.com/product/cabinets/)
 
-#### [PRS HDRX](https://prsguitars.com/amplifier/hdrx_100_2023_2_2)
-
-[PRS HDRX 4x12 Cabinet](https://eu.prsguitars.com/amplifier/hdrx_4x12_cabinet_2023_2)
-
 #### [Victory VX100 The Super Kraken](https://www.victoryamps.com/product/vx100-the-super-kraken/)
 
 [Victory Kraken 212 Cabinet](https://www.victoryamps.com/product/v212-vg/)
@@ -99,10 +95,6 @@
 [Ampeg SVT 50th Anniversary](https://ampeg.com/products/heritage/svt-50thAnniversary/)
 
 [Acme Audio Motown D.I.](https://acmeaudio.net/#motowndi)
-
-## Keyboard
-
-[Korg Pa5X](https://www.korg.com/us/products/synthesizers/pa5x/)
 
 # Skiing
 
@@ -202,39 +194,39 @@
 
 ## Outdoor
 
-        - Sea To Summit Spark Ultra Lite Sleeping Bag
+- Sea To Summit Spark Ultra Lite Sleeping Bag
+    
+[Spark Ultralight Mummy Sleeping Bag for Backpacking](https://seatosummit.eu/products/spark-ultralight-sleeping-bag-series?variant=41699449602198)
+    
+- Terra Nova Jupiter Lite Bivi
+    
+[Jupiter Lite Bivi](https://www.terra-nova.co.uk/products/jupiter-lite-bivi/)
+    
+- Sea to Summit UltraLight Backpacking Air Sleeping Mat
+    
+[UltraLight Backpacking Air Sleeping Mat](https://seatosummit.eu/products/ultralight-sleeping-pad)
+    
+- Primus Lite Plus Stove System
+    
+[Lite Plus Stove System](https://www.primusequipment.com/se/sv-se/friluftskok/stormkok/lite-plus-stoves-system)
+    
+- Nitecore HC68
+    
+[HC68](https://flashlight.nitecore.com/product/hc68)
+    
+- Light my Fire Spork Ti
+    
+[Welcome to the world of Light My Fire - Official Store](https://lightmyfire.com/se/eat-drink/sporks/spork-titanium-ti)
+    
+- Ubersleben Zunden Fire Starter
+    
+[Zünden Fire Starter (3 sizes available)](https://www.uberleben.co/products/zunden?variant=36922004161)
+    
+- Fällkniven A1xb
+    
+[A1xb - Tungsten Carbide (Black coated blade) - Fällkniven](https://fallkniven.se/en/knife/a1xb/)
             
-            [Spark Ultralight Mummy Sleeping Bag for Backpacking](https://seatosummit.eu/products/spark-ultralight-sleeping-bag-series?variant=41699449602198)
-            
-        - Terra Nova Jupiter Lite Bivi
-            
-            [Jupiter Lite Bivi](https://www.terra-nova.co.uk/products/jupiter-lite-bivi/)
-            
-        - Sea to Summit UltraLight Backpacking Air Sleeping Mat
-            
-            [UltraLight Backpacking Air Sleeping Mat](https://seatosummit.eu/products/ultralight-sleeping-pad)
-            
-        - Primus Lite Plus Stove System
-            
-            [Lite Plus Stove System](https://www.primusequipment.com/se/sv-se/friluftskok/stormkok/lite-plus-stoves-system)
-            
-        - Nitecore HC68
-            
-            [HC68](https://flashlight.nitecore.com/product/hc68)
-            
-        - Light my Fire Spork Ti
-            
-            [Welcome to the world of Light My Fire - Official Store](https://lightmyfire.com/se/eat-drink/sporks/spork-titanium-ti)
-            
-        - Ubersleben Zunden Fire Starter
-            
-            [Zünden Fire Starter (3 sizes available)](https://www.uberleben.co/products/zunden?variant=36922004161)
-            
-        - Fällkniven A1xb
-            
-            [A1xb - Tungsten Carbide (Black coated blade) - Fällkniven](https://fallkniven.se/en/knife/a1xb/)
-            
-        - Thermos
+Thermos
 
 ## Cycling
 
