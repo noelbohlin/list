@@ -6,8 +6,6 @@
 
 [Dunlop Tortex 1.14](https://www.jimdunlop.com/tortex-standard-pick-1-14mm/)
 
-[Dunlop Tortex 0.60](https://www.jimdunlop.com/tortex-standard-pick-60mm/)
-
 [Dunlop Eric Johnson Jazz III](https://www.jimdunlop.com/eric-johnson-jazz-iii/)
 
 ## Acoustic Guitars
