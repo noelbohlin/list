@@ -62,8 +62,6 @@
 
 medium gray trousers
 
-navy trousers
-
 ## Sweaters
 
 [Stenströms Navy Cable Knit Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/navy-cable-knit-merino-half-zip?att=TA==)
