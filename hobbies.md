@@ -52,7 +52,7 @@
 
 [Nordvang '83 Drive v2.5](https://nordvangcustom.com/collections/all/products/83-drive-v2-5-std)
 
-[Kingtone Soloist](https://www.kingtoneguitar.com/product/the-soloist-black/)
+[Kingtone Duellist](https://www.kingtoneguitar.com/product/the-duellist-pedal-board-friendly/)
 
 [Origin Effects Cali76 Stacked Edition](https://origineffects.com/product/cali76-stacked-edition/)
 
