@@ -20,7 +20,9 @@
 
 [Savotta Keikka 80L](https://www.savotta.fi/products/keikka-80l?variant=39319053140102)
 
-4 [Silva Dry Bag TPU 6L](https://silvasweden.com/products/dry-bags-tpu?variant=44368583131458)
+3 [Silva Dry Bag TPU 6L](https://silvasweden.com/products/dry-bags-tpu?variant=44368583131458)
+
+3 [Silva Dry Bag TPU 24L](https://silvasweden.com/products/dry-bags-tpu?variant=44368583196994)
 
 ## Shoes
 
@@ -34,11 +36,9 @@
 
 ### Socks
 
-5 [Injinji Liner Crew Merino Wool](https://www.injinji.com/liner-crew-merino-wool.html)
-
 5 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
-3 [Woolpower Socks 400](https://woolpower.se/shop/produkt/socks-400/)
+2 [Woolpower Socks 400](https://woolpower.se/shop/produkt/socks-400/)
 
 ## Base Layer
 
