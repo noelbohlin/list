@@ -100,8 +100,6 @@
 
 [Taiga Forest Jacket 3.0](https://www.taiga.se/sv/produkter/forest-jacket-3-0)
 
-[Carinthia MIG 4.0](https://www.carinthia.eu/en/mig-4-0-jacket-sof-olive-m-p6352/)
-
 [Arc'teryx LEAF Cold WX Jacket LT (Gen 2.1) Men's](https://leaf.arcteryx.com/se/en/shop/mens/cold-wx-jacket-lt-gen-2-1-9548)
 
 ### Bottom
