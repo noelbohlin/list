@@ -12,7 +12,7 @@
 
 [Leatherman MUT](https://www.leatherman.com/mut-29.html)
 
-[Nitecore HC68](https://flashlight.nitecore.com/product/hc68)
+[Silva Free 3000 M](https://silvasweden.com/products/free-3000-m)
 
 ## Bags
 
