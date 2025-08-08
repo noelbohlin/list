@@ -46,8 +46,6 @@
 
 ## Shirts
 
-4 [Eton Jacquard Polo Shirt](https://www.etonshirts.com/us/en/product/dark-green-diamond-jaquard-polo-shirt)
-
 4 [S.E.H Kelly Popover in linen poplin in mallard green](https://www.sehkelly.com/shop/mid-layers/popover/popover-in-linen-poplin-in-mallard-green/)
 
 4 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
