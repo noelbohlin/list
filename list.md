@@ -16,10 +16,8 @@
 
 # Garage
 
-[Volvo V90](https://www.volvocars.com/se/cars/v90-hybrid/)
-
 [BRABUS 800 4x4² Stealth Green](https://www.brabus.com/en/cars/supercars/brabus-800-4x4-sg.html)
 
-[Automobilii Pininfarina Battista](https://automobili-pininfarina.com/battista)
+[Rimac Nevera R](https://www.rimac-automobili.com/NeveraR/)
 
 [Koenigsegg CC850](https://www.koenigsegg.com/model/cc850)
