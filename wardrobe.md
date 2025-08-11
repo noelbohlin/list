@@ -56,7 +56,7 @@
 
 ## Trousers
 
-[The Unbranded Brand UB321 Straight Fit - 21oz Heavyweight Indigo Selvedge Denim](https://theunbrandedbrand.com/products/ub321-straight-fit-heavyweight-21oz-indigo-selvedge)
+[S.E.H Kelly Work trousers in cotton duck in black](https://www.sehkelly.com/shop/trousers/work-trousers/work-trousers-in-cotton-duck-in-black/)
 
 3 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
