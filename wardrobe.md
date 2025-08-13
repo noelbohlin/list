@@ -72,11 +72,11 @@ medium gray trousers
 
 ## Jackets
 
-[Zegna Navy Blue Oasi Lino Shirt Jacket](https://www.zegna.com/se-en/ready-to-wear/blazers/product.navy-blue-oasi-lino-shirt-jacket.30317129/)
-
 [Private White V.C. The Belted Safari - Cinnamon](https://www.privatewhitevc.com/products/the-belted-safari-cinnamon)
 
-Medium gray blazer
+Navy blue linen blazer
 
-Green blazer
+Medium gray wool blazer
+
+Green wool blazer
 
