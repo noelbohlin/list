@@ -86,7 +86,7 @@
 
 [Woolpower Beanie Rib](https://woolpower.se/shop/produkt/beanie-rib/)
 
-[Lundhags Base II Cap](https://lundhags.com/se/base-ii-cap--1142331-604)
+[UF Pro Striker Gen.3 Boonie Hat](https://ufpro.com/caps/striker-gen3-boonie-hat)
 
 ### Gloves
 
