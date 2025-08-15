@@ -46,13 +46,13 @@
 
 ## Shirts
 
-4 [S.E.H Kelly Popover in linen poplin in mallard green](https://www.sehkelly.com/shop/mid-layers/popover/popover-in-linen-poplin-in-mallard-green/)
+3 [S.E.H Kelly Popover in linen poplin in mallard green](https://www.sehkelly.com/shop/mid-layers/popover/popover-in-linen-poplin-in-mallard-green/)
 
-4 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
+3 [Eton Solid Plain Weave Linen Shirt](https://www.etonshirts.com/us/en/product/white-band-collar-linen-shirt)
 
 4 [Eton Custom Made Light blue stripe merino, Button under, Slim fit](https://www.etonshirts.com/us/en/category/custom-made)
 
-4 [Eton White Signature Twill Shirt – French Cuffs](https://www.etonshirts.com/us/en/product/white-french-cuff-shirt)
+2 [Eton White Signature Twill Shirt – French Cuffs](https://www.etonshirts.com/us/en/product/white-french-cuff-shirt)
 
 ## Trousers
 
