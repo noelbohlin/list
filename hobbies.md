@@ -78,22 +78,6 @@
 
 [Victory Kraken 212 Cabinet](https://www.victoryamps.com/product/v212-vg/)
 
-## Bass Guitar
-
-### Bass Guitars
-
-#### [Fender Custom Shop 63 P Bass Journeyman Relic®](http://www.fendercustomshop.com/basses/precision-bass/63-p-bass-journeyman-relic-rosewood-fingerboard-aged-3-color-sunburst/)
-
-[La Bella Deep Talkin 0760M Strings](https://www.labella.com/strings/category/standard-long-scale-4-string-deep-talkin-bass-flat-wounds-bass/)
-
-#### [Fodera Quilted Mahogany Imperial 5 Elite](https://fodera.smugmug.com/Newborn-Gallery-Vol-VI/Newborn-1985/i-7Cg25TX)
-
-### Bass Amps
-
-[Ampeg SVT 50th Anniversary](https://ampeg.com/products/heritage/svt-50thAnniversary/)
-
-[Acme Audio Motown D.I.](https://acmeaudio.net/#motowndi)
-
 # Skiing
 
 ### Nordic
@@ -207,19 +191,7 @@
 - Primus Lite Plus Stove System
     
 [Lite Plus Stove System](https://www.primusequipment.com/se/sv-se/friluftskok/stormkok/lite-plus-stoves-system)
-    
-- Nitecore HC68
-    
-[HC68](https://flashlight.nitecore.com/product/hc68)
-    
-- Light my Fire Spork Ti
-    
-[Welcome to the world of Light My Fire - Official Store](https://lightmyfire.com/se/eat-drink/sporks/spork-titanium-ti)
-    
-- Ubersleben Zunden Fire Starter
-    
-[Zünden Fire Starter (3 sizes available)](https://www.uberleben.co/products/zunden?variant=36922004161)
-    
+       
 - Fällkniven A1xb
     
 [A1xb - Tungsten Carbide (Black coated blade) - Fällkniven](https://fallkniven.se/en/knife/a1xb/)
