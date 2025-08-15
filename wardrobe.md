@@ -62,6 +62,8 @@
 
 medium gray trousers
 
+Brown Trousers
+
 ## Sweaters
 
 [Stenströms Navy Cable Knit Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/navy-cable-knit-merino-half-zip?att=TA==)
@@ -75,6 +77,8 @@ medium gray trousers
 [Private White V.C. The Belted Safari - Cinnamon](https://www.privatewhitevc.com/products/the-belted-safari-cinnamon)
 
 Navy blue linen blazer
+
+Linen Blazer
 
 Medium gray wool blazer
 
