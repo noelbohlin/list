@@ -60,7 +60,7 @@
 
 3 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
-3 medium gray trousers
+3 medium gray wool trousers
 
 2 Brown Trousers
 
@@ -80,7 +80,5 @@ Navy blue linen blazer
 
 Linen Blazer
 
-Medium gray wool blazer
-
-Green wool blazer
+Medium gray double breasted wool blazer
 
