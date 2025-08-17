@@ -68,9 +68,9 @@
 
 [Stenströms Navy Cable Knit Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/navy-cable-knit-merino-half-zip?att=TA==)
 
-[Brioni Military green and taupe cashmere and wool half-zip mockneck sweater](https://www.brioni.com/en/us/pr/military-green-and-taupe-cashmere-and-wool-half-zip-mockneck-sweater-UMS70LOCK123230?from=search)
+[Stenströms Green Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/green-merino-wool-half-zip)
 
-[Brioni Beige cashmere and vicuña sweater](https://www.brioni.com/en/us/pr/beige-cashmere-and-vicuna-sweater-UMQ90LO1K119700?from=search)
+[Stenströms Light beige Cashmere Crew Neck](https://stenstroms.com/se/men/category/knitwear-sweatshirts/beige-cashmere-crew-neck-1)
 
 ## Jackets
 
