@@ -16,6 +16,8 @@
 
 ## Watches
 
+[Omega Seamaster Diver 300 43.5 mm, black ceramic on rubber strap](https://www.omegawatches.com/en-se/watch-omega-seamaster-diver-300m-co-axial-master-chronometer-43-5-mm-21092442001003)
+
 [Omega Seamaster 300 41 mm, Bronze gold on leather strap](https://www.omegawatches.com/en-se/watch-omega-seamaster-300-co-axial-master-chronometer-41-mm-23492412110001)
 
 [Audemars PiguetRoyal Oak Selfwinding Flying Tourbillon Openworked](https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26735SG.OO.1320SG.01.html)
