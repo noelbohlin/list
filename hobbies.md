@@ -54,8 +54,6 @@
 
 [Kingtone Duellist](https://www.kingtoneguitar.com/product/the-duellist-pedal-board-friendly/)
 
-[Origin Effects Cali76 Stacked Edition](https://origineffects.com/product/cali76-stacked-edition/)
-
 [Chase Bliss Audio Automatone Preamp MkII](https://www.chasebliss.com/preamp-mkii)
 
 #### Wet Pedals
