@@ -1,11 +1,5 @@
 # Wardobe
 
-## Electronics
-
-[ASUS Zenfone 10](https://www.asus.com/se/mobile-handhelds/phones/zenfone/zenfone-10/)
-
-[Sony WF-1000XM5](https://www.sony.se/headphones/products/wf-1000xm5?sku=wf1000xm5b.ce7)
-
 ## Accessories
 
 [Cappla Wallet Midnight Black](https://cappla.com/collections/wallets/products/midnight-black)
