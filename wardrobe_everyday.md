@@ -46,8 +46,6 @@
 
 4 [Eton Custom Made Light blue stripe merino, Button under, Slim fit](https://www.etonshirts.com/us/en/category/custom-made)
 
-2 [Eton White Signature Twill Shirt – French Cuffs](https://www.etonshirts.com/us/en/product/white-french-cuff-shirt)
-
 ## Trousers
 
 2 [S.E.H Kelly Work trousers in cotton duck in black](https://www.sehkelly.com/shop/trousers/work-trousers/work-trousers-in-cotton-duck-in-black/)
