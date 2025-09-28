@@ -1,9 +1,9 @@
 # Wardrobe
 
-# Suit
+## Suit
 
-# Black Tie
+## Black Tie
 
-# White Tie
+## White Tie
 
-# Morning Suit
+## Morning Suit
