@@ -1,5 +1,9 @@
 # Wardrobe
 
+## Accessories
+
+## Shoes
+
 ## Suit
 
 ## Black Tie
