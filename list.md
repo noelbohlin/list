@@ -21,3 +21,9 @@
 [Rimac Nevera R](https://www.rimac-automobili.com/NeveraR/)
 
 [Koenigsegg CC850](https://www.koenigsegg.com/model/cc850)
+
+## EDC Electronics
+
+[ASUS Zenfone 10](https://www.asus.com/se/mobile-handhelds/phones/zenfone/zenfone-10/)
+
+[Sony WF-1000XM5](https://www.sony.se/headphones/products/wf-1000xm5?sku=wf1000xm5b.ce7)
