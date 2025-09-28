@@ -24,10 +24,6 @@
 
 [Carmina Cordovan Penny Loafers 80832 Robert](https://www.carminashoemaker.com/se/en/penny-loafer-burgundy-cordovan-80832)
 
-[Crockett & Jones Lonsdale Dark Brown Antique Calf](https://eu.crockettandjones.com/collections/lonsdale/products/lonsdale-darkbrown-calf)
-
-[Crockett & Jones Bradford Black Calf](https://eu.crockettandjones.com/collections/mens-derbys-collection/products/bradford-black-calf-g)
-
 ## Underwear
 
 4 [Wool & Prince 100% Wool Undershirt](https://woolandprince.com/products/natural-white-v-neck-undershirt)
