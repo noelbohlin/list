@@ -38,6 +38,8 @@
 
 4 [Eton Custom Made White merino, Band collar, Slim fit](https://www.etonshirts.com/us/en/category/custom-made)
 
+4 [Unbound Merino Men's Long Sleeve Merino Henley](https://unboundmerino.com/products/merino-wool-henley?variant=39993432277086)
+
 4 [Eton Custom Made Light blue stripe merino, Button under, Slim fit](https://www.etonshirts.com/us/en/category/custom-made)
 
 ## Trousers
