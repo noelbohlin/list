@@ -6,8 +6,6 @@
 
 [Audemars Piguet Royal OakDouble Balance Wheel Openworked](https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/15416CE.OO.1225CE.01.html)
 
-[Audemars Piguet Royal Oak Perpetual Calendar](https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26674SG.OO.1320SG.01.html)
-
 [Audemars PiguetRoyal Oak Selfwinding Flying Tourbillon Openworked](https://www.audemarspiguet.com/com/en/watch-collection/royal-oak/26735SG.OO.1320SG.01.html)
 
 ## Shoes
