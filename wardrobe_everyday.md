@@ -22,8 +22,6 @@
 
 ## Underwear
 
-4 [Wool & Prince 100% Wool Undershirt](https://woolandprince.com/products/natural-white-v-neck-undershirt)
-
 12 [Woolpower Boxer M Lite](https://woolpower.se/shop/produkt/boxer-ms-lite/)
 
 8 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
