@@ -22,6 +22,8 @@
 
 8 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
 
+4 [Wool & Prince 100% Wool Undershirt](https://woolandprince.com/products/natural-white-v-neck-undershirt)
+
 ## Shirts
 
 4 [Eton Custom Made Light blue stripe merino, Button under, Slim fit](https://www.etonshirts.com/us/en/category/custom-made)
