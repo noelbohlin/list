@@ -16,6 +16,16 @@
 
 [Carmina Cordovan Wholecut Oxford 910 Rain](https://www.carminashoemaker.com/se/en/oxford-cordovan-black-910)
 
+## Underwear
+
+12 [Woolpower Boxer M Lite](https://woolpower.se/shop/produkt/boxer-ms-lite/)
+
+8 [Silverlight Socks](https://silverlight.store/product/silverlight-socks/)
+
+## Shirts
+
+4 [Eton Custom Made Light blue stripe merino, Button under, Slim fit](https://www.etonshirts.com/us/en/category/custom-made)
+
 ## Suit
 
 ## Black Tie
