@@ -44,8 +44,6 @@
 
 3 medium gray wool trousers
 
-2 Brown Trousers
-
 ## Sweaters
 
 [Stenströms Navy Cable Knit Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/navy-cable-knit-merino-half-zip?att=TA==)
@@ -59,8 +57,6 @@
 [Private White V.C. The Belted Safari - Cinnamon](https://www.privatewhitevc.com/products/the-belted-safari-cinnamon)
 
 [WeatherWool South Shore Chore Coat](https://weatherwool.com/products/south-shore-chore-coat?variant=45011731185911)
-
-Linen Blazer
 
 Medium gray double breasted wool blazer
 
