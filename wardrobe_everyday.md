@@ -16,7 +16,7 @@
 
 ## Shoes
 
-[Nicks Falcon - W&C Veg Tan](https://nicksboots.com/falcon-boot-wc/)
+[Nicks Lace Up](https://nicksboots.com/products/lace-up-work-mto)
 
 [Carmina Cordovan Penny Loafers 80832 Robert](https://www.carminashoemaker.com/se/en/penny-loafer-burgundy-cordovan-80832)
 
