@@ -24,8 +24,6 @@
 
 [Fender Locking Tuners](https://shop.fender.com/en-SE/parts/stratocaster-parts/locking-stratocastertelecaster-tuning-machines/0990818000.html)
 
-[Dunlop PENDLETON® X DUNLOP ORIGINAL SURF PLAID WOOLEN AUTHENTICS™ STRAP](https://www.jimdunlop.com/pendleton-x-dunlop-original-surf-plaid-woolen-authentics-strap/)
-
 [Ernie Ball 10.5-48 Strings](https://www.ernieball.com/guitar-strings/electric-guitar-strings/slinky-nickel-wound-electric-guitar-strings/6-string#P02213)
 
 #### [Strandberg Boden Original 6 Neck-Thru](https://strandbergguitars.com/eu/product/boden-original-6-neck-thru-brown-burst/)
@@ -35,8 +33,6 @@
 [Fralin Modern PAF Neck](https://www.fralinpickups.com/product/modern-paf/)
 
 [BareKnuckle Silo Bridge](https://www.bareknucklepickups.co.uk/pickup/humbucker/silo)
-
-[Dunlop DELUXE SEATBELT BLACK STRAP](https://www.jimdunlop.com/32700102001-deluxe-seatbelt-strap/)
 
 #### [PRS Private Stock Super Eagle II](https://prsguitars.com/electrics/model/private_stock_super_eagle_ii)
 
@@ -54,13 +50,13 @@
 
 [Kingtone Duellist](https://www.kingtoneguitar.com/product/the-duellist-pedal-board-friendly/)
 
-[Chase Bliss Audio Automatone Preamp MkII](https://www.chasebliss.com/preamp-mkii)
+[Chase Bliss Audio Preamp MkII](https://www.chasebliss.com/preamp-mkii)
 
 #### Wet Pedals
 
 [Poly Effects Beebo](https://www.polyeffects.com/polyeffects/p/beebo)
 
-[Chase Bliss Tonal Recall RKM](https://www.chaseblissaudio.com/shop-pedals/tonal-recall-rkm)
+[Chase Bliss Audio CXM1978](https://www.chasebliss.com/cxm-1978)
 
 ### Amps
 
@@ -171,30 +167,6 @@
 [Finis Swim Parachute](https://www.finisswim.com/Swim-Parachute?quantity=1&custcol9=5)
                 
 [Arena Swim Snorkel Pro](https://www.arenasport.com/en_us/004826-swim-snorkel-pro-iii.html#280=38840)
-
-## Outdoor
-
-- Sea To Summit Spark Ultra Lite Sleeping Bag
-    
-[Spark Ultralight Mummy Sleeping Bag for Backpacking](https://seatosummit.eu/products/spark-ultralight-sleeping-bag-series?variant=41699449602198)
-    
-- Terra Nova Jupiter Lite Bivi
-    
-[Jupiter Lite Bivi](https://www.terra-nova.co.uk/products/jupiter-lite-bivi/)
-    
-- Sea to Summit UltraLight Backpacking Air Sleeping Mat
-    
-[UltraLight Backpacking Air Sleeping Mat](https://seatosummit.eu/products/ultralight-sleeping-pad)
-    
-- Primus Lite Plus Stove System
-    
-[Lite Plus Stove System](https://www.primusequipment.com/se/sv-se/friluftskok/stormkok/lite-plus-stoves-system)
-       
-- Fällkniven A1xb
-    
-[A1xb - Tungsten Carbide (Black coated blade) - Fällkniven](https://fallkniven.se/en/knife/a1xb/)
-            
-Thermos
 
 ## Cycling
 
