@@ -39,6 +39,7 @@
 ## Trousers
 
 2 [The Unbranded Brand UB721 Wide Fit - 21oz Indigo Selvedge Denim](https://theunbrandedbrand.com/products/ub721-wide-fit-21oz-indigo-selvedge-denim?variant=46718896275643)
+
 3 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
 3 medium gray wool trousers
