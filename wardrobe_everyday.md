@@ -38,8 +38,7 @@
 
 ## Trousers
 
-2 [S.E.H Kelly Work trousers in cotton duck in black](https://www.sehkelly.com/shop/trousers/work-trousers/work-trousers-in-cotton-duck-in-black/)
-
+2 [The Unbranded Brand UB721 Wide Fit - 21oz Indigo Selvedge Denim](https://theunbrandedbrand.com/products/ub721-wide-fit-21oz-indigo-selvedge-denim?variant=46718896275643)
 3 [Zegna Light Beige Oasi Lino Pants](https://www.zegna.com/se-en/ready-to-wear/pants/product.light-beige-oasi-lino-pants.31045612/)
 
 3 medium gray wool trousers
