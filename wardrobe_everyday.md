@@ -58,5 +58,4 @@
 
 [WeatherWool South Shore Chore Coat](https://weatherwool.com/products/south-shore-chore-coat?variant=45011731185911)
 
-Medium gray double breasted wool blazer
-
+[Private White V.C. The Despatch Rider's Trench - Olive](https://www.privatewhitevc.com/products/the-despatch-riders-trench?variant=55640982946171)
