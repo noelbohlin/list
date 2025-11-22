@@ -56,6 +56,6 @@
 
 [Private White V.C. The Belted Safari - Cinnamon](https://www.privatewhitevc.com/products/the-belted-safari-cinnamon)
 
-[WeatherWool South Shore Chore Coat](https://weatherwool.com/products/south-shore-chore-coat?variant=45011731185911)
+[Flint and tinder Flannel-Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
 
 [Private White V.C. The Despatch Rider's Trench - Olive](https://www.privatewhitevc.com/products/the-despatch-riders-trench?variant=55640982946171)
