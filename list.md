@@ -26,4 +26,6 @@
 
 [ASUS Zenfone 10](https://www.asus.com/se/mobile-handhelds/phones/zenfone/zenfone-10/)
 
+[OnePlus 15](https://www.oneplus.com/se/oneplus-15)
+
 [Sony WF-1000XM5](https://www.sony.se/headphones/products/wf-1000xm5?sku=wf1000xm5b.ce7)
