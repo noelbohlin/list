@@ -54,8 +54,10 @@
 
 ## Jackets
 
+[Flint and tinder Flannel-Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
+
 [Private White V.C. The Belted Safari - Cinnamon](https://www.privatewhitevc.com/products/the-belted-safari-cinnamon)
 
-[Flint and tinder Flannel-Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
+[Private White V.C. The PS English Tweed Overcoat - Dark Brown](https://www.privatewhitevc.com/products/the-ps-english-tweed-overcoat-dark-brown?variant=55640892244347)
 
 [Private White V.C. The Despatch Rider's Trench - Olive](https://www.privatewhitevc.com/products/the-despatch-riders-trench?variant=55640982946171)
