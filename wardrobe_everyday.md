@@ -46,7 +46,7 @@
 
 ## Sweaters
 
-[Stenströms Navy Cable Knit Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/navy-cable-knit-merino-half-zip?att=TA==)
+[Stenströms Navy Chunky Merino Wool Roll Neck](https://stenstroms.com/se/men/category/knitwear-sweatshirts/navy-chunky-merino-wool-roll-neck-1)
 
 [Stenströms Green Merino Wool Half Zip](https://stenstroms.com/se/men/category/knitwear-sweatshirts/green-merino-wool-half-zip)
 
