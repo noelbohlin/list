@@ -78,15 +78,19 @@
 
 #### Double Poling
 
-[Fischer Speedmax 3D Double Poling Sprint](https://www.fischersports.com/speedmax-3d-double-poling-sprint-2938?c=927)
+[Madshus Redline DP1 Skis 2026](https://madshus.com/en-se/p/redline-dp1-skis-2526)
 
-[Fischer WORLDCUP CLASSIC IFP](https://www.fischersports.com/us_en/worldcup-classic-ifp-2995)
+[Madshus Xcelerator Pro Classic Binding 2026](https://madshus.com/en-se/p/xcelerator-pro-classic-binding-2526)
+
+[Leki HRC Max](https://www.leki.com/se/en/HRC-max/652400012170)
 
 #### Classic
 
-[Fischer SPEEDMAX 3D CLASSIC PLUS 812](https://www.fischersports.com/speedmax-3d-classic-plus-812-medium-2983)
+[Madshus Redline Classic K2 Skis 2026](https://madshus.com/en-se/p/redline-classic-k2-skis-2526)
 
-[Fischer WORLDCUP CLASSIC IFP](https://www.fischersports.com/us_en/worldcup-classic-ifp-2995)
+[Madshus Xcelerator Pro Classic Binding 2026](https://madshus.com/en-se/p/xcelerator-pro-classic-binding-2526)
+
+[Leki HRC Max](https://www.leki.com/se/en/HRC-max/652400012170)
 
 #### Skate
 
@@ -94,13 +98,13 @@
 
 [Fischer Worldcup Skate IFP](https://www.fischersports.com/us_en/worldcup-skate-ifp-2996)
 
-#### Boots and Poles
+[Leki HRC Max](https://www.leki.com/se/en/HRC-max/652400012170)
+
+#### Boots
 
 [Alpina Elite 3.0 CL DP](https://www.alpinasports.com/en/nordic/elite-3-0/e30-cl-dp-53651)
 
 [Alpina Elite 3.0 SK](https://www.alpinasports.com/en/nordic/elite-3-0/e30-sk-53611)
-
-2 [Leki HRC Max](https://www.leki.com/se/en/HRC-max/652400012170)
 
 ### Roller
 
@@ -191,11 +195,3 @@ Eddy Merckx Corsa Extra
 [Fizik Vento Stabilita Carbon Road Cycling Shoe](https://www.fizik.com/eu_en/vento-stabilita-carbon.html)
 
 [Specilaized Rime 2.0 Mountain Bike Shoe | Specialized.com](https://www.specialized.com/se/en/rime-2-0-mountain-bike-shoe/p/172884?color=268956-172884)
-
-## Climbing
-
-[BlackDiamond Solution Harness](https://www.blackdiamondequipment.com/en_US/product/solution-mens/?colorid=7305)
-
-[Rúngne Chalk Bag](https://rungne.com/products/rungne-chalk-bag-blue-denim)
-
-[La Sportiva Skwama](https://www.lasportiva.com/en/skwama-black-10sby)
