@@ -94,7 +94,7 @@
 
 #### Skate
 
-[Fischer SPEEDMAX 3D SKATE PLUS](https://www.fischersports.com/speedmax-3d-skate-plus-medium-2971)
+[Fischer Speedmax 100HE Skate Plus 610](https://www.fischersports.com/speedmax-100he-skate-plus-610-stiff/N04625)
 
 [Fischer Worldcup Skate IFP](https://www.fischersports.com/us_en/worldcup-skate-ifp-2996)
 
