@@ -52,6 +52,8 @@
 
 [Stenströms Light beige Cashmere Crew Neck](https://stenstroms.com/se/men/category/knitwear-sweatshirts/beige-cashmere-crew-neck-1)
 
+[S.E.H Kelly Crewneck jumper in throstle](https://sehkelly.com/en-se/products/crewneck-jumper-in-throstle)
+
 ## Jackets
 
 [Flint and tinder Flannel-Lined Waxed Trucker Jacket](https://huckberry.com/store/flint-and-tinder/category/p/55166-flannel-lined-waxed-trucker-jacket)
